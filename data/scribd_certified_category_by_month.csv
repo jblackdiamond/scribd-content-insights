@@ -1,0 +1,696 @@
+month,category,category_unique_engaged_users
+2021-05,Sci-Fi,1
+2021-09,Fantasy,1
+2021-09,Self-Help,1
+2021-10,Cooking,1
+2021-11,Self-Help,1
+2022-01,Fake History of Imaginary Countries,1
+2022-01,Sci-Fi,1
+2022-02,Fantasy,1
+2022-03,Book Club Chatter,1
+2022-03,Fake History of Imaginary Countries,1
+2022-03,Self-Help,1
+2022-04,Fake History of Imaginary Countries,1
+2022-04,General Nonsense,1
+2022-05,Fantasy,1
+2022-06,Book Club Chatter,1
+2022-06,Fake History of Imaginary Countries,2
+2022-06,Romance,1
+2022-07,Ask the Community,1
+2022-07,Fake History of Imaginary Countries,2
+2022-07,Fantasy,1
+2022-07,General Nonsense,2
+2022-07,Memes About Reading,1
+2022-07,Mystery,2
+2022-08,Ask the Community,2
+2022-08,Fantasy,1
+2022-08,Sci-Fi,1
+2022-08,Self-Help,1
+2022-08,Serialized Drama,2
+2022-09,Fantasy,1
+2022-09,Memes About Reading,1
+2022-09,Mystery,1
+2022-09,Self-Help,2
+2022-10,Cooking,1
+2022-10,Fan Theories,1
+2022-10,How-To Guides,1
+2022-10,Indie Fiction,1
+2022-10,Memes About Reading,1
+2022-10,Mystery,1
+2022-11,Ask the Community,2
+2022-11,Fake History of Imaginary Countries,3
+2022-11,Fantasy,1
+2022-11,How-To Guides,3
+2022-11,Memes About Reading,1
+2022-11,Mystery,2
+2022-11,Self-Help,2
+2022-12,Ask the Community,1
+2022-12,Book Club Chatter,1
+2022-12,Fake History of Imaginary Countries,1
+2022-12,Fantasy,2
+2022-12,Serialized Drama,1
+2023-01,Ask the Community,1
+2023-01,Cooking,1
+2023-01,Fake History of Imaginary Countries,2
+2023-01,Fan Theories,1
+2023-01,Fantasy,1
+2023-01,Sci-Fi,1
+2023-02,Fantasy,2
+2023-02,Memes About Reading,1
+2023-02,Self-Help,1
+2023-03,Ask the Community,1
+2023-03,Cooking,1
+2023-03,Fake History of Imaginary Countries,2
+2023-03,Fan Theories,1
+2023-03,Fantasy,1
+2023-03,Memes About Reading,1
+2023-03,Mystery,2
+2023-03,Self-Help,2
+2023-03,Serialized Drama,1
+2023-04,Ask the Community,1
+2023-04,Fake History of Imaginary Countries,1
+2023-04,Fan Theories,3
+2023-04,How-To Guides,1
+2023-04,Memes About Reading,2
+2023-04,Mystery,1
+2023-04,Self-Help,3
+2023-05,Ask the Community,2
+2023-05,Cooking,1
+2023-05,Fake History of Imaginary Countries,2
+2023-05,Fantasy,1
+2023-05,General Nonsense,1
+2023-05,How-To Guides,2
+2023-05,Indie Fiction,1
+2023-05,Memes About Reading,1
+2023-05,Mystery,1
+2023-05,Self-Help,1
+2023-06,Ask the Community,1
+2023-06,Fake History of Imaginary Countries,1
+2023-06,Fan Theories,3
+2023-06,Fantasy,1
+2023-06,General Nonsense,2
+2023-06,How-To Guides,1
+2023-06,Memes About Reading,1
+2023-06,Self-Help,1
+2023-06,Serialized Drama,2
+2023-07,Ask the Community,2
+2023-07,Book Club Chatter,1
+2023-07,Cooking,2
+2023-07,Definitely Not Fan Fiction,2
+2023-07,Fake History of Imaginary Countries,1
+2023-07,Fan Theories,2
+2023-07,Fantasy,4
+2023-07,General Nonsense,4
+2023-07,How-To Guides,1
+2023-07,Mystery,3
+2023-07,Romance,1
+2023-08,Ask the Community,2
+2023-08,Book Club Chatter,1
+2023-08,Cooking,1
+2023-08,Definitely Not Fan Fiction,1
+2023-08,Fake History of Imaginary Countries,1
+2023-08,Fan Theories,4
+2023-08,Fantasy,2
+2023-08,General Nonsense,2
+2023-08,Indie Fiction,1
+2023-08,Memes About Reading,1
+2023-08,Sci-Fi,2
+2023-08,Self-Help,2
+2023-09,Ask the Community,3
+2023-09,Book Club Chatter,1
+2023-09,Cooking,1
+2023-09,Fake History of Imaginary Countries,2
+2023-09,Fan Theories,1
+2023-09,Fantasy,2
+2023-09,General Nonsense,1
+2023-09,Indie Fiction,1
+2023-09,Memes About Reading,2
+2023-09,Mystery,1
+2023-09,Poetry (Bad),1
+2023-09,Romance,1
+2023-09,Sci-Fi,1
+2023-09,Self-Help,1
+2023-09,Serialized Drama,2
+2023-10,Ask the Community,2
+2023-10,Book Club Chatter,2
+2023-10,Cooking,1
+2023-10,Fan Theories,1
+2023-10,Fantasy,3
+2023-10,General Nonsense,2
+2023-10,How-To Guides,2
+2023-10,Indie Fiction,1
+2023-10,Memes About Reading,1
+2023-10,Mystery,1
+2023-10,Romance,1
+2023-10,Self-Help,2
+2023-10,Serialized Drama,1
+2023-11,Ask the Community,4
+2023-11,Book Club Chatter,2
+2023-11,Fan Theories,2
+2023-11,Fantasy,3
+2023-11,General Nonsense,6
+2023-11,Indie Fiction,1
+2023-11,Memes About Reading,3
+2023-11,Mystery,3
+2023-11,Romance,2
+2023-11,Self-Help,3
+2023-11,Serialized Drama,2
+2023-12,Ask the Community,1
+2023-12,Cooking,1
+2023-12,Definitely Not Fan Fiction,1
+2023-12,Fake History of Imaginary Countries,4
+2023-12,Fan Theories,1
+2023-12,Fantasy,1
+2023-12,General Nonsense,3
+2023-12,Indie Fiction,3
+2023-12,Memes About Reading,3
+2023-12,Mystery,1
+2023-12,Romance,1
+2023-12,Self-Help,1
+2023-12,Serialized Drama,1
+2024-01,Ask the Community,4
+2024-01,Book Club Chatter,3
+2024-01,Cooking,1
+2024-01,Fake History of Imaginary Countries,2
+2024-01,Fan Theories,2
+2024-01,Fantasy,3
+2024-01,General Nonsense,2
+2024-01,Memes About Reading,5
+2024-01,Poetry (Bad),1
+2024-01,Romance,1
+2024-01,Sci-Fi,1
+2024-01,Self-Help,4
+2024-02,Ask the Community,3
+2024-02,Book Club Chatter,1
+2024-02,Cooking,2
+2024-02,Definitely Not Fan Fiction,1
+2024-02,Fake History of Imaginary Countries,6
+2024-02,Fan Theories,3
+2024-02,General Nonsense,1
+2024-02,How-To Guides,1
+2024-02,Mystery,2
+2024-02,Romance,1
+2024-02,Self-Help,5
+2024-03,Book Club Chatter,8
+2024-03,Fake History of Imaginary Countries,2
+2024-03,Fan Theories,3
+2024-03,General Nonsense,2
+2024-03,How-To Guides,1
+2024-03,Indie Fiction,1
+2024-03,Memes About Reading,1
+2024-03,Mystery,5
+2024-03,Poetry (Bad),2
+2024-03,Romance,2
+2024-03,Sci-Fi,2
+2024-03,Self-Help,3
+2024-04,Ask the Community,2
+2024-04,Book Club Chatter,2
+2024-04,Cooking,2
+2024-04,Definitely Not Fan Fiction,2
+2024-04,Fake History of Imaginary Countries,3
+2024-04,Fan Theories,3
+2024-04,Fantasy,2
+2024-04,General Nonsense,2
+2024-04,Memes About Reading,1
+2024-04,Mystery,3
+2024-04,Poetry (Bad),1
+2024-04,Self-Help,1
+2024-04,Serialized Drama,3
+2024-05,Ask the Community,2
+2024-05,Cooking,1
+2024-05,Definitely Not Fan Fiction,3
+2024-05,Fake History of Imaginary Countries,3
+2024-05,Fan Theories,2
+2024-05,Fantasy,4
+2024-05,General Nonsense,3
+2024-05,How-To Guides,1
+2024-05,Indie Fiction,2
+2024-05,Memes About Reading,4
+2024-05,Mystery,4
+2024-05,Poetry (Bad),3
+2024-05,Sci-Fi,1
+2024-05,Self-Help,2
+2024-05,Serialized Drama,1
+2024-06,Ask the Community,4
+2024-06,Definitely Not Fan Fiction,1
+2024-06,Fake History of Imaginary Countries,2
+2024-06,Fan Theories,5
+2024-06,Fantasy,1
+2024-06,General Nonsense,6
+2024-06,How-To Guides,3
+2024-06,Indie Fiction,1
+2024-06,Memes About Reading,2
+2024-06,Mystery,3
+2024-06,Poetry (Bad),1
+2024-06,Romance,2
+2024-06,Sci-Fi,5
+2024-06,Self-Help,4
+2024-06,Serialized Drama,2
+2024-07,Ask the Community,2
+2024-07,Book Club Chatter,2
+2024-07,Cooking,3
+2024-07,Definitely Not Fan Fiction,1
+2024-07,Fake History of Imaginary Countries,4
+2024-07,Fan Theories,3
+2024-07,Fantasy,1
+2024-07,General Nonsense,1
+2024-07,How-To Guides,1
+2024-07,Indie Fiction,1
+2024-07,Mystery,1
+2024-07,Poetry (Bad),1
+2024-07,Romance,2
+2024-07,Sci-Fi,1
+2024-07,Self-Help,5
+2024-07,Serialized Drama,1
+2024-08,Ask the Community,4
+2024-08,Book Club Chatter,2
+2024-08,Cooking,1
+2024-08,Definitely Not Fan Fiction,2
+2024-08,Fake History of Imaginary Countries,3
+2024-08,Fan Theories,3
+2024-08,Fantasy,2
+2024-08,General Nonsense,4
+2024-08,Memes About Reading,6
+2024-08,Mystery,4
+2024-08,Romance,3
+2024-08,Sci-Fi,4
+2024-08,Self-Help,3
+2024-08,Serialized Drama,1
+2024-09,Ask the Community,2
+2024-09,Book Club Chatter,2
+2024-09,Definitely Not Fan Fiction,1
+2024-09,Fake History of Imaginary Countries,3
+2024-09,Fan Theories,1
+2024-09,Fantasy,2
+2024-09,General Nonsense,3
+2024-09,How-To Guides,3
+2024-09,Indie Fiction,1
+2024-09,Memes About Reading,1
+2024-09,Mystery,5
+2024-09,Poetry (Bad),1
+2024-09,Romance,2
+2024-09,Self-Help,3
+2024-09,Serialized Drama,1
+2024-10,Ask the Community,3
+2024-10,Book Club Chatter,4
+2024-10,Cooking,4
+2024-10,Definitely Not Fan Fiction,1
+2024-10,Fake History of Imaginary Countries,4
+2024-10,Fan Theories,3
+2024-10,Fantasy,2
+2024-10,General Nonsense,5
+2024-10,How-To Guides,2
+2024-10,Indie Fiction,3
+2024-10,Memes About Reading,2
+2024-10,Poetry (Bad),1
+2024-10,Sci-Fi,1
+2024-10,Self-Help,8
+2024-10,Serialized Drama,6
+2024-11,Ask the Community,2
+2024-11,Book Club Chatter,4
+2024-11,Cooking,2
+2024-11,Definitely Not Fan Fiction,3
+2024-11,Fake History of Imaginary Countries,5
+2024-11,Fan Theories,5
+2024-11,Fantasy,5
+2024-11,General Nonsense,1
+2024-11,How-To Guides,2
+2024-11,Indie Fiction,6
+2024-11,Memes About Reading,5
+2024-11,Mystery,3
+2024-11,Romance,2
+2024-11,Sci-Fi,5
+2024-11,Self-Help,5
+2024-11,Serialized Drama,1
+2024-12,Ask the Community,7
+2024-12,Book Club Chatter,4
+2024-12,Definitely Not Fan Fiction,4
+2024-12,Fake History of Imaginary Countries,2
+2024-12,Fan Theories,2
+2024-12,Fantasy,3
+2024-12,General Nonsense,4
+2024-12,How-To Guides,2
+2024-12,Indie Fiction,8
+2024-12,Memes About Reading,5
+2024-12,Mystery,2
+2024-12,Romance,2
+2024-12,Sci-Fi,2
+2024-12,Self-Help,4
+2024-12,Serialized Drama,3
+2025-01,Ask the Community,7
+2025-01,Book Club Chatter,4
+2025-01,Cooking,1
+2025-01,Definitely Not Fan Fiction,1
+2025-01,Fake History of Imaginary Countries,6
+2025-01,Fan Theories,3
+2025-01,Fantasy,4
+2025-01,General Nonsense,5
+2025-01,How-To Guides,3
+2025-01,Indie Fiction,11
+2025-01,Memes About Reading,2
+2025-01,Mystery,2
+2025-01,Poetry (Bad),3
+2025-01,Romance,3
+2025-01,Sci-Fi,5
+2025-01,Self-Help,6
+2025-01,Serialized Drama,2
+2025-02,Ask the Community,14
+2025-02,Book Club Chatter,1
+2025-02,Cooking,1
+2025-02,Definitely Not Fan Fiction,3
+2025-02,Fake History of Imaginary Countries,11
+2025-02,Fan Theories,3
+2025-02,General Nonsense,3
+2025-02,How-To Guides,1
+2025-02,Indie Fiction,2
+2025-02,Memes About Reading,7
+2025-02,Mystery,6
+2025-02,Romance,5
+2025-02,Sci-Fi,2
+2025-02,Self-Help,6
+2025-02,Serialized Drama,2
+2025-03,Ask the Community,5
+2025-03,Book Club Chatter,4
+2025-03,Cooking,3
+2025-03,Definitely Not Fan Fiction,1
+2025-03,Fake History of Imaginary Countries,5
+2025-03,Fan Theories,4
+2025-03,Fantasy,9
+2025-03,General Nonsense,2
+2025-03,How-To Guides,6
+2025-03,Indie Fiction,4
+2025-03,Memes About Reading,5
+2025-03,Mystery,4
+2025-03,Poetry (Bad),1
+2025-03,Romance,3
+2025-03,Sci-Fi,5
+2025-03,Self-Help,8
+2025-03,Serialized Drama,3
+2025-04,Ask the Community,11
+2025-04,Book Club Chatter,6
+2025-04,Cooking,3
+2025-04,Definitely Not Fan Fiction,1
+2025-04,Fake History of Imaginary Countries,5
+2025-04,Fan Theories,6
+2025-04,Fantasy,4
+2025-04,General Nonsense,8
+2025-04,How-To Guides,5
+2025-04,Indie Fiction,4
+2025-04,Memes About Reading,3
+2025-04,Mystery,4
+2025-04,Poetry (Bad),1
+2025-04,Romance,2
+2025-04,Sci-Fi,2
+2025-04,Self-Help,4
+2025-04,Serialized Drama,7
+2025-05,Ask the Community,14
+2025-05,Book Club Chatter,2
+2025-05,Cooking,4
+2025-05,Definitely Not Fan Fiction,7
+2025-05,Fake History of Imaginary Countries,9
+2025-05,Fan Theories,5
+2025-05,Fantasy,8
+2025-05,General Nonsense,3
+2025-05,How-To Guides,6
+2025-05,Indie Fiction,9
+2025-05,Memes About Reading,5
+2025-05,Mystery,6
+2025-05,Poetry (Bad),5
+2025-05,Romance,4
+2025-05,Sci-Fi,6
+2025-05,Self-Help,5
+2025-05,Serialized Drama,6
+2025-06,Ask the Community,11
+2025-06,Book Club Chatter,1
+2025-06,Definitely Not Fan Fiction,5
+2025-06,Fake History of Imaginary Countries,2
+2025-06,Fan Theories,6
+2025-06,Fantasy,3
+2025-06,General Nonsense,8
+2025-06,How-To Guides,7
+2025-06,Indie Fiction,11
+2025-06,Memes About Reading,7
+2025-06,Mystery,10
+2025-06,Poetry (Bad),2
+2025-06,Romance,2
+2025-06,Sci-Fi,7
+2025-06,Self-Help,5
+2025-06,Serialized Drama,13
+2025-07,Ask the Community,11
+2025-07,Book Club Chatter,3
+2025-07,Cooking,3
+2025-07,Definitely Not Fan Fiction,3
+2025-07,Fake History of Imaginary Countries,7
+2025-07,Fan Theories,6
+2025-07,Fantasy,5
+2025-07,General Nonsense,7
+2025-07,How-To Guides,4
+2025-07,Indie Fiction,5
+2025-07,Memes About Reading,6
+2025-07,Mystery,5
+2025-07,Poetry (Bad),2
+2025-07,Romance,5
+2025-07,Sci-Fi,9
+2025-07,Self-Help,8
+2025-07,Serialized Drama,5
+2025-08,Ask the Community,9
+2025-08,Book Club Chatter,3
+2025-08,Cooking,4
+2025-08,Definitely Not Fan Fiction,3
+2025-08,Fake History of Imaginary Countries,4
+2025-08,Fan Theories,9
+2025-08,Fantasy,7
+2025-08,General Nonsense,4
+2025-08,How-To Guides,5
+2025-08,Indie Fiction,5
+2025-08,Memes About Reading,8
+2025-08,Mystery,5
+2025-08,Poetry (Bad),1
+2025-08,Romance,3
+2025-08,Sci-Fi,6
+2025-08,Self-Help,9
+2025-08,Serialized Drama,6
+2025-09,Ask the Community,10
+2025-09,Book Club Chatter,5
+2025-09,Cooking,3
+2025-09,Definitely Not Fan Fiction,2
+2025-09,Fake History of Imaginary Countries,5
+2025-09,Fan Theories,5
+2025-09,Fantasy,12
+2025-09,General Nonsense,5
+2025-09,How-To Guides,8
+2025-09,Indie Fiction,11
+2025-09,Memes About Reading,4
+2025-09,Mystery,4
+2025-09,Poetry (Bad),1
+2025-09,Romance,4
+2025-09,Sci-Fi,5
+2025-09,Self-Help,20
+2025-09,Serialized Drama,5
+2025-10,Ask the Community,16
+2025-10,Book Club Chatter,2
+2025-10,Cooking,7
+2025-10,Definitely Not Fan Fiction,11
+2025-10,Fake History of Imaginary Countries,12
+2025-10,Fan Theories,4
+2025-10,Fantasy,8
+2025-10,General Nonsense,6
+2025-10,How-To Guides,14
+2025-10,Indie Fiction,8
+2025-10,Memes About Reading,7
+2025-10,Mystery,8
+2025-10,Poetry (Bad),4
+2025-10,Romance,7
+2025-10,Sci-Fi,6
+2025-10,Self-Help,6
+2025-10,Serialized Drama,8
+2025-11,Ask the Community,17
+2025-11,Book Club Chatter,8
+2025-11,Cooking,10
+2025-11,Definitely Not Fan Fiction,5
+2025-11,Fake History of Imaginary Countries,8
+2025-11,Fan Theories,8
+2025-11,Fantasy,12
+2025-11,General Nonsense,10
+2025-11,How-To Guides,14
+2025-11,Indie Fiction,12
+2025-11,Memes About Reading,3
+2025-11,Mystery,6
+2025-11,Poetry (Bad),2
+2025-11,Romance,4
+2025-11,Sci-Fi,9
+2025-11,Self-Help,7
+2025-11,Serialized Drama,10
+2025-12,Ask the Community,10
+2025-12,Book Club Chatter,9
+2025-12,Cooking,5
+2025-12,Definitely Not Fan Fiction,11
+2025-12,Fake History of Imaginary Countries,10
+2025-12,Fan Theories,8
+2025-12,Fantasy,14
+2025-12,General Nonsense,11
+2025-12,How-To Guides,9
+2025-12,Indie Fiction,17
+2025-12,Memes About Reading,6
+2025-12,Mystery,10
+2025-12,Poetry (Bad),7
+2025-12,Romance,2
+2025-12,Sci-Fi,9
+2025-12,Self-Help,18
+2025-12,Serialized Drama,14
+2026-01,Ask the Community,25
+2026-01,Book Club Chatter,5
+2026-01,Cooking,4
+2026-01,Definitely Not Fan Fiction,6
+2026-01,Fake History of Imaginary Countries,13
+2026-01,Fan Theories,7
+2026-01,Fantasy,14
+2026-01,General Nonsense,11
+2026-01,How-To Guides,10
+2026-01,Indie Fiction,14
+2026-01,Memes About Reading,10
+2026-01,Mystery,9
+2026-01,Poetry (Bad),6
+2026-01,Romance,4
+2026-01,Sci-Fi,7
+2026-01,Self-Help,10
+2026-01,Serialized Drama,13
+2026-02,Ask the Community,11
+2026-02,Book Club Chatter,11
+2026-02,Cooking,5
+2026-02,Definitely Not Fan Fiction,7
+2026-02,Fake History of Imaginary Countries,20
+2026-02,Fan Theories,8
+2026-02,Fantasy,15
+2026-02,General Nonsense,11
+2026-02,How-To Guides,13
+2026-02,Indie Fiction,18
+2026-02,Memes About Reading,8
+2026-02,Mystery,7
+2026-02,Poetry (Bad),5
+2026-02,Romance,5
+2026-02,Sci-Fi,15
+2026-02,Self-Help,11
+2026-02,Serialized Drama,15
+2026-03,Ask the Community,14
+2026-03,Book Club Chatter,22
+2026-03,Cooking,5
+2026-03,Definitely Not Fan Fiction,11
+2026-03,Fake History of Imaginary Countries,10
+2026-03,Fan Theories,5
+2026-03,Fantasy,23
+2026-03,General Nonsense,15
+2026-03,How-To Guides,23
+2026-03,Indie Fiction,29
+2026-03,Memes About Reading,16
+2026-03,Mystery,9
+2026-03,Poetry (Bad),12
+2026-03,Romance,5
+2026-03,Sci-Fi,8
+2026-03,Self-Help,18
+2026-03,Serialized Drama,25
+2026-04,Ask the Community,21
+2026-04,Book Club Chatter,19
+2026-04,Cooking,12
+2026-04,Definitely Not Fan Fiction,16
+2026-04,Fake History of Imaginary Countries,13
+2026-04,Fan Theories,10
+2026-04,Fantasy,12
+2026-04,General Nonsense,15
+2026-04,How-To Guides,22
+2026-04,Indie Fiction,28
+2026-04,Memes About Reading,13
+2026-04,Mystery,9
+2026-04,Poetry (Bad),15
+2026-04,Romance,7
+2026-04,Sci-Fi,11
+2026-04,Self-Help,15
+2026-04,Serialized Drama,23
+2026-05,Ask the Community,21
+2026-05,Book Club Chatter,25
+2026-05,Cooking,14
+2026-05,Definitely Not Fan Fiction,13
+2026-05,Fake History of Imaginary Countries,15
+2026-05,Fan Theories,10
+2026-05,Fantasy,17
+2026-05,General Nonsense,9
+2026-05,How-To Guides,18
+2026-05,Indie Fiction,39
+2026-05,Memes About Reading,21
+2026-05,Mystery,5
+2026-05,Poetry (Bad),20
+2026-05,Romance,11
+2026-05,Sci-Fi,18
+2026-05,Self-Help,12
+2026-05,Serialized Drama,43
+2026-06,Ask the Community,26
+2026-06,Book Club Chatter,21
+2026-06,Cooking,12
+2026-06,Definitely Not Fan Fiction,17
+2026-06,Fake History of Imaginary Countries,29
+2026-06,Fan Theories,14
+2026-06,Fantasy,17
+2026-06,General Nonsense,23
+2026-06,How-To Guides,20
+2026-06,Indie Fiction,42
+2026-06,Memes About Reading,23
+2026-06,Mystery,13
+2026-06,Poetry (Bad),24
+2026-06,Romance,12
+2026-06,Sci-Fi,13
+2026-06,Self-Help,18
+2026-06,Serialized Drama,27
+2026-07,Ask the Community,40
+2026-07,Book Club Chatter,17
+2026-07,Cooking,13
+2026-07,Definitely Not Fan Fiction,21
+2026-07,Fake History of Imaginary Countries,33
+2026-07,Fan Theories,17
+2026-07,Fantasy,29
+2026-07,General Nonsense,16
+2026-07,How-To Guides,40
+2026-07,Indie Fiction,61
+2026-07,Memes About Reading,28
+2026-07,Mystery,17
+2026-07,Poetry (Bad),39
+2026-07,Romance,17
+2026-07,Sci-Fi,20
+2026-07,Self-Help,22
+2026-07,Serialized Drama,36
+2026-08,Ask the Community,34
+2026-08,Book Club Chatter,27
+2026-08,Cooking,13
+2026-08,Definitely Not Fan Fiction,37
+2026-08,Fake History of Imaginary Countries,47
+2026-08,Fan Theories,23
+2026-08,Fantasy,26
+2026-08,General Nonsense,25
+2026-08,How-To Guides,46
+2026-08,Indie Fiction,72
+2026-08,Memes About Reading,29
+2026-08,Mystery,19
+2026-08,Poetry (Bad),46
+2026-08,Romance,24
+2026-08,Sci-Fi,21
+2026-08,Self-Help,30
+2026-08,Serialized Drama,63
+2026-09,Ask the Community,28
+2026-09,Book Club Chatter,24
+2026-09,Cooking,11
+2026-09,Definitely Not Fan Fiction,23
+2026-09,Fake History of Imaginary Countries,26
+2026-09,Fan Theories,5
+2026-09,Fantasy,21
+2026-09,General Nonsense,21
+2026-09,How-To Guides,55
+2026-09,Indie Fiction,53
+2026-09,Memes About Reading,20
+2026-09,Mystery,21
+2026-09,Poetry (Bad),79
+2026-09,Romance,9
+2026-09,Sci-Fi,37
+2026-09,Self-Help,23
+2026-09,Serialized Drama,77
+2026-10,Cooking,1
+2026-10,Fantasy,1
+2026-10,Sci-Fi,1
