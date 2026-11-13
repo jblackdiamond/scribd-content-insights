@@ -236,9 +236,8 @@ def render(r):
             st.markdown(f'- {part}')
 
 st.title('📚 Scribd Content Insights')
-st.caption('Conversational analytics prototype · synthetic exercise data · certified metric calculations')
 with st.expander('About this prototype'):
-    st.write('A deliberately constrained reference-backed analytics application. It interprets supported questions using validated rules and retrieves certified aggregates. It does **not** query a live warehouse or use a deployed LLM for interpretation. An LLM intent parser can be added later behind the same strict metric/period validation layer. No figures describe actual Scribd performance.')
+    st.write("I built this as a small proof of concept for the take-home exercise. The idea is to let employees ask questions about content, engagement, and subscriptions without having to dig through the data themselves. The answers come from metrics I calculated and checked using the sample dataset. Right now, the app recognizes a limited set of questions using rules rather than an LLM, so it won't be able to answer everything. When a question falls outside what I've verified, the goal is to say that clearly instead of guessing.")
 examples=['Which category is performing best?','How did signups change from Q1 to Q2 2025?','How many new subscribers were added in 2025?','How many serialized dramas are in the content library?','How many different authors wrote serialized dramas?','How many likes did each category get in 2025?','Compare likes, shares, and downloads by category in 2025.','What is our monthly recurring revenue?']
 with st.sidebar:
     st.header('Example questions')
