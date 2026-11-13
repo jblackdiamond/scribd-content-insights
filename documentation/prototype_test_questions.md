@@ -1,6 +1,6 @@
-# Scribd Content Insights: 12 Interview Demo / Acceptance Questions
+# Scribd Content Insights: 12 Original Demo / Acceptance Questions
 
-Run these in a new Project chat after adding the knowledge and instructions. Verify numbers against the attached reference outputs. The panel should be told this is synthetic exercise data.
+These are the 12 original questions used to explore metric definitions and appropriate guardrails. They are not the same as the **14 automated scenario checks** in [`tests/test_routing.py`](../tests/test_routing.py), added later to test the revised Streamlit application's question matching and answers. Not every original question is implemented in the demo; unsupported questions should not be answered with invented metrics. All figures are from the synthetic exercise data.
 
 | # | Employee question | Expected response / guardrail |
 |---|---|---|
