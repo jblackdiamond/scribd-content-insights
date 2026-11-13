@@ -1,4 +1,4 @@
-"""Run without installing Streamlit: python scripts/test_routing.py"""
+"""Run from repository root: python tests/test_routing.py"""
 from pathlib import Path
 import sys,types
 
@@ -7,7 +7,7 @@ m.set_page_config=lambda **kw:None
 m.markdown=lambda *a,**kw:None
 m.cache_data=lambda f:f
 sys.modules['streamlit']=m
-script=Path(__file__).resolve().parent/'app.py'
+script=Path(__file__).resolve().parent.parent/'app.py'
 source=script.read_text().split("st.title('📚 Scribd Content Insights')")[0]
 ctx={'__file__':str(script)}
 exec(compile(source,str(script),'exec'),ctx)
