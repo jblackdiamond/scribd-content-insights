@@ -5,7 +5,7 @@ For the Scribd take-home exercise, I explored how employees could ask analytics 
 ## Start here
 
 - **Executive summary:** Included as a separate PDF with my submission. It describes the approach, key findings, tradeoffs, and proposed AI design.
-- **Streamlit demo:** The live link is included in my submission email. [Application source](app.py)
+- **[Try the Streamlit demo](https://scribd-content-insights-gq67m7dc5qkjhqzupfxeua.streamlit.app/):** Explore the prototype in your browser. [Application source](app.py)
 - **[Metric dictionary and data-quality notes](documentation/metric_dictionary.md):** What each metric counts, which records qualify, and what the data cannot reliably tell us.
 - **[Analysis scripts](analysis/):** Python calculations supporting the results.
 - **[Test cases](tests/test_routing.py)** and [example questions](documentation/prototype_test_questions.md): Checks for supported and unsupported questions.
