@@ -1,0 +1,301 @@
+content_id,business_id,creator_id,title,category,content_type,publish_date,runtime_minutes_fake
+CNT_00001,BIZ_1,,The Great Prairiefox (Mock Book #1),Sci-Fi,TEST_TYPE,2023-11-02,5
+CNT_00002,BIZ_2,,[MOCK THREAD] Rant: fake topic #2,Book Club Chatter,TEST_TYPE,2021-08-01,5
+CNT_00003,BIZ_1,,The Fake Diary (Mock Book #3),Cooking,ebook,2026-03-27,90
+CNT_00004,BIZ_3,CR_0004,Episode 93: Totally Original Content (Mock #4),Poetry (Bad),audiobook,2026-09-14,45
+CNT_00005,BIZ_1,,The Fake Diary (Mock Book #5),Mystery,ebook,2025-05-25,25
+CNT_00006,BIZ_3,CR_0040,Episode 4: Totally Original Content (Mock #6),Indie Fiction,poll,2026-02-21,2
+CNT_00007,BIZ_1,,The Secret Recipe (Mock Book #7),Sci-Fi,forum_post,2024-06-27,8
+CNT_00008,BIZ_2,,[MOCK THREAD] Anyone else fake topic #8,Book Club Chatter,video,2025-11-05,-1
+CNT_00009,BIZ_2,,[MOCK THREAD] PSA: fake topic #9,Ask the Community,audiobook,2022-03-18,180
+CNT_00010,BIZ_1,,The Great Diary (Mock Book #10),Romance,serialized_chapter,2023-08-28,45
+CNT_00011,BIZ_3,CR_0031,Episode 98: Totally Original Content (Mock #11),Poetry (Bad),ebook,2022-04-13,45
+CNT_00012,BIZ_3,CR_0005,Episode 5: Totally Original Content (Mock #12),Indie Fiction,video,2024-07-07,8
+CNT_00013,BIZ_3,CR_0005,Episode 57: Totally Original Content (Mock #13),Serialized Drama,ebook,2024-05-19,45
+CNT_00014,BIZ_3,CR_0006,Episode 14: Totally Original Content (Mock #14),Definitely Not Fan Fiction,poll,2025-10-05,8
+CNT_00015,BIZ_2,,[MOCK THREAD] Rant: fake topic #15,Ask the Community,video,2022-01-28,25
+CNT_00016,BIZ_3,CR_0017,Episode 77: Totally Original Content (Mock #16),Definitely Not Fan Fiction,video,2025-08-28,45
+CNT_00017,BIZ_1,,The Fake Prairiefox (Mock Book #17),Self-Help,serialized_chapter,2022-02-19,12
+CNT_00018,BIZ_1,,The Great Algorithm (Mock Book #18),Fake History of Imaginary Countries,serialized_chapter,2024-09-06,25
+CNT_00019,BIZ_1,,The Great Dragon (Mock Book #19),Fantasy,serialized_chapter,2021-10-04,25
+CNT_00020,BIZ_1,,The Secret Prairiefox (Mock Book #20),Cooking,audiobook,2020-12-27,180
+CNT_00021,BIZ_2,,[MOCK THREAD] Rant: fake topic #21,Memes About Reading,poll,2025-12-27,99999
+CNT_00022,BIZ_1,,The Great Dragon (Mock Book #22),Sci-Fi,audiobook,2024-06-30,45
+CNT_00023,BIZ_3,CR_0025,Episode 40: Totally Original Content (Mock #23),Poetry (Bad),serialized_chapter,2026-05-03,25
+CNT_00024,BIZ_2,,[MOCK THREAD] PSA: fake topic #24,Ask the Community,forum_post,2025-02-19,12
+CNT_00025,BIZ_1,,The Secret Dragon (Mock Book #25),Mystery,audiobook,2026-09-09,45
+CNT_00026,BIZ_2,,[MOCK THREAD] Rant: fake topic #26,Book Club Chatter,forum_post,2023-03-12,8
+CNT_00027,BIZ_1,,The Great Diary (Mock Book #27),Sci-Fi,audiobook,2026-05-03,180
+CNT_00028,BIZ_3,CR_0040,Episode 43: Totally Original Content (Mock #28),How-To Guides,serialized_chapter,2026-02-23,25
+CNT_00029,BIZ_1,,The Great Algorithm (Mock Book #29),Sci-Fi,poll,2021-06-22,8
+CNT_00030,BIZ_3,CR_0017,Episode 89: Totally Original Content (Mock #30),Indie Fiction,audiobook,2026-03-26,180
+CNT_00031,BIZ_3,CR_0033,Episode 95: Totally Original Content (Mock #31),Serialized Drama,serialized_chapter,2024-09-19,25
+CNT_00032,BIZ_1,,The Secret Dragon (Mock Book #32),Self-Help,forum_post,2021-02-10,8
+CNT_00033,BIZ_1,,The Imaginary Dragon (Mock Book #33),Fantasy,audiobook,2024-04-05,90
+CNT_00034,BIZ_3,CR_0026,Episode 6: Totally Original Content (Mock #34),Poetry (Bad),ebook,2026-08-10,90
+CNT_00035,BIZ_3,CR_0017,Episode 34: Totally Original Content (Mock #35),Serialized Drama,poll,2026-02-28,2
+CNT_00036,BIZ_3,CR_0018,Episode 23: Totally Original Content (Mock #36),Poetry (Bad),audiobook,2026-01-21,45
+CNT_00037,BIZ_3,CR_0008,Episode 3: Totally Original Content (Mock #37),How-To Guides,poll,2026-07-15,2
+CNT_00038,BIZ_1,,The Great Diary (Mock Book #38),Cooking,audiobook,2024-06-03,99999
+CNT_00039,BIZ_2,,[MOCK THREAD] PSA: fake topic #39,Ask the Community,poll,2022-12-03,5
+CNT_00040,BIZ_1,,The Fake Dragon (Mock Book #40),Mystery,ebook,2022-08-15,90
+CNT_00041,BIZ_3,CR_0015,Episode 69: Totally Original Content (Mock #41),Serialized Drama,video,2025-03-13,12
+CNT_00042,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #42,Memes About Reading,ebook,2023-02-14,45
+CNT_00043,BIZ_1,,The Secret Diary (Mock Book #43),Cooking,audiobook,2021-08-07,45
+CNT_00044,BIZ_1,,The Secret Prairiefox (Mock Book #44),Romance,serialized_chapter,2026-06-26,12
+CNT_00045,BIZ_1,,The Fake Prairiefox (Mock Book #45),Fantasy,ebook,2022-11-17,45
+CNT_00046,BIZ_1,,The Imaginary Diary (Mock Book #46),Cooking,video,2026-03-17,99999
+CNT_00047,BIZ_3,CR_0037,Episode 89: Totally Original Content (Mock #47),How-To Guides,video,2026-07-20,8
+CNT_00048,BIZ_2,,[MOCK THREAD] Rant: fake topic #48,General Nonsense,poll,2024-06-03,8
+CNT_00049,BIZ_3,CR_0031,Episode 31: Totally Original Content (Mock #49),Serialized Drama,video,2023-06-15,45
+CNT_00050,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #50,Memes About Reading,serialized_chapter,2025-03-13,99999
+CNT_00051,BIZ_1,,The Secret Dragon (Mock Book #51),Fantasy,forum_post,2025-12-26,12
+CNT_00052,BIZ_3,CR_0004,Episode 60: Totally Original Content (Mock #52),Serialized Drama,serialized_chapter,2026-02-25,45
+CNT_00053,BIZ_3,CR_0030,Episode 53: Totally Original Content (Mock #53),Definitely Not Fan Fiction,forum_post,2026-07-31,12
+CNT_00054,BIZ_2,,[MOCK THREAD] Anyone else fake topic #54,Memes About Reading,audiobook,2025-12-15,180
+CNT_00055,BIZ_3,CR_0025,Episode 11: Totally Original Content (Mock #55),Indie Fiction,forum_post,2026-08-18,8
+CNT_00056,BIZ_2,,[MOCK THREAD] PSA: fake topic #56,Book Club Chatter,audiobook,2022-02-08,90
+CNT_00057,BIZ_2,,[MOCK THREAD] Anyone else fake topic #57,Ask the Community,serialized_chapter,2023-04-01,25
+CNT_00058,BIZ_2,,[MOCK THREAD] PSA: fake topic #58,Ask the Community,forum_post,2024-01-30,8
+CNT_00059,BIZ_1,,The Secret Prairiefox (Mock Book #59),Mystery,forum_post,2021-02-04,5
+CNT_00060,BIZ_1,,The Last Algorithm (Mock Book #60),Cooking,video,2021-02-18,45
+CNT_00061,BIZ_1,,The Secret Algorithm (Mock Book #61),Mystery,audiobook,2023-07-19,90
+CNT_00062,BIZ_2,,[MOCK THREAD] Rant: fake topic #62,Fan Theories,poll,2026-03-05,5
+CNT_00063,BIZ_1,,The Last Recipe (Mock Book #63),Fantasy,video,2025-09-07,12
+CNT_00064,BIZ_2,,[MOCK THREAD] Anyone else fake topic #64,Memes About Reading,forum_post,2022-07-24,5
+CNT_00065,BIZ_3,CR_0022,Episode 95: Totally Original Content (Mock #65),Serialized Drama,ebook,2026-08-10,90
+CNT_00066,BIZ_1,,The Last Recipe (Mock Book #66),Romance,TEST_TYPE,2025-10-10,12
+CNT_00067,BIZ_2,,[MOCK THREAD] PSA: fake topic #67,General Nonsense,forum_post,2024-11-19,5
+CNT_00068,BIZ_3,CR_0010,Episode 20: Totally Original Content (Mock #68),Indie Fiction,forum_post,2025-05-21,12
+CNT_00069,BIZ_1,,The Great Prairiefox (Mock Book #69),Self-Help,video,2023-02-11,25
+CNT_00070,BIZ_1,,The Imaginary Algorithm (Mock Book #70),Romance,poll,2024-06-01,8
+CNT_00071,BIZ_1,,The Imaginary Recipe (Mock Book #71),Fantasy,ebook,2026-06-25,25
+CNT_00072,BIZ_1,,The Great Algorithm (Mock Book #72),Sci-Fi,forum_post,2023-04-24,5
+CNT_00073,BIZ_3,CR_0006,Episode 59: Totally Original Content (Mock #73),Poetry (Bad),ebook,2025-02-18,45
+CNT_00074,BIZ_3,CR_0023,Episode 53: Totally Original Content (Mock #74),Serialized Drama,video,2022-10-06,25
+CNT_00075,BIZ_2,,[MOCK THREAD] Rant: fake topic #75,General Nonsense,video,2021-10-09,25
+CNT_00076,BIZ_3,CR_0010,Episode 27: Totally Original Content (Mock #76),Serialized Drama,forum_post,2025-11-06,8
+CNT_00077,BIZ_3,CR_0040,Episode 40: Totally Original Content (Mock #77),Poetry (Bad),serialized_chapter,2026-03-24,25
+CNT_00078,BIZ_1,,The Fake Diary (Mock Book #78),Fake History of Imaginary Countries,audiobook,2021-01-31,45
+CNT_00079,BIZ_3,CR_0028,Episode 78: Totally Original Content (Mock #79),Indie Fiction,forum_post,2023-10-09,8
+CNT_00080,BIZ_2,,[MOCK THREAD] Rant: fake topic #80,General Nonsense,video,2026-03-11,25
+CNT_00081,BIZ_3,CR_0021,Episode 83: Totally Original Content (Mock #81),Indie Fiction,video,2024-11-21,12
+CNT_00082,BIZ_3,CR_0014,Episode 54: Totally Original Content (Mock #82),Poetry (Bad),audiobook,2024-12-23,90
+CNT_00083,BIZ_1,,The Fake Algorithm (Mock Book #83),Self-Help,poll,2023-01-22,2
+CNT_00084,BIZ_1,,The Great Recipe (Mock Book #84),Self-Help,ebook,2022-10-09,25
+CNT_00085,BIZ_1,,The Last Dragon (Mock Book #85),Mystery,poll,2023-06-09,-1
+CNT_00086,BIZ_2,,[MOCK THREAD] Anyone else fake topic #86,General Nonsense,forum_post,2021-11-10,5
+CNT_00087,BIZ_3,CR_0029,Episode 58: Totally Original Content (Mock #87),How-To Guides,audiobook,2025-12-16,180
+CNT_00088,BIZ_3,CR_0032,Episode 4: Totally Original Content (Mock #88),Indie Fiction,ebook,2026-03-07,90
+CNT_00089,BIZ_1,,The Fake Recipe (Mock Book #89),Fake History of Imaginary Countries,video,2021-06-04,25
+CNT_00090,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #90,Book Club Chatter,forum_post,2026-03-17,8
+CNT_00091,BIZ_2,,[MOCK THREAD] Anyone else fake topic #91,Book Club Chatter,serialized_chapter,2023-09-20,45
+CNT_00092,BIZ_1,,The Last Recipe (Mock Book #92),Self-Help,audiobook,2021-03-15,180
+CNT_00093,BIZ_1,,The Last Dragon (Mock Book #93),Sci-Fi,serialized_chapter,2025-05-20,12
+CNT_00094,BIZ_1,,The Great Diary (Mock Book #94),Fake History of Imaginary Countries,audiobook,2025-12-10,45
+CNT_00095,BIZ_3,CR_0004,Episode 87: Totally Original Content (Mock #95),Serialized Drama,serialized_chapter,2026-07-23,12
+CNT_00096,BIZ_1,,The Imaginary Dragon (Mock Book #96),Fantasy,video,2024-06-16,8
+CNT_00097,BIZ_2,,[MOCK THREAD] Anyone else fake topic #97,General Nonsense,ebook,2025-03-26,25
+CNT_00098,BIZ_3,CR_0018,Episode 26: Totally Original Content (Mock #98),How-To Guides,ebook,2026-02-09,90
+CNT_00099,BIZ_2,,[MOCK THREAD] PSA: fake topic #99,Book Club Chatter,ebook,2023-02-27,45
+CNT_00100,BIZ_3,CR_0013,Episode 93: Totally Original Content (Mock #100),Indie Fiction,audiobook,2026-02-05,180
+CNT_00101,BIZ_3,CR_0023,Episode 42: Totally Original Content (Mock #101),Indie Fiction,serialized_chapter,2023-02-16,25
+CNT_00102,BIZ_1,,The Fake Algorithm (Mock Book #102),Mystery,ebook,2023-08-10,90
+CNT_00103,BIZ_2,,[MOCK THREAD] PSA: fake topic #103,Ask the Community,audiobook,2023-12-28,90
+CNT_00104,BIZ_1,,The Great Algorithm (Mock Book #104),Romance,audiobook,2026-02-23,180
+CNT_00105,BIZ_1,,The Last Prairiefox (Mock Book #105),Fake History of Imaginary Countries,forum_post,2021-06-29,8
+CNT_00106,BIZ_1,,The Last Prairiefox (Mock Book #106),Self-Help,video,2022-02-22,45
+CNT_00107,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #107,General Nonsense,forum_post,2022-01-24,5
+CNT_00108,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #108,Memes About Reading,forum_post,2022-12-20,8
+CNT_00109,BIZ_1,,The Last Algorithm (Mock Book #109),Fake History of Imaginary Countries,ebook,2024-10-04,45
+CNT_00110,BIZ_1,,The Fake Algorithm (Mock Book #110),Mystery,serialized_chapter,2023-08-11,25
+CNT_00111,BIZ_3,CR_0017,Episode 3: Totally Original Content (Mock #111),Indie Fiction,serialized_chapter,2024-09-28,25
+CNT_00112,BIZ_1,,The Fake Recipe (Mock Book #112),Fake History of Imaginary Countries,serialized_chapter,2021-11-22,25
+CNT_00113,BIZ_1,,The Fake Diary (Mock Book #113),Romance,audiobook,2022-09-14,45
+CNT_00114,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #114,Book Club Chatter,poll,2025-12-23,5
+CNT_00115,BIZ_3,CR_0023,Episode 83: Totally Original Content (Mock #115),How-To Guides,poll,2022-01-22,2
+CNT_00116,BIZ_1,,The Last Dragon (Mock Book #116),Self-Help,audiobook,2024-09-18,180
+CNT_00117,BIZ_3,CR_0038,Episode 7: Totally Original Content (Mock #117),Serialized Drama,poll,2025-02-24,2
+CNT_00118,BIZ_3,CR_0037,Episode 42: Totally Original Content (Mock #118),Definitely Not Fan Fiction,audiobook,2025-12-17,90
+CNT_00119,BIZ_1,,The Fake Dragon (Mock Book #119),Fantasy,audiobook,2021-08-02,180
+CNT_00120,BIZ_3,CR_0010,Episode 12: Totally Original Content (Mock #120),Serialized Drama,audiobook,2023-04-18,45
+CNT_00121,BIZ_2,,[MOCK THREAD] Rant: fake topic #121,Book Club Chatter,poll,2026-03-29,2
+CNT_00122,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #122,Fan Theories,video,2022-12-24,8
+CNT_00123,BIZ_2,,[MOCK THREAD] PSA: fake topic #123,Ask the Community,serialized_chapter,2026-01-11,45
+CNT_00124,BIZ_2,,[MOCK THREAD] Rant: fake topic #124,Ask the Community,ebook,2025-01-12,90
+CNT_00125,BIZ_1,,The Fake Algorithm (Mock Book #125),Sci-Fi,video,2026-09-01,25
+CNT_00126,BIZ_3,CR_0011,Episode 62: Totally Original Content (Mock #126),Definitely Not Fan Fiction,ebook,2025-04-12,25
+CNT_00127,BIZ_1,,The Last Prairiefox (Mock Book #127),Fantasy,serialized_chapter,2022-09-18,99999
+CNT_00128,BIZ_1,,The Last Algorithm (Mock Book #128),Sci-Fi,video,2024-06-06,-1
+CNT_00129,BIZ_1,,The Imaginary Prairiefox (Mock Book #129),Self-Help,video,2021-10-22,25
+CNT_00130,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #130,Memes About Reading,TEST_TYPE,2023-02-16,12
+CNT_00131,BIZ_3,CR_0026,Episode 63: Totally Original Content (Mock #131),Poetry (Bad),video,2026-07-23,45
+CNT_00132,BIZ_1,,The Fake Algorithm (Mock Book #132),Romance,forum_post,2021-10-19,5
+CNT_00133,BIZ_2,,[MOCK THREAD] Rant: fake topic #133,Book Club Chatter,serialized_chapter,2022-10-28,45
+CNT_00134,BIZ_1,,The Last Diary (Mock Book #134),Self-Help,serialized_chapter,2026-06-25,12
+CNT_00135,BIZ_2,,[MOCK THREAD] Anyone else fake topic #135,Ask the Community,poll,2025-04-28,5
+CNT_00136,BIZ_1,,The Secret Algorithm (Mock Book #136),Sci-Fi,ebook,2025-01-20,90
+CNT_00137,BIZ_3,CR_0011,Episode 34: Totally Original Content (Mock #137),Indie Fiction,serialized_chapter,2026-02-09,25
+CNT_00138,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #138,Fan Theories,ebook,2022-04-24,25
+CNT_00139,BIZ_3,CR_0028,Episode 91: Totally Original Content (Mock #139),Definitely Not Fan Fiction,serialized_chapter,2024-08-13,45
+CNT_00140,BIZ_1,,The Secret Algorithm (Mock Book #140),Self-Help,forum_post,2024-05-22,5
+CNT_00141,BIZ_1,,The Fake Prairiefox (Mock Book #141),Fake History of Imaginary Countries,forum_post,2025-08-13,12
+CNT_00142,BIZ_1,,The Imaginary Diary (Mock Book #142),Fake History of Imaginary Countries,forum_post,2022-08-08,5
+CNT_00143,BIZ_3,CR_0028,Episode 90: Totally Original Content (Mock #143),Serialized Drama,forum_post,2022-07-16,12
+CNT_00144,BIZ_3,CR_0001,Episode 13: Totally Original Content (Mock #144),Definitely Not Fan Fiction,ebook,2025-09-08,25
+CNT_00145,BIZ_1,,The Last Algorithm (Mock Book #145),Fake History of Imaginary Countries,audiobook,2022-12-24,45
+CNT_00146,BIZ_3,CR_0015,Episode 63: Totally Original Content (Mock #146),Serialized Drama,audiobook,2026-08-21,45
+CNT_00147,BIZ_3,CR_0016,Episode 24: Totally Original Content (Mock #147),Poetry (Bad),audiobook,2026-09-13,90
+CNT_00148,BIZ_2,,[MOCK THREAD] PSA: fake topic #148,Fan Theories,serialized_chapter,2025-08-02,12
+CNT_00149,BIZ_2,,[MOCK THREAD] Anyone else fake topic #149,General Nonsense,audiobook,2022-11-12,90
+CNT_00150,BIZ_1,,The Fake Dragon (Mock Book #150),Fantasy,forum_post,2021-09-21,-1
+CNT_00151,BIZ_1,,The Secret Algorithm (Mock Book #151),Mystery,video,2022-02-17,25
+CNT_00152,BIZ_3,CR_0001,Episode 86: Totally Original Content (Mock #152),How-To Guides,serialized_chapter,2025-11-13,12
+CNT_00153,BIZ_3,CR_0001,Episode 49: Totally Original Content (Mock #153),Poetry (Bad),serialized_chapter,2023-12-25,12
+CNT_00154,BIZ_2,,[MOCK THREAD] Rant: fake topic #154,Ask the Community,forum_post,2025-02-27,5
+CNT_00155,BIZ_1,,The Secret Diary (Mock Book #155),Cooking,poll,2025-06-21,8
+CNT_00156,BIZ_1,,The Last Diary (Mock Book #156),Fantasy,forum_post,2022-02-15,5
+CNT_00157,BIZ_3,CR_0010,Episode 4: Totally Original Content (Mock #157),Definitely Not Fan Fiction,serialized_chapter,2022-05-19,25
+CNT_00158,BIZ_3,CR_0026,Episode 58: Totally Original Content (Mock #158),Serialized Drama,serialized_chapter,2026-08-11,25
+CNT_00159,BIZ_3,CR_0001,Episode 82: Totally Original Content (Mock #159),Serialized Drama,ebook,2024-08-12,90
+CNT_00160,BIZ_3,CR_0004,Episode 95: Totally Original Content (Mock #160),How-To Guides,forum_post,2025-12-25,5
+CNT_00161,BIZ_2,,[MOCK THREAD] Rant: fake topic #161,Memes About Reading,poll,2021-11-30,2
+CNT_00162,BIZ_1,,The Great Algorithm (Mock Book #162),Self-Help,TEST_TYPE,2023-03-11,5
+CNT_00163,BIZ_1,,The Imaginary Prairiefox (Mock Book #163),Mystery,ebook,2022-06-08,45
+CNT_00164,BIZ_3,CR_0022,Episode 87: Totally Original Content (Mock #164),Indie Fiction,serialized_chapter,2026-03-28,12
+CNT_00165,BIZ_2,,[MOCK THREAD] Rant: fake topic #165,Book Club Chatter,poll,2023-09-14,2
+CNT_00166,BIZ_1,,The Great Dragon (Mock Book #166),Sci-Fi,video,2021-04-30,12
+CNT_00167,BIZ_1,,The Last Recipe (Mock Book #167),Self-Help,poll,2023-11-22,8
+CNT_00168,BIZ_3,CR_0010,Episode 69: Totally Original Content (Mock #168),Indie Fiction,poll,2026-07-09,8
+CNT_00169,BIZ_1,,The Last Recipe (Mock Book #169),Fake History of Imaginary Countries,serialized_chapter,2021-09-22,12
+CNT_00170,BIZ_1,,The Fake Prairiefox (Mock Book #170),Self-Help,poll,2025-11-25,8
+CNT_00171,BIZ_2,,[MOCK THREAD] Anyone else fake topic #171,Ask the Community,forum_post,2021-12-26,8
+CNT_00172,BIZ_3,CR_0015,Episode 96: Totally Original Content (Mock #172),How-To Guides,ebook,2025-02-15,90
+CNT_00173,BIZ_3,CR_0027,Episode 74: Totally Original Content (Mock #173),How-To Guides,poll,2025-02-01,8
+CNT_00174,BIZ_1,,The Imaginary Recipe (Mock Book #174),Mystery,video,2025-05-09,12
+CNT_00175,BIZ_3,CR_0010,Episode 67: Totally Original Content (Mock #175),How-To Guides,poll,2023-06-29,2
+CNT_00176,BIZ_1,,The Imaginary Algorithm (Mock Book #176),Fantasy,forum_post,2022-08-16,5
+CNT_00177,BIZ_1,,The Fake Algorithm (Mock Book #177),Sci-Fi,audiobook,2024-03-06,45
+CNT_00178,BIZ_3,CR_0023,Episode 40: Totally Original Content (Mock #178),Indie Fiction,serialized_chapter,2024-12-30,45
+CNT_00179,BIZ_2,,[MOCK THREAD] Rant: fake topic #179,General Nonsense,poll,2023-06-03,8
+CNT_00180,BIZ_3,CR_0005,Episode 43: Totally Original Content (Mock #180),Definitely Not Fan Fiction,audiobook,2023-05-13,90
+CNT_00181,BIZ_3,CR_0014,Episode 63: Totally Original Content (Mock #181),Indie Fiction,poll,2025-05-24,2
+CNT_00182,BIZ_2,,[MOCK THREAD] Anyone else fake topic #182,Fan Theories,serialized_chapter,2025-05-26,25
+CNT_00183,BIZ_1,,The Fake Diary (Mock Book #183),Fake History of Imaginary Countries,forum_post,2025-05-23,12
+CNT_00184,BIZ_2,,[MOCK THREAD] PSA: fake topic #184,General Nonsense,forum_post,2023-03-11,5
+CNT_00185,BIZ_1,,The Secret Diary (Mock Book #185),Fantasy,poll,2021-08-10,8
+CNT_00186,BIZ_1,,The Secret Prairiefox (Mock Book #186),Fake History of Imaginary Countries,audiobook,2025-12-15,45
+CNT_00187,BIZ_3,CR_0016,Episode 28: Totally Original Content (Mock #187),Serialized Drama,serialized_chapter,2026-09-13,25
+CNT_00188,BIZ_2,,[MOCK THREAD] Anyone else fake topic #188,Ask the Community,poll,2022-08-28,2
+CNT_00189,BIZ_3,CR_0005,Episode 13: Totally Original Content (Mock #189),Serialized Drama,forum_post,2026-04-25,8
+CNT_00190,BIZ_2,,[MOCK THREAD] PSA: fake topic #190,Book Club Chatter,serialized_chapter,2025-11-12,25
+CNT_00191,BIZ_3,CR_0018,Episode 5: Totally Original Content (Mock #191),Definitely Not Fan Fiction,ebook,2026-07-09,25
+CNT_00192,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #192,Ask the Community,poll,2025-03-18,2
+CNT_00193,BIZ_2,,[MOCK THREAD] Rant: fake topic #193,Memes About Reading,forum_post,2025-12-29,8
+CNT_00194,BIZ_2,,[MOCK THREAD] Anyone else fake topic #194,Book Club Chatter,ebook,2022-05-15,45
+CNT_00195,BIZ_1,,The Imaginary Recipe (Mock Book #195),Fake History of Imaginary Countries,ebook,2026-05-19,25
+CNT_00196,BIZ_3,CR_0014,Episode 50: Totally Original Content (Mock #196),Indie Fiction,video,2025-11-12,45
+CNT_00197,BIZ_1,,The Great Diary (Mock Book #197),Sci-Fi,ebook,2023-01-28,90
+CNT_00198,BIZ_1,,The Great Algorithm (Mock Book #198),Fake History of Imaginary Countries,serialized_chapter,2026-06-25,12
+CNT_00199,BIZ_2,,[MOCK THREAD] Anyone else fake topic #199,General Nonsense,video,2023-04-30,8
+CNT_00200,BIZ_1,,The Imaginary Recipe (Mock Book #200),Sci-Fi,ebook,2026-01-06,45
+CNT_00201,BIZ_3,CR_0010,Episode 74: Totally Original Content (Mock #201),Indie Fiction,audiobook,2022-10-23,180
+CNT_00202,BIZ_3,CR_0004,Episode 11: Totally Original Content (Mock #202),How-To Guides,ebook,2026-09-05,45
+CNT_00203,BIZ_3,CR_0013,Episode 55: Totally Original Content (Mock #203),Poetry (Bad),poll,2026-06-22,5
+CNT_00204,BIZ_2,,[MOCK THREAD] PSA: fake topic #204,Book Club Chatter,poll,2025-12-28,8
+CNT_00205,BIZ_1,,The Last Prairiefox (Mock Book #205),Self-Help,forum_post,2023-05-10,8
+CNT_00206,BIZ_3,CR_0018,Episode 5: Totally Original Content (Mock #206),Indie Fiction,audiobook,2026-05-02,90
+CNT_00207,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #207,Fan Theories,serialized_chapter,2023-06-04,12
+CNT_00208,BIZ_3,CR_0010,Episode 94: Totally Original Content (Mock #208),How-To Guides,serialized_chapter,2022-03-20,12
+CNT_00209,BIZ_3,CR_0019,Episode 49: Totally Original Content (Mock #209),How-To Guides,poll,2022-10-31,5
+CNT_00210,BIZ_3,CR_0019,Episode 87: Totally Original Content (Mock #210),Indie Fiction,video,2022-08-10,8
+CNT_00211,BIZ_1,,The Last Recipe (Mock Book #211),Fantasy,poll,2025-03-05,8
+CNT_00212,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #212,General Nonsense,video,2022-09-21,8
+CNT_00213,BIZ_3,CR_0027,Episode 4: Totally Original Content (Mock #213),Definitely Not Fan Fiction,serialized_chapter,2023-10-11,25
+CNT_00214,BIZ_1,,The Imaginary Dragon (Mock Book #214),Fantasy,poll,2025-07-25,2
+CNT_00215,BIZ_1,,The Great Diary (Mock Book #215),Fake History of Imaginary Countries,forum_post,2024-01-25,12
+CNT_00216,BIZ_2,,[MOCK THREAD] PSA: fake topic #216,Fan Theories,ebook,2022-02-06,25
+CNT_00217,BIZ_3,CR_0008,Episode 16: Totally Original Content (Mock #217),Definitely Not Fan Fiction,audiobook,2026-02-09,90
+CNT_00218,BIZ_3,CR_0008,Episode 68: Totally Original Content (Mock #218),Definitely Not Fan Fiction,forum_post,2025-04-23,8
+CNT_00219,BIZ_2,,[MOCK THREAD] Anyone else fake topic #219,General Nonsense,ebook,2022-12-01,45
+CNT_00220,BIZ_1,,The Secret Diary (Mock Book #220),Self-Help,poll,2025-07-08,8
+CNT_00221,BIZ_2,,[MOCK THREAD] PSA: fake topic #221,Fan Theories,ebook,2022-09-29,90
+CNT_00222,BIZ_3,CR_0027,Episode 73: Totally Original Content (Mock #222),Serialized Drama,poll,2024-01-01,5
+CNT_00223,BIZ_1,,The Last Recipe (Mock Book #223),Fake History of Imaginary Countries,TEST_TYPE,2025-09-10,12
+CNT_00224,BIZ_2,,[MOCK THREAD] PSA: fake topic #224,Memes About Reading,video,2026-04-04,25
+CNT_00225,BIZ_3,CR_0030,Episode 67: Totally Original Content (Mock #225),How-To Guides,poll,2025-04-20,5
+CNT_00226,BIZ_3,CR_0022,Episode 53: Totally Original Content (Mock #226),Indie Fiction,video,2024-10-12,12
+CNT_00227,BIZ_3,CR_0006,Episode 94: Totally Original Content (Mock #227),Indie Fiction,audiobook,2026-02-14,180
+CNT_00228,BIZ_3,CR_0007,Episode 96: Totally Original Content (Mock #228),Indie Fiction,forum_post,2026-07-12,8
+CNT_00229,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #229,General Nonsense,video,2026-08-02,12
+CNT_00230,BIZ_1,,The Imaginary Dragon (Mock Book #230),Fake History of Imaginary Countries,video,2021-02-26,25
+CNT_00231,BIZ_3,CR_0030,Episode 90: Totally Original Content (Mock #231),Indie Fiction,serialized_chapter,2024-11-14,25
+CNT_00232,BIZ_3,CR_0004,Episode 78: Totally Original Content (Mock #232),Poetry (Bad),video,2026-07-02,25
+CNT_00233,BIZ_3,CR_0006,Episode 47: Totally Original Content (Mock #233),Serialized Drama,poll,2025-05-13,8
+CNT_00234,BIZ_3,CR_0030,Episode 64: Totally Original Content (Mock #234),Indie Fiction,video,2025-12-30,45
+CNT_00235,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #235,Ask the Community,forum_post,2022-04-28,5
+CNT_00236,BIZ_2,,[MOCK THREAD] PSA: fake topic #236,Memes About Reading,forum_post,2023-05-23,8
+CNT_00237,BIZ_3,CR_0028,Episode 28: Totally Original Content (Mock #237),Poetry (Bad),forum_post,2026-04-13,12
+CNT_00238,BIZ_2,,[MOCK THREAD] Anyone else fake topic #238,Memes About Reading,forum_post,2026-04-10,8
+CNT_00239,BIZ_3,CR_0022,Episode 46: Totally Original Content (Mock #239),How-To Guides,ebook,2025-10-27,25
+CNT_00240,BIZ_3,CR_0028,Episode 46: Totally Original Content (Mock #240),Serialized Drama,ebook,2022-09-06,45
+CNT_00241,BIZ_3,CR_0007,Episode 68: Totally Original Content (Mock #241),Serialized Drama,serialized_chapter,2025-08-08,25
+CNT_00242,BIZ_1,,The Great Recipe (Mock Book #242),Self-Help,forum_post,2023-10-22,8
+CNT_00243,BIZ_2,,[MOCK THREAD] PSA: fake topic #243,Memes About Reading,forum_post,2025-02-01,8
+CNT_00244,BIZ_1,,The Last Dragon (Mock Book #244),Mystery,video,2025-12-05,45
+CNT_00245,BIZ_2,,[MOCK THREAD] Rant: fake topic #245,Ask the Community,ebook,2025-01-11,90
+CNT_00246,BIZ_1,,The Last Dragon (Mock Book #246),Sci-Fi,audiobook,2025-06-05,180
+CNT_00247,BIZ_2,,[MOCK THREAD] Anyone else fake topic #247,Ask the Community,audiobook,2023-03-27,45
+CNT_00248,BIZ_2,,[MOCK THREAD] Anyone else fake topic #248,Ask the Community,video,2026-06-27,8
+CNT_00249,BIZ_1,,The Secret Diary (Mock Book #249),Cooking,forum_post,2025-06-26,5
+CNT_00250,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #250,Memes About Reading,ebook,2022-03-18,45
+CNT_00251,BIZ_1,,The Last Prairiefox (Mock Book #251),Sci-Fi,ebook,2023-08-27,25
+CNT_00252,BIZ_1,,The Last Algorithm (Mock Book #252),Cooking,serialized_chapter,2021-02-02,45
+CNT_00253,BIZ_3,CR_0021,Episode 63: Totally Original Content (Mock #253),How-To Guides,ebook,2025-10-23,25
+CNT_00254,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #254,Fan Theories,audiobook,2024-02-26,90
+CNT_00255,BIZ_1,,The Secret Algorithm (Mock Book #255),Romance,audiobook,2026-04-26,45
+CNT_00256,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #256,General Nonsense,TEST_TYPE,2022-09-02,12
+CNT_00257,BIZ_3,CR_0028,Episode 5: Totally Original Content (Mock #257),Serialized Drama,forum_post,2023-02-27,8
+CNT_00258,BIZ_1,,The Imaginary Recipe (Mock Book #258),Fantasy,ebook,2021-07-28,25
+CNT_00259,BIZ_2,,[MOCK THREAD] PSA: fake topic #259,General Nonsense,poll,2023-08-06,5
+CNT_00260,BIZ_1,,The Fake Dragon (Mock Book #260),Self-Help,serialized_chapter,2025-10-16,-1
+CNT_00261,BIZ_1,,The Great Diary (Mock Book #261),Romance,forum_post,2024-02-24,12
+CNT_00262,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #262,Memes About Reading,forum_post,2021-07-14,12
+CNT_00263,BIZ_2,,[MOCK THREAD] Anyone else fake topic #263,Book Club Chatter,poll,2024-08-10,8
+CNT_00264,BIZ_2,,[MOCK THREAD] PSA: fake topic #264,Memes About Reading,serialized_chapter,2022-02-17,45
+CNT_00265,BIZ_3,CR_0034,Episode 47: Totally Original Content (Mock #265),How-To Guides,forum_post,2024-05-31,12
+CNT_00266,BIZ_3,CR_0039,Episode 99: Totally Original Content (Mock #266),Indie Fiction,ebook,2026-06-13,25
+CNT_00267,BIZ_2,,[MOCK THREAD] PSA: fake topic #267,Ask the Community,audiobook,2024-02-05,90
+CNT_00268,BIZ_1,,The Great Dragon (Mock Book #268),Self-Help,audiobook,2022-05-08,90
+CNT_00269,BIZ_3,CR_0015,Episode 91: Totally Original Content (Mock #269),Serialized Drama,video,2026-02-20,12
+CNT_00270,BIZ_1,,The Last Diary (Mock Book #270),Mystery,poll,2026-04-27,2
+CNT_00271,BIZ_2,,[MOCK THREAD] Anyone else fake topic #271,Fan Theories,audiobook,2023-02-25,180
+CNT_00272,BIZ_1,,The Last Prairiefox (Mock Book #272),Fake History of Imaginary Countries,TEST_TYPE,2025-02-08,12
+CNT_00273,BIZ_1,,The Great Algorithm (Mock Book #273),Fake History of Imaginary Countries,ebook,2026-06-01,90
+CNT_00274,BIZ_3,CR_0003,Episode 22: Totally Original Content (Mock #274),Poetry (Bad),serialized_chapter,2024-01-28,25
+CNT_00275,BIZ_3,CR_0040,Episode 8: Totally Original Content (Mock #275),Indie Fiction,forum_post,2026-05-14,12
+CNT_00276,BIZ_3,CR_0036,Episode 10: Totally Original Content (Mock #276),Poetry (Bad),audiobook,2025-11-29,90
+CNT_00277,BIZ_2,,[MOCK THREAD] Rant: fake topic #277,General Nonsense,video,2024-01-18,12
+CNT_00278,BIZ_1,,The Secret Prairiefox (Mock Book #278),Fantasy,audiobook,2021-02-06,180
+CNT_00279,BIZ_1,,The Imaginary Diary (Mock Book #279),Mystery,forum_post,2023-06-22,5
+CNT_00280,BIZ_1,,The Imaginary Dragon (Mock Book #280),Romance,audiobook,2023-07-07,90
+CNT_00281,BIZ_2,,[MOCK THREAD] PSA: fake topic #281,Fan Theories,ebook,2022-08-30,45
+CNT_00282,BIZ_3,CR_0005,Episode 83: Totally Original Content (Mock #282),How-To Guides,audiobook,2023-05-11,45
+CNT_00283,BIZ_3,CR_0025,Episode 81: Totally Original Content (Mock #283),Indie Fiction,serialized_chapter,2026-03-11,25
+CNT_00284,BIZ_1,,The Imaginary Diary (Mock Book #284),Fake History of Imaginary Countries,poll,2022-07-02,5
+CNT_00285,BIZ_3,CR_0023,Episode 8: Totally Original Content (Mock #285),How-To Guides,poll,2022-12-02,8
+CNT_00286,BIZ_3,CR_0014,Episode 33: Totally Original Content (Mock #286),How-To Guides,ebook,2024-08-31,45
+CNT_00287,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #287,Ask the Community,video,2025-12-17,25
+CNT_00288,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #288,Ask the Community,serialized_chapter,2025-06-08,25
+CNT_00289,BIZ_2,,[MOCK THREAD] Rant: fake topic #289,Fan Theories,forum_post,2022-08-31,8
+CNT_00290,BIZ_1,,The Secret Algorithm (Mock Book #290),Self-Help,audiobook,2022-12-23,180
+CNT_00291,BIZ_2,,[MOCK THREAD] Unpopular opinion: fake topic #291,Memes About Reading,poll,2024-03-01,8
+CNT_00292,BIZ_3,CR_0014,Episode 51: Totally Original Content (Mock #292),Serialized Drama,poll,2025-04-16,2
+CNT_00293,BIZ_1,,The Fake Recipe (Mock Book #293),Fantasy,video,2025-07-07,12
+CNT_00294,BIZ_1,,The Secret Dragon (Mock Book #294),Mystery,serialized_chapter,2020-12-24,45
+CNT_00295,BIZ_1,,The Great Dragon (Mock Book #295),Fantasy,serialized_chapter,2021-06-29,45
+CNT_00296,BIZ_1,,The Great Diary (Mock Book #296),Cooking,audiobook,2021-02-25,45
+CNT_00297,BIZ_3,CR_0038,Episode 95: Totally Original Content (Mock #297),Indie Fiction,serialized_chapter,2024-10-18,25
+CNT_00298,BIZ_3,CR_0033,Episode 98: Totally Original Content (Mock #298),Serialized Drama,serialized_chapter,2025-12-25,12
+CNT_00299,BIZ_2,,[MOCK THREAD] Rant: fake topic #299,Ask the Community,audiobook,2023-09-26,180
+CNT_00300,BIZ_1,,The Last Prairiefox (Mock Book #300),Fake History of Imaginary Countries,ebook,2021-03-28,25

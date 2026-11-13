@@ -1,0 +1,807 @@
+user_id,user_name,email,signup_date,country,age_band,acquisition_channel,primary_device,is_test_account_flag
+USR_00001,Buzzy Prairiefox,usr00001@example.test,2021-03-02,Australia,18-24,influencer_TEST_CAMPAIGN,iOS_app,FALSE
+USR_00002,Tessa Skyward,usr00002@example.test,2022-11-06,Germany,45-54,organic_search,iOS_app,FALSE
+USR_00003,Bowie Cottontail,usr00003@example.test,2022-09-27,Japan,13-17,organic_search,Android_app,FALSE
+USR_00004,Zephyr Prairiefox,usr00004@example.test,2026-05-07,Brazil,18-24,referral,Android_app,FALSE
+USR_00005,Moxie Inkwell,usr00005@example.test,2023-08-22,Altara,N/A,paid_social,web_mobile,FALSE
+USR_00006,Finley Skyward,usr00006@example.test,2024-07-10,Latoria,45-54,paid_social,web_mobile,FALSE
+USR_00007,Rook Sampleridge,usr00007@example.test,2026-02-21,Japan,35-44,paid_social,Android_app,FALSE
+USR_00008,Izzy Storyfield,usr00008@example.test,2021-10-09,Germany,13-17,referral,web_mobile,FALSE
+USR_00009,Denny Holdsworth,usr00009@example.test,2024-05-11,Hogglewick,25-34,referral,web_desktop,FALSE
+USR_00010,Wiley Holdsworth,usr00010@example.test,2023-05-13,Genora,13-17,carrier_pigeon,web_mobile,FALSE
+USR_00011,Tessa Ninetree,usr00011@example.test,2024-02-08,Genora,25-34,email_campaign,Android_app,FALSE
+USR_00012,Sunny Meadowson,usr00012@example.test,2021-02-09,United States,13-17,referral,iOS_app,FALSE
+USR_00013,Izzy Checkwell,usr00013@example.test,2021-06-21,Eloria,35-44,paid_social,web_desktop,FALSE
+USR_00014,Emery Prairiefox,usr00014@example.test,2022-09-26,Nearia,25-34,email_campaign,Android_app,FALSE
+USR_00015,Moxie Skyward,usr00015@example.test,2023-12-29,Australia,N/A,email_campaign,iOS_app,FALSE
+USR_00016,Buzzy Trialton,usr00016@example.test,2024-06-04,Canada,55-64,referral,web_mobile,FALSE
+USR_00017,Zephyr Skyward,usr00017@example.test,2024-12-09,Nearia,18-24,email_campaign,web_mobile,FALSE
+USR_00018,Tully Sander,usr00018@example.test,2021-06-06,Zubria,65+,email_campaign,web_desktop,FALSE
+USR_00019,Juno Trialton,usr00019@example.test,2023-11-10,United States,65+,referral,Android_app,FALSE
+USR_00020,Bowie Storyfield,usr00020@example.test,2024-07-09,Zubria,65+,paid_social,web_mobile,FALSE
+USR_00021,Jory Prairiefox,usr00021@example.test,2023-02-25,Canada,35-44,paid_social,web_mobile,FALSE
+USR_00022,Rook Ninetree,usr00022@example.test,2023-05-11,Germany,13-17,paid_social,web_mobile,FALSE
+USR_00023,Sunny Storyfield,usr00023@example.test,2022-11-27,Altara,35-44,email_campaign,web_desktop,FALSE
+USR_00024,Pacey Inkwell,usr00024@example.test,2022-08-27,Altara,65+,email_campaign,iOS_app,FALSE
+USR_00025,Jory Inkwell,usr00025@example.test,2025-04-22,Nearia,18-24,paid_social,web_mobile,FALSE
+USR_00026,Marlo Inkwell,usr00026@example.test,2026-03-18,Germany,25-34,paid_social,iOS_app,FALSE
+USR_00027,Zephyr Sander,usr00027@example.test,2025-12-18,Wondervale,13-17,referral,web_desktop,FALSE
+USR_00028,Xeno Inkwell,usr00028@example.test,2024-02-10,Germany,18-24,paid_social,Android_app,FALSE
+USR_00029,Marlo Fableton,usr00029@example.test,2024-10-07,Gondale,35-44,referral,iOS_app,FALSE
+USR_00030,Juno Sander,usr00030@example.test,2023-05-27,Japan,55-64,paid_social,web_mobile,FALSE
+USR_00031,Rook Trialton,usr00031@example.test,2025-09-17,Australia,13-17,email_campaign,web_mobile,FALSE
+USR_00032,Marlo Inkwell,usr00032@example.test,2025-09-13,Freelandia,N/A,referral,iOS_app,FALSE
+USR_00033,Jory Prairiefox,usr00033@example.test,2025-05-12,Gondale,65+,organic_search,iOS_app,FALSE
+USR_00034,Juno Meadowson,usr00034@example.test,2021-12-10,Wondervale,13-17,referral,Android_app,FALSE
+USR_00035,Lumen Ninetree,usr00035@example.test,2023-05-17,Genora,65+,organic_search,smart_toaster,FALSE
+USR_00036,Pacey Beetlebrook,usr00036@example.test,2021-03-21,Altara,,carrier_pigeon,web_mobile,FALSE
+USR_00037,Denny Inkwell,usr00037@example.test,2021-03-25,Australia,18-24,paid_social,iOS_app,FALSE
+USR_00038,Tully Sampleridge,usr00038@example.test,2025-02-19,Latoria,18-24,email_campaign,unknown_device,FALSE
+USR_00039,Sunny Inkwell,usr00039@example.test,2025-06-13,Latoria,25-34,organic_search,web_desktop,FALSE
+USR_00040,Juno Beetlebrook,usr00040@example.test,2024-11-23,Brazil,,paid_social,web_desktop,TRUE
+USR_00041,Izzy Fable,usr00041@example.test,2022-03-09,United Kingdom,25-34,email_campaign,iOS_app,FALSE
+USR_00042,Rook Holdsworth,usr00042@example.test,2026-03-20,Freelandia,18-24,organic_search,web_desktop,FALSE
+USR_00043,Tully Skyward,usr00043@example.test,2026-03-19,Nearia,55-64,email_campaign,web_mobile,FALSE
+USR_00044,Finley Ninetree,usr00044@example.test,2023-05-19,Genora,45-54,organic_search,web_desktop,FALSE
+USR_00045,Juno Noll,usr00045@example.test,2021-12-17,Australia,55-64,referral,web_mobile,FALSE
+USR_00046,Jory Inkwell,usr00046@example.test,2024-04-20,United States,18-24,email_campaign,iOS_app,FALSE
+USR_00047,Finley Storyfield,usr00047@example.test,2024-12-12,Freelandia,18-24,organic_search,web_mobile,FALSE
+USR_00048,Wiley Noll,usr00048@example.test,2023-01-29,Brazil,45-54,email_campaign,unknown_device,FALSE
+USR_00049,Izzy Prairiefox,usr00049@example.test,2024-04-28,Nearia,55-64,email_campaign,Android_app,FALSE
+USR_00050,Bowie Meadowson,usr00050@example.test,2021-08-12,Hogglewick,,referral,web_mobile,FALSE
+USR_00051,Emery Checkwell,usr00051@example.test,2025-12-10,Australia,18-24,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00052,Fable Checkwell,usr00052@example.test,2021-10-31,Gondale,13-17,organic_search,web_mobile,FALSE
+USR_00053,Juno Inkwell,usr00053@example.test,2022-05-01,Germany,45-54,paid_social,web_mobile,FALSE
+USR_00054,Tully Checkwell,usr00054@example.test,2024-06-04,Eloria,35-44,email_campaign,iOS_app,FALSE
+USR_00055,Emery Fableton,usr00055@example.test,2022-10-06,Nearia,65+,paid_social,iOS_app,FALSE
+USR_00056,Buzzy Storyfield,usr00056@example.test,2024-04-07,Germany,18-24,organic_search,web_desktop,FALSE
+USR_00057,Marlo Inkwell,usr00057@example.test,2025-10-08,Genora,25-34,paid_social,web_mobile,FALSE
+USR_00058,Rook Storyfield,usr00058@example.test,2024-06-13,Hogglewick,65+,referral,web_desktop,FALSE
+USR_00059,Marlo Noll,usr00059@example.test,2024-01-21,Altara,45-54,email_campaign,web_mobile,FALSE
+USR_00060,Sunny Inkwell,usr00060@example.test,2023-10-23,Genora,55-64,paid_social,Android_app,FALSE
+USR_00061,Emery Sander,usr00061@example.test,2025-12-17,Altara,18-24,organic_search,iOS_app,FALSE
+USR_00062,Emery Ninetree,usr00062@example.test,2024-08-08,Australia,45-54,paid_social,web_desktop,FALSE
+USR_00063,Lumen Holdsworth,usr00063@example.test,2026-02-06,Hogglewick,65+,referral,unknown_device,FALSE
+USR_00064,Wiley Beetlebrook,usr00064@example.test,2025-08-20,Germany,13-17,organic_search,web_desktop,FALSE
+USR_00065,Xeno Sampleridge,usr00065@example.test,2024-03-25,Freelandia,25-34,paid_social,web_desktop,FALSE
+USR_00066,Buzzy Sampleridge,usr00066@example.test,2025-07-30,Hogglewick,25-34,email_campaign,iOS_app,TRUE
+USR_00067,Juno Noll,usr00067@example.test,2026-09-16,Freelandia,55-64,referral,web_mobile,FALSE
+USR_00068,Sunny Holdsworth,usr00068@example.test,2026-09-13,Zubria,13-17,organic_search,web_mobile,FALSE
+USR_00069,Rook Noll,usr00069@example.test,2024-05-07,Germany,55-64,organic_search,web_mobile,FALSE
+USR_00070,Lumen Cottontail,usr00070@example.test,2025-03-26,Canada,35-44,paid_social,iOS_app,FALSE
+USR_00071,Jory Meadowson,usr00071@example.test,2026-04-22,Wavanda,25-34,referral,unknown_device,FALSE
+USR_00072,Quinn Trialton,usr00072@example.test,2022-02-13,United Kingdom,25-34,email_campaign,iOS_app,FALSE
+USR_00073,Jory Fableton,usr00073@example.test,2024-10-18,Japan,65+,email_campaign,Android_app,FALSE
+USR_00074,Sunny Inkwell,usr00074@example.test,2021-05-28,Freelandia,18-24,email_campaign,iOS_app,FALSE
+USR_00075,Bowie Trialton,usr00075@example.test,2025-12-23,Zubria,13-17,paid_social,iOS_app,FALSE
+USR_00076,Buzzy Sander,usr00076@example.test,2025-10-31,Wondervale,,email_campaign,unknown_device,FALSE
+USR_00077,Rook Meadowson,usr00077@example.test,2023-09-14,Germany,45-54,email_campaign,iOS_app,FALSE
+USR_00078,Marlo Prairiefox,usr00078@example.test,2026-03-21,Germany,55-64,email_campaign,Android_app,FALSE
+USR_00079,Bowie Cottontail,usr00079@example.test,2023-10-22,Australia,18-24,email_campaign,web_desktop,FALSE
+USR_00080,Tessa Skyward,usr00080@example.test,2024-04-26,Nearia,65+,email_campaign,web_mobile,FALSE
+USR_00081,Tully Beetlebrook,usr00081@example.test,2024-03-18,Eloria,13-17,organic_search,Android_app,FALSE
+USR_00082,Fable Checkwell,usr00082@example.test,2022-02-02,Germany,13-17,email_campaign,iOS_app,FALSE
+USR_00083,Lumen Sander,usr00083@example.test,2022-01-05,Eloria,25-34,paid_social,Android_app,FALSE
+USR_00084,Xeno Storyfield,usr00084@example.test,2022-11-05,Hogglewick,25-34,email_campaign,web_desktop,TRUE
+USR_00085,Izzy Fableton,usr00085@example.test,2025-06-16,Nearia,45-54,referral,iOS_app,FALSE
+USR_00086,Jory Beetlebrook,usr00086@example.test,2023-12-10,Freelandia,25-34,email_campaign,Android_app,FALSE
+USR_00087,Sunny Fable,usr00087@example.test,2023-06-26,United Kingdom,18-24,paid_social,iOS_app,FALSE
+USR_00088,Moxie Sampleridge,usr00088@example.test,2024-05-31,Japan,25-34,paid_social,Android_app,FALSE
+USR_00089,Denny Sander,usr00089@example.test,2025-09-13,Australia,35-44,,iOS_app,FALSE
+USR_00090,Quinn Fable,usr00090@example.test,2025-02-26,United States,,,web_desktop,FALSE
+USR_00091,Finley Cottontail,usr00091@example.test,2021-09-06,Germany,999,email_campaign,web_desktop,FALSE
+USR_00092,Buzzy Meadowson,usr00092@example.test,2021-07-27,Altara,35-44,organic_search,web_mobile,FALSE
+USR_00093,Denny Trialton,usr00093@example.test,2023-08-13,Gondale,999,,iOS_app,TRUE
+USR_00094,Tessa Beetlebrook,usr00094@example.test,2021-04-16,Zubria,13-17,email_campaign,iOS_app,FALSE
+USR_00095,Zephyr Sampleridge,usr00095@example.test,2022-06-04,Australia,35-44,organic_search,web_desktop,FALSE
+USR_00096,Buzzy Checkwell,usr00096@example.test,2026-01-26,Germany,13-17,organic_search,web_mobile,FALSE
+USR_00097,Xeno Fable,usr00097@example.test,2025-10-13,Altara,55-64,organic_search,web_desktop,FALSE
+USR_00098,Fable Ninetree,usr00098@example.test,2024-02-01,Brazil,45-54,organic_search,web_desktop,FALSE
+USR_00099,Fable Cottontail,usr00099@example.test,2022-02-11,Germany,35-44,referral,web_mobile,FALSE
+USR_00100,Moxie Ninetree,usr00100@example.test,2025-06-22,Zubria,45-54,influencer_TEST_CAMPAIGN,iOS_app,FALSE
+USR_00101,Sunny Fableton,usr00101@example.test,2021-10-02,Hogglewick,55-64,,iOS_app,FALSE
+USR_00102,Juno Beetlebrook,usr00102@example.test,2024-09-12,Wavanda,45-54,paid_social,web_mobile,FALSE
+USR_00103,Denny Noll,usr00103@example.test,2026-09-10,Hogglewick,55-64,referral,web_mobile,FALSE
+USR_00104,Marlo Trialton,usr00104@example.test,2023-07-16,Nearia,25-34,email_campaign,web_desktop,FALSE
+USR_00105,Tessa Prairiefox,usr00105@example.test,2024-10-23,Canada,18-24,paid_social,Android_app,FALSE
+USR_00106,Wiley Skyward,usr00106@example.test,2022-01-11,Germany,55-64,paid_social,web_mobile,FALSE
+USR_00107,Tully Fableton,usr00107@example.test,2024-08-21,Gondale,25-34,referral,iOS_app,FALSE
+USR_00108,Juno Noll,usr00108@example.test,2024-01-20,United Kingdom,45-54,email_campaign,Android_app,FALSE
+USR_00109,Moxie Storyfield,usr00109@example.test,2024-11-14,Brazil,45-54,paid_social,iOS_app,FALSE
+USR_00110,Wiley Storyfield,usr00110@example.test,2021-08-13,Gondale,45-54,organic_search,Android_app,FALSE
+USR_00111,Juno Prairiefox,usr00111@example.test,2021-02-01,Canada,,organic_search,web_desktop,FALSE
+USR_00112,Pacey Sander,usr00112@example.test,2021-10-23,Germany,18-24,referral,iOS_app,FALSE
+USR_00113,Juno Storyfield,usr00113@example.test,2025-07-15,Canada,13-17,organic_search,Android_app,TRUE
+USR_00114,Juno Sampleridge,usr00114@example.test,2025-01-22,United Kingdom,25-34,paid_social,web_desktop,FALSE
+USR_00115,Lumen Inkwell,usr00115@example.test,2025-06-10,Wondervale,18-24,email_campaign,Android_app,FALSE
+USR_00116,Fable Meadowson,usr00116@example.test,2024-12-02,Hogglewick,,organic_search,iOS_app,FALSE
+USR_00117,Sunny Prairiefox,usr00117@example.test,2022-09-19,Germany,35-44,organic_search,unknown_device,FALSE
+USR_00118,Quinn Fableton,usr00118@example.test,2024-07-18,Germany,45-54,paid_social,iOS_app,FALSE
+USR_00119,Sunny Storyfield,usr00119@example.test,2024-12-12,Germany,13-17,organic_search,Android_app,FALSE
+USR_00120,Sunny Skyward,usr00120@example.test,2021-11-11,Japan,13-17,email_campaign,smart_toaster,FALSE
+USR_00121,Xeno Meadowson,usr00121@example.test,2024-08-09,Germany,18-24,organic_search,web_mobile,FALSE
+USR_00122,Emery Checkwell,usr00122@example.test,2026-08-29,Germany,35-44,paid_social,web_desktop,FALSE
+USR_00123,Juno Ninetree,usr00123@example.test,2024-03-04,Zubria,18-24,organic_search,web_desktop,FALSE
+USR_00124,Tully Meadowson,usr00124@example.test,2024-03-09,Altara,35-44,paid_social,iOS_app,FALSE
+USR_00125,Tully Fableton,usr00125@example.test,2025-05-25,Japan,65+,paid_social,unknown_device,FALSE
+USR_00126,Izzy Trialton,usr00126@example.test,2025-10-01,Latoria,,email_campaign,web_desktop,FALSE
+USR_00127,Denny Meadowson,usr00127@example.test,2023-02-26,Latoria,18-24,organic_search,web_mobile,FALSE
+USR_00128,Jory Meadowson,usr00128@example.test,2022-06-21,Wondervale,35-44,email_campaign,Android_app,FALSE
+USR_00129,Izzy Inkwell,usr00129@example.test,2021-06-28,Latoria,18-24,organic_search,web_desktop,FALSE
+USR_00130,Wiley Beetlebrook,usr00130@example.test,2024-06-21,Germany,45-54,influencer_TEST_CAMPAIGN,web_desktop,FALSE
+USR_00131,Tully Meadowson,usr00131@example.test,2022-10-26,Wavanda,65+,paid_social,iOS_app,FALSE
+USR_00132,Sunny Prairiefox,usr00132@example.test,2022-05-26,Germany,65+,referral,web_desktop,FALSE
+USR_00133,Izzy Trialton,usr00133@example.test,2023-06-29,Wavanda,65+,paid_social,web_desktop,FALSE
+USR_00134,Buzzy Trialton,usr00134@example.test,2021-12-01,Hogglewick,55-64,referral,iOS_app,FALSE
+USR_00135,Denny Noll,usr00135@example.test,2024-03-21,Nearia,18-24,paid_social,Android_app,FALSE
+USR_00136,Tully Sander,usr00136@example.test,2022-09-05,Latoria,35-44,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00137,Fable Fable,usr00137@example.test,2023-09-04,Hogglewick,65+,email_campaign,Android_app,FALSE
+USR_00138,Juno Trialton,usr00138@example.test,2022-08-12,Freelandia,65+,email_campaign,Android_app,FALSE
+USR_00139,Zephyr Trialton,usr00139@example.test,2025-01-17,Australia,13-17,organic_search,iOS_app,FALSE
+USR_00140,Sunny Beetlebrook,usr00140@example.test,2021-03-08,Hogglewick,65+,paid_social,Android_app,FALSE
+USR_00141,Lumen Prairiefox,usr00141@example.test,2024-12-14,Australia,25-34,organic_search,smart_toaster,FALSE
+USR_00142,Wiley Checkwell,usr00142@example.test,2021-06-01,Wavanda,55-64,paid_social,Android_app,FALSE
+USR_00143,Pacey Cottontail,usr00143@example.test,2026-04-24,United States,13-17,referral,Android_app,FALSE
+USR_00144,Jory Fable,usr00144@example.test,2025-02-16,Zubria,25-34,,Android_app,FALSE
+USR_00145,Finley Fableton,usr00145@example.test,2025-02-13,Altara,65+,email_campaign,web_mobile,FALSE
+USR_00146,Sunny Ninetree,usr00146@example.test,2024-08-08,Latoria,25-34,organic_search,iOS_app,FALSE
+USR_00147,Pacey Beetlebrook,usr00147@example.test,2024-12-10,Genora,13-17,paid_social,web_mobile,FALSE
+USR_00148,Emery Trialton,usr00148@example.test,2025-01-28,Germany,,email_campaign,smart_toaster,FALSE
+USR_00149,Jory Checkwell,usr00149@example.test,2025-02-09,Germany,55-64,paid_social,iOS_app,FALSE
+USR_00150,Izzy Skyward,usr00150@example.test,2022-07-18,Genora,35-44,email_campaign,unknown_device,FALSE
+USR_00151,Jory Sampleridge,usr00151@example.test,2026-08-07,Genora,13-17,organic_search,web_desktop,FALSE
+USR_00152,Moxie Meadowson,usr00152@example.test,2026-07-05,Germany,25-34,organic_search,Android_app,FALSE
+USR_00153,Marlo Storyfield,usr00153@example.test,2024-11-24,Wondervale,25-34,referral,Android_app,TRUE
+USR_00154,Denny Inkwell,usr00154@example.test,2022-05-13,Nearia,55-64,email_campaign,web_desktop,FALSE
+USR_00155,Bowie Skyward,usr00155@example.test,2021-12-20,Brazil,65+,referral,Android_app,FALSE
+USR_00156,Fable Fableton,usr00156@example.test,2022-05-29,Germany,45-54,organic_search,Android_app,FALSE
+USR_00157,Zephyr Checkwell,usr00157@example.test,2022-06-13,Brazil,N/A,paid_social,iOS_app,FALSE
+USR_00158,Izzy Storyfield,usr00158@example.test,2024-08-14,Genora,35-44,email_campaign,web_mobile,FALSE
+USR_00159,Fable Prairiefox,usr00159@example.test,2022-01-18,Wondervale,45-54,organic_search,Android_app,FALSE
+USR_00160,Pacey Holdsworth,usr00160@example.test,2021-04-27,United Kingdom,35-44,paid_social,web_mobile,FALSE
+USR_00161,Buzzy Skyward,usr00161@example.test,2024-05-22,Germany,18-24,referral,web_mobile,FALSE
+USR_00162,Quinn Cottontail,usr00162@example.test,2025-08-30,Gondale,55-64,referral,web_mobile,FALSE
+USR_00163,Izzy Sampleridge,usr00163@example.test,2025-06-22,Freelandia,18-24,paid_social,web_mobile,FALSE
+USR_00164,Moxie Checkwell,usr00164@example.test,2023-10-13,Canada,,email_campaign,Android_app,FALSE
+USR_00165,Lumen Cottontail,usr00165@example.test,2024-09-03,Australia,13-17,email_campaign,Android_app,FALSE
+USR_00166,Sunny Skyward,usr00166@example.test,2026-07-31,Freelandia,35-44,organic_search,Android_app,FALSE
+USR_00167,Tully Noll,usr00167@example.test,2024-02-27,Japan,13-17,organic_search,web_desktop,FALSE
+USR_00168,Jory Beetlebrook,usr00168@example.test,2023-12-20,Canada,13-17,organic_search,web_desktop,FALSE
+USR_00169,Zephyr Fable,usr00169@example.test,2021-10-29,Hogglewick,25-34,referral,web_mobile,FALSE
+USR_00170,Izzy Meadowson,usr00170@example.test,2024-10-20,Brazil,65+,email_campaign,Android_app,FALSE
+USR_00171,Xeno Fable,usr00171@example.test,2022-07-16,Brazil,25-34,organic_search,unknown_device,FALSE
+USR_00172,Tully Storyfield,usr00172@example.test,2022-10-28,Brazil,55-64,referral,web_desktop,FALSE
+USR_00173,Izzy Ninetree,usr00173@example.test,2026-04-30,United Kingdom,65+,email_campaign,Android_app,FALSE
+USR_00174,Fable Inkwell,usr00174@example.test,2026-04-28,Australia,25-34,organic_search,iOS_app,FALSE
+USR_00175,Moxie Cottontail,usr00175@example.test,2021-05-10,Germany,55-64,referral,web_mobile,FALSE
+USR_00176,Zephyr Noll,usr00176@example.test,2023-04-16,Gondale,45-54,paid_social,iOS_app,FALSE
+USR_00177,Jory Ninetree,usr00177@example.test,2026-05-14,Germany,35-44,organic_search,Android_app,FALSE
+USR_00178,Xeno Cottontail,usr00178@example.test,2023-12-19,Genora,35-44,email_campaign,iOS_app,FALSE
+USR_00179,Xeno Ninetree,usr00179@example.test,2024-03-29,United States,35-44,referral,web_mobile,FALSE
+USR_00180,Izzy Meadowson,usr00180@example.test,2025-04-05,Wavanda,45-54,referral,Android_app,FALSE
+USR_00181,Wiley Cottontail,usr00181@example.test,2023-11-17,Japan,45-54,organic_search,iOS_app,FALSE
+USR_00182,Zephyr Inkwell,usr00182@example.test,2023-09-21,Wavanda,18-24,email_campaign,web_mobile,FALSE
+USR_00183,Tessa Prairiefox,usr00183@example.test,2022-02-16,Australia,55-64,paid_social,Android_app,FALSE
+USR_00184,Pacey Fableton,usr00184@example.test,2024-03-15,Japan,13-17,paid_social,web_desktop,FALSE
+USR_00185,Xeno Prairiefox,usr00185@example.test,2021-05-29,Wavanda,13-17,paid_social,Android_app,FALSE
+USR_00186,Quinn Noll,usr00186@example.test,2024-10-04,Brazil,18-24,email_campaign,Android_app,FALSE
+USR_00187,Quinn Holdsworth,usr00187@example.test,2024-09-16,Nearia,55-64,email_campaign,Android_app,FALSE
+USR_00188,Fable Skyward,usr00188@example.test,2022-12-20,Brazil,55-64,referral,web_mobile,FALSE
+USR_00189,Xeno Ninetree,usr00189@example.test,2023-01-27,Nearia,45-54,organic_search,web_mobile,TRUE
+USR_00190,Bowie Trialton,usr00190@example.test,2023-12-30,United States,35-44,organic_search,web_mobile,FALSE
+USR_00191,Emery Skyward,usr00191@example.test,2026-03-22,Hogglewick,45-54,email_campaign,Android_app,FALSE
+USR_00192,Xeno Meadowson,usr00192@example.test,2023-06-17,United States,65+,referral,web_mobile,FALSE
+USR_00193,Sunny Fable,usr00193@example.test,2023-10-11,Altara,18-24,carrier_pigeon,web_mobile,FALSE
+USR_00194,Lumen Fable,usr00194@example.test,2022-09-06,Eloria,18-24,referral,web_mobile,FALSE
+USR_00195,Denny Sander,usr00195@example.test,2021-08-16,Wavanda,55-64,email_campaign,web_desktop,FALSE
+USR_00196,Finley Trialton,usr00196@example.test,2021-03-31,Altara,13-17,email_campaign,web_mobile,FALSE
+USR_00197,Xeno Checkwell,usr00197@example.test,2021-09-04,United Kingdom,25-34,referral,Android_app,FALSE
+USR_00198,Quinn Skyward,usr00198@example.test,2025-03-14,Altara,35-44,referral,web_desktop,FALSE
+USR_00199,Marlo Skyward,usr00199@example.test,2022-05-01,Freelandia,13-17,email_campaign,iOS_app,FALSE
+USR_00200,Jory Inkwell,usr00200@example.test,2025-10-04,Germany,55-64,paid_social,web_mobile,FALSE
+USR_00201,Juno Trialton,usr00201@example.test,2022-04-08,Eloria,18-24,organic_search,iOS_app,FALSE
+USR_00202,Pacey Inkwell,usr00202@example.test,2026-01-03,Canada,18-24,organic_search,web_desktop,FALSE
+USR_00203,Zephyr Storyfield,usr00203@example.test,2021-08-20,Zubria,18-24,paid_social,web_desktop,FALSE
+USR_00204,Buzzy Sander,usr00204@example.test,2022-08-10,Genora,13-17,paid_social,web_desktop,FALSE
+USR_00205,Izzy Skyward,usr00205@example.test,2026-07-24,United Kingdom,65+,email_campaign,web_desktop,FALSE
+USR_00206,Xeno Inkwell,usr00206@example.test,2023-01-24,Latoria,25-34,referral,Android_app,FALSE
+USR_00207,Zephyr Meadowson,usr00207@example.test,2025-09-03,Freelandia,45-54,organic_search,web_mobile,FALSE
+USR_00208,Sunny Cottontail,usr00208@example.test,2026-01-17,Genora,65+,referral,web_desktop,FALSE
+USR_00209,Wiley Ninetree,usr00209@example.test,2023-06-08,Nearia,35-44,paid_social,web_desktop,FALSE
+USR_00210,Tully Cottontail,usr00210@example.test,2026-05-16,Freelandia,25-34,referral,web_desktop,FALSE
+USR_00211,Fable Beetlebrook,usr00211@example.test,2026-03-25,Genora,55-64,organic_search,web_desktop,FALSE
+USR_00212,Wiley Beetlebrook,usr00212@example.test,2026-04-08,United Kingdom,13-17,referral,Android_app,FALSE
+USR_00213,Marlo Sander,usr00213@example.test,2021-03-08,Gondale,35-44,paid_social,iOS_app,FALSE
+USR_00214,Marlo Ninetree,usr00214@example.test,2023-10-04,Australia,35-44,referral,web_mobile,FALSE
+USR_00215,Marlo Noll,usr00215@example.test,2022-11-25,Japan,13-17,email_campaign,Android_app,FALSE
+USR_00216,Denny Inkwell,usr00216@example.test,2021-01-27,Gondale,13-17,email_campaign,web_mobile,FALSE
+USR_00217,Tully Noll,usr00217@example.test,2025-03-09,Nearia,13-17,organic_search,Android_app,FALSE
+USR_00218,Bowie Trialton,usr00218@example.test,2024-01-31,Wondervale,18-24,email_campaign,web_desktop,FALSE
+USR_00219,Tully Holdsworth,usr00219@example.test,2023-09-15,Genora,65+,referral,web_desktop,FALSE
+USR_00220,Buzzy Inkwell,usr00220@example.test,2026-02-24,Altara,,email_campaign,iOS_app,FALSE
+USR_00221,Xeno Checkwell,usr00221@example.test,2025-03-25,Wondervale,18-24,organic_search,iOS_app,FALSE
+USR_00222,Pacey Inkwell,usr00222@example.test,2022-01-26,Australia,45-54,referral,iOS_app,FALSE
+USR_00223,Lumen Trialton,usr00223@example.test,2021-05-15,Gondale,65+,organic_search,Android_app,FALSE
+USR_00224,Jory Ninetree,usr00224@example.test,2023-09-12,Gondale,18-24,referral,web_desktop,FALSE
+USR_00225,Sunny Ninetree,usr00225@example.test,2025-11-26,Zubria,13-17,referral,Android_app,FALSE
+USR_00226,Marlo Skyward,usr00226@example.test,2023-07-24,Wondervale,18-24,organic_search,web_mobile,FALSE
+USR_00227,Sunny Holdsworth,usr00227@example.test,2023-10-07,Canada,25-34,paid_social,Android_app,FALSE
+USR_00228,Tessa Storyfield,usr00228@example.test,2022-03-13,United States,45-54,organic_search,Android_app,FALSE
+USR_00229,Quinn Sander,usr00229@example.test,2023-02-07,Nearia,18-24,paid_social,web_mobile,FALSE
+USR_00230,Tessa Storyfield,usr00230@example.test,2024-08-21,Canada,18-24,organic_search,web_mobile,FALSE
+USR_00231,Denny Holdsworth,usr00231@example.test,2025-04-09,Genora,65+,email_campaign,web_mobile,FALSE
+USR_00232,Juno Storyfield,usr00232@example.test,2025-11-16,Altara,55-64,paid_social,web_desktop,FALSE
+USR_00233,Moxie Meadowson,usr00233@example.test,2023-03-12,Nearia,N/A,email_campaign,web_desktop,FALSE
+USR_00234,Lumen Sander,usr00234@example.test,2024-09-11,Latoria,55-64,referral,iOS_app,FALSE
+USR_00235,Lumen Storyfield,usr00235@example.test,2022-12-29,Freelandia,55-64,email_campaign,web_mobile,FALSE
+USR_00236,Rook Cottontail,usr00236@example.test,2025-02-04,Japan,13-17,referral,web_mobile,FALSE
+USR_00237,Sunny Sander,usr00237@example.test,2025-12-01,Gondale,45-54,organic_search,smart_toaster,FALSE
+USR_00238,Sunny Fable,usr00238@example.test,2025-09-30,Canada,25-34,paid_social,iOS_app,FALSE
+USR_00239,Tully Fableton,usr00239@example.test,2025-01-12,Freelandia,55-64,paid_social,web_desktop,FALSE
+USR_00240,Juno Sampleridge,usr00240@example.test,2025-06-25,Hogglewick,45-54,email_campaign,unknown_device,FALSE
+USR_00241,Jory Fable,usr00241@example.test,2025-12-31,United States,13-17,email_campaign,web_desktop,FALSE
+USR_00242,Moxie Meadowson,usr00242@example.test,2025-08-31,Latoria,55-64,referral,web_mobile,FALSE
+USR_00243,Moxie Fable,usr00243@example.test,2024-11-27,Zubria,18-24,organic_search,Android_app,FALSE
+USR_00244,Fable Sampleridge,usr00244@example.test,2021-04-03,Freelandia,65+,email_campaign,web_mobile,FALSE
+USR_00245,Juno Fable,usr00245@example.test,2024-09-17,Canada,25-34,organic_search,web_mobile,FALSE
+USR_00246,Tully Cottontail,usr00246@example.test,2025-06-09,United Kingdom,65+,organic_search,Android_app,FALSE
+USR_00247,Sunny Sampleridge,usr00247@example.test,2023-04-23,United States,55-64,paid_social,web_desktop,FALSE
+USR_00248,Zephyr Ninetree,usr00248@example.test,2023-12-11,Canada,18-24,paid_social,web_mobile,FALSE
+USR_00249,Emery Storyfield,usr00249@example.test,2026-02-19,Gondale,55-64,paid_social,Android_app,FALSE
+USR_00250,Izzy Meadowson,usr00250@example.test,2022-04-25,United Kingdom,25-34,organic_search,Android_app,FALSE
+USR_00251,Xeno Prairiefox,usr00251@example.test,2025-09-29,Australia,45-54,paid_social,web_desktop,FALSE
+USR_00252,Pacey Beetlebrook,usr00252@example.test,2026-01-22,Australia,25-34,email_campaign,web_desktop,FALSE
+USR_00253,Juno Fable,usr00253@example.test,2025-08-03,Wondervale,18-24,carrier_pigeon,iOS_app,FALSE
+USR_00254,Buzzy Storyfield,usr00254@example.test,2021-05-14,Germany,25-34,email_campaign,web_desktop,TRUE
+USR_00255,Marlo Beetlebrook,usr00255@example.test,2022-04-13,Germany,55-64,email_campaign,iOS_app,FALSE
+USR_00256,Pacey Fable,usr00256@example.test,2023-10-11,United States,18-24,paid_social,Android_app,FALSE
+USR_00257,Izzy Sander,usr00257@example.test,2023-05-10,Gondale,35-44,referral,web_desktop,FALSE
+USR_00258,Marlo Prairiefox,usr00258@example.test,2024-02-26,Latoria,45-54,paid_social,web_mobile,FALSE
+USR_00259,Pacey Holdsworth,usr00259@example.test,2022-07-10,Gondale,35-44,email_campaign,Android_app,FALSE
+USR_00260,Xeno Meadowson,usr00260@example.test,2023-10-11,United Kingdom,65+,carrier_pigeon,Android_app,FALSE
+USR_00261,Finley Beetlebrook,usr00261@example.test,2025-07-09,Australia,55-64,organic_search,web_desktop,FALSE
+USR_00262,Izzy Fableton,usr00262@example.test,2026-02-21,Eloria,65+,referral,Android_app,FALSE
+USR_00263,Lumen Meadowson,usr00263@example.test,2024-08-15,Zubria,13-17,paid_social,web_mobile,FALSE
+USR_00264,Emery Fable,usr00264@example.test,2021-03-08,Nearia,65+,carrier_pigeon,iOS_app,FALSE
+USR_00265,Finley Fableton,usr00265@example.test,2024-05-21,Genora,18-24,email_campaign,iOS_app,FALSE
+USR_00266,Fable Storyfield,usr00266@example.test,2021-08-01,United Kingdom,18-24,paid_social,web_mobile,FALSE
+USR_00267,Denny Inkwell,usr00267@example.test,2026-05-08,Nearia,13-17,paid_social,Android_app,FALSE
+USR_00268,Sunny Inkwell,usr00268@example.test,2022-06-26,Altara,18-24,referral,Android_app,FALSE
+USR_00269,Jory Meadowson,usr00269@example.test,2024-05-10,Altara,45-54,carrier_pigeon,smart_toaster,FALSE
+USR_00270,Wiley Meadowson,usr00270@example.test,2025-12-08,Germany,35-44,organic_search,web_mobile,FALSE
+USR_00271,Jory Beetlebrook,usr00271@example.test,2022-05-20,Zubria,25-34,referral,web_mobile,FALSE
+USR_00272,Tully Storyfield,usr00272@example.test,2023-10-14,Latoria,35-44,,Android_app,FALSE
+USR_00273,Pacey Inkwell,usr00273@example.test,2024-04-25,Canada,18-24,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00274,Lumen Meadowson,usr00274@example.test,2021-02-19,United Kingdom,55-64,organic_search,web_mobile,FALSE
+USR_00275,Sunny Trialton,usr00275@example.test,2021-03-10,Eloria,13-17,organic_search,web_mobile,FALSE
+USR_00276,Juno Skyward,usr00276@example.test,2026-08-15,Japan,45-54,email_campaign,web_mobile,FALSE
+USR_00277,Zephyr Cottontail,usr00277@example.test,2024-06-23,Japan,55-64,email_campaign,web_desktop,FALSE
+USR_00278,Buzzy Checkwell,usr00278@example.test,2024-06-24,Altara,65+,carrier_pigeon,iOS_app,FALSE
+USR_00279,Emery Sampleridge,usr00279@example.test,2024-06-20,Gondale,13-17,paid_social,web_mobile,FALSE
+USR_00280,Izzy Meadowson,usr00280@example.test,2023-11-28,Hogglewick,13-17,organic_search,Android_app,TRUE
+USR_00281,Rook Fableton,usr00281@example.test,2021-09-19,Germany,18-24,email_campaign,iOS_app,FALSE
+USR_00282,Emery Holdsworth,usr00282@example.test,2022-11-15,Hogglewick,35-44,organic_search,iOS_app,FALSE
+USR_00283,Xeno Beetlebrook,usr00283@example.test,2023-09-29,Gondale,25-34,paid_social,web_desktop,FALSE
+USR_00284,Buzzy Sander,usr00284@example.test,2023-07-09,Genora,18-24,referral,iOS_app,FALSE
+USR_00285,Zephyr Checkwell,usr00285@example.test,2023-01-05,Altara,999,paid_social,web_mobile,FALSE
+USR_00286,Quinn Trialton,usr00286@example.test,2021-12-20,Eloria,45-54,organic_search,Android_app,FALSE
+USR_00287,Rook Noll,usr00287@example.test,2026-03-16,Japan,35-44,email_campaign,web_desktop,FALSE
+USR_00288,Marlo Beetlebrook,usr00288@example.test,2021-04-08,Zubria,13-17,referral,iOS_app,FALSE
+USR_00289,Zephyr Inkwell,usr00289@example.test,2022-03-02,Australia,13-17,paid_social,web_mobile,FALSE
+USR_00290,Buzzy Sander,usr00290@example.test,2022-01-17,Germany,18-24,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00291,Rook Checkwell,usr00291@example.test,2025-06-04,Gondale,35-44,email_campaign,web_desktop,FALSE
+USR_00292,Lumen Fable,usr00292@example.test,2025-05-29,Freelandia,18-24,email_campaign,Android_app,FALSE
+USR_00293,Emery Fable,usr00293@example.test,2022-09-29,Zubria,65+,organic_search,web_desktop,FALSE
+USR_00294,Bowie Fable,usr00294@example.test,2023-05-01,Hogglewick,18-24,organic_search,iOS_app,FALSE
+USR_00295,Lumen Meadowson,usr00295@example.test,2021-06-15,Freelandia,55-64,paid_social,web_desktop,FALSE
+USR_00296,Emery Trialton,usr00296@example.test,2024-05-09,Germany,45-54,paid_social,Android_app,FALSE
+USR_00297,Moxie Trialton,usr00297@example.test,2022-02-22,Freelandia,25-34,paid_social,web_desktop,FALSE
+USR_00298,Rook Holdsworth,usr00298@example.test,2021-12-11,Nearia,18-24,paid_social,smart_toaster,TRUE
+USR_00299,Lumen Sampleridge,usr00299@example.test,2022-06-12,Germany,13-17,email_campaign,web_desktop,FALSE
+USR_00300,Tessa Skyward,usr00300@example.test,2025-06-06,Wondervale,55-64,organic_search,web_mobile,TRUE
+USR_00301,Denny Checkwell,usr00301@example.test,2024-02-21,Latoria,N/A,email_campaign,iOS_app,FALSE
+USR_00302,Finley Skyward,usr00302@example.test,2021-09-07,United Kingdom,35-44,paid_social,iOS_app,FALSE
+USR_00303,Xeno Noll,usr00303@example.test,2025-04-16,Brazil,55-64,paid_social,Android_app,FALSE
+USR_00304,Tully Inkwell,usr00304@example.test,2021-04-17,Genora,13-17,paid_social,web_desktop,FALSE
+USR_00305,Moxie Inkwell,usr00305@example.test,2023-08-12,Genora,25-34,referral,Android_app,FALSE
+USR_00306,Emery Inkwell,usr00306@example.test,2024-12-24,United States,25-34,paid_social,iOS_app,FALSE
+USR_00307,Wiley Noll,usr00307@example.test,2022-08-06,Wondervale,35-44,organic_search,Android_app,FALSE
+USR_00308,Buzzy Trialton,usr00308@example.test,2023-08-11,Nearia,55-64,paid_social,iOS_app,FALSE
+USR_00309,Pacey Trialton,usr00309@example.test,2022-12-28,Gondale,18-24,email_campaign,web_desktop,FALSE
+USR_00310,Moxie Ninetree,usr00310@example.test,2025-06-09,Zubria,25-34,paid_social,web_desktop,FALSE
+USR_00311,Lumen Prairiefox,usr00311@example.test,2026-06-19,Freelandia,35-44,paid_social,web_mobile,FALSE
+USR_00312,Emery Trialton,usr00312@example.test,2024-04-21,Wavanda,25-34,organic_search,iOS_app,TRUE
+USR_00313,Denny Ninetree,usr00313@example.test,2022-03-03,Freelandia,55-64,paid_social,smart_toaster,FALSE
+USR_00314,Tessa Holdsworth,usr00314@example.test,2024-10-07,Freelandia,18-24,organic_search,web_desktop,FALSE
+USR_00315,Jory Fable,usr00315@example.test,2021-01-06,Wondervale,65+,organic_search,web_mobile,FALSE
+USR_00316,Xeno Inkwell,usr00316@example.test,2025-03-18,Germany,18-24,paid_social,smart_toaster,FALSE
+USR_00317,Moxie Fableton,usr00317@example.test,2024-07-29,Wondervale,65+,referral,web_mobile,FALSE
+USR_00318,Tully Noll,usr00318@example.test,2022-01-17,United Kingdom,25-34,email_campaign,Android_app,FALSE
+USR_00319,Wiley Cottontail,usr00319@example.test,2022-02-19,Japan,13-17,paid_social,web_desktop,FALSE
+USR_00320,Moxie Checkwell,usr00320@example.test,2024-05-03,Japan,35-44,,web_mobile,FALSE
+USR_00321,Sunny Storyfield,usr00321@example.test,2021-01-16,Eloria,18-24,referral,iOS_app,FALSE
+USR_00322,Xeno Sampleridge,usr00322@example.test,2024-04-10,Canada,55-64,referral,iOS_app,FALSE
+USR_00323,Marlo Skyward,usr00323@example.test,2022-01-09,United States,65+,email_campaign,Android_app,FALSE
+USR_00324,Quinn Fable,usr00324@example.test,2021-07-02,Freelandia,45-54,referral,Android_app,FALSE
+USR_00325,Marlo Sander,usr00325@example.test,2021-12-18,Japan,13-17,email_campaign,web_mobile,FALSE
+USR_00326,Buzzy Noll,usr00326@example.test,2026-04-29,Altara,65+,paid_social,web_mobile,FALSE
+USR_00327,Emery Prairiefox,usr00327@example.test,2022-05-08,Eloria,25-34,organic_search,web_desktop,FALSE
+USR_00328,Fable Meadowson,usr00328@example.test,2025-11-19,Zubria,18-24,email_campaign,web_desktop,FALSE
+USR_00329,Zephyr Fable,usr00329@example.test,2024-08-28,Brazil,65+,carrier_pigeon,iOS_app,FALSE
+USR_00330,Rook Sampleridge,usr00330@example.test,2022-08-31,Hogglewick,45-54,referral,iOS_app,FALSE
+USR_00331,Xeno Noll,usr00331@example.test,2025-04-18,Wondervale,45-54,paid_social,web_mobile,FALSE
+USR_00332,Lumen Inkwell,usr00332@example.test,2021-06-08,Australia,45-54,email_campaign,web_mobile,FALSE
+USR_00333,Finley Noll,usr00333@example.test,2024-05-26,Freelandia,25-34,referral,Android_app,FALSE
+USR_00334,Juno Fableton,usr00334@example.test,2024-08-07,Germany,35-44,referral,web_mobile,FALSE
+USR_00335,Zephyr Prairiefox,usr00335@example.test,2025-03-12,Latoria,65+,referral,iOS_app,FALSE
+USR_00336,Wiley Checkwell,usr00336@example.test,2022-12-13,Wavanda,65+,paid_social,iOS_app,TRUE
+USR_00337,Quinn Skyward,usr00337@example.test,2024-01-28,Nearia,35-44,email_campaign,unknown_device,TRUE
+USR_00338,Rook Beetlebrook,usr00338@example.test,2022-12-29,Wondervale,45-54,organic_search,Android_app,FALSE
+USR_00339,Emery Cottontail,usr00339@example.test,2025-05-03,Freelandia,35-44,referral,web_mobile,FALSE
+USR_00340,Xeno Meadowson,usr00340@example.test,2021-03-24,Nearia,35-44,paid_social,Android_app,FALSE
+USR_00341,Jory Beetlebrook,usr00341@example.test,2024-02-02,Genora,35-44,email_campaign,web_desktop,FALSE
+USR_00342,Zephyr Beetlebrook,usr00342@example.test,2022-02-24,Latoria,18-24,email_campaign,web_mobile,FALSE
+USR_00343,Lumen Holdsworth,usr00343@example.test,2024-02-07,Latoria,35-44,paid_social,Android_app,FALSE
+USR_00344,Jory Ninetree,usr00344@example.test,2021-08-21,Nearia,55-64,,web_desktop,FALSE
+USR_00345,Pacey Cottontail,usr00345@example.test,2025-07-16,Freelandia,13-17,organic_search,unknown_device,FALSE
+USR_00346,Emery Prairiefox,usr00346@example.test,2026-09-09,Hogglewick,13-17,paid_social,web_desktop,FALSE
+USR_00347,Fable Fableton,usr00347@example.test,2023-01-20,United States,35-44,referral,Android_app,FALSE
+USR_00348,Rook Storyfield,usr00348@example.test,2025-03-03,Hogglewick,65+,organic_search,web_desktop,FALSE
+USR_00349,Zephyr Sampleridge,usr00349@example.test,2026-04-19,Brazil,45-54,email_campaign,web_desktop,FALSE
+USR_00350,Lumen Sander,usr00350@example.test,2022-07-17,Gondale,55-64,organic_search,web_desktop,FALSE
+USR_00351,Emery Ninetree,usr00351@example.test,2024-09-24,Nearia,25-34,carrier_pigeon,Android_app,FALSE
+USR_00352,Sunny Meadowson,usr00352@example.test,2022-10-11,United Kingdom,65+,organic_search,Android_app,FALSE
+USR_00353,Marlo Cottontail,usr00353@example.test,2021-01-20,Nearia,55-64,referral,iOS_app,FALSE
+USR_00354,Izzy Storyfield,usr00354@example.test,2023-10-17,Hogglewick,65+,referral,Android_app,FALSE
+USR_00355,Bowie Fable,usr00355@example.test,2021-07-07,United Kingdom,25-34,organic_search,web_desktop,FALSE
+USR_00356,Jory Trialton,usr00356@example.test,2023-02-11,Freelandia,25-34,referral,iOS_app,FALSE
+USR_00357,Moxie Beetlebrook,usr00357@example.test,2026-08-29,Canada,,referral,web_mobile,FALSE
+USR_00358,Tessa Checkwell,usr00358@example.test,2022-03-19,United Kingdom,999,referral,web_mobile,FALSE
+USR_00359,Wiley Trialton,usr00359@example.test,2026-04-28,United Kingdom,18-24,referral,Android_app,FALSE
+USR_00360,Zephyr Sampleridge,usr00360@example.test,2025-09-12,Hogglewick,18-24,email_campaign,web_desktop,FALSE
+USR_00361,Wiley Beetlebrook,usr00361@example.test,2023-12-14,Latoria,25-34,paid_social,Android_app,FALSE
+USR_00362,Lumen Inkwell,usr00362@example.test,2023-05-01,Nearia,18-24,paid_social,smart_toaster,FALSE
+USR_00363,Zephyr Fableton,usr00363@example.test,2022-09-03,Genora,35-44,paid_social,iOS_app,FALSE
+USR_00364,Moxie Prairiefox,usr00364@example.test,2026-03-17,Latoria,55-64,organic_search,Android_app,FALSE
+USR_00365,Tessa Meadowson,usr00365@example.test,2022-01-25,Zubria,55-64,referral,web_mobile,FALSE
+USR_00366,Lumen Prairiefox,usr00366@example.test,2022-01-16,Canada,65+,paid_social,Android_app,FALSE
+USR_00367,Fable Prairiefox,usr00367@example.test,2026-05-13,Gondale,13-17,organic_search,iOS_app,FALSE
+USR_00368,Quinn Prairiefox,usr00368@example.test,2026-06-01,United States,45-54,,iOS_app,TRUE
+USR_00369,Moxie Sander,usr00369@example.test,2026-06-02,Wavanda,,referral,iOS_app,FALSE
+USR_00370,Rook Inkwell,usr00370@example.test,2021-02-20,Brazil,18-24,paid_social,web_mobile,FALSE
+USR_00371,Fable Skyward,usr00371@example.test,2026-05-28,Japan,18-24,referral,iOS_app,FALSE
+USR_00372,Xeno Prairiefox,usr00372@example.test,2026-09-02,Australia,55-64,referral,web_desktop,FALSE
+USR_00373,Buzzy Skyward,usr00373@example.test,2021-07-26,Freelandia,18-24,email_campaign,smart_toaster,FALSE
+USR_00374,Quinn Ninetree,usr00374@example.test,2021-12-27,Australia,13-17,organic_search,Android_app,FALSE
+USR_00375,Marlo Trialton,usr00375@example.test,2021-05-27,Latoria,55-64,referral,iOS_app,FALSE
+USR_00376,Pacey Inkwell,usr00376@example.test,2024-10-28,Zubria,35-44,referral,Android_app,FALSE
+USR_00377,Moxie Inkwell,usr00377@example.test,2026-01-28,Zubria,55-64,email_campaign,web_mobile,FALSE
+USR_00378,Emery Noll,usr00378@example.test,2022-03-12,United Kingdom,18-24,paid_social,web_desktop,FALSE
+USR_00379,Jory Cottontail,usr00379@example.test,2023-02-08,Eloria,55-64,organic_search,Android_app,FALSE
+USR_00380,Quinn Meadowson,usr00380@example.test,2022-05-20,Nearia,45-54,referral,Android_app,FALSE
+USR_00381,Emery Prairiefox,usr00381@example.test,2026-06-02,Hogglewick,65+,paid_social,web_mobile,FALSE
+USR_00382,Buzzy Holdsworth,usr00382@example.test,2025-09-11,Zubria,45-54,paid_social,web_desktop,FALSE
+USR_00383,Zephyr Storyfield,usr00383@example.test,2025-08-18,Japan,35-44,email_campaign,iOS_app,FALSE
+USR_00384,Fable Prairiefox,usr00384@example.test,2024-11-15,Hogglewick,N/A,organic_search,iOS_app,FALSE
+USR_00385,Tessa Sampleridge,usr00385@example.test,2024-03-17,Canada,N/A,referral,web_desktop,FALSE
+USR_00386,Emery Storyfield,usr00386@example.test,2023-03-30,Gondale,13-17,referral,web_mobile,TRUE
+USR_00387,Moxie Inkwell,usr00387@example.test,2025-01-09,Freelandia,45-54,organic_search,web_desktop,TRUE
+USR_00388,Juno Ninetree,usr00388@example.test,2025-04-12,Nearia,45-54,email_campaign,web_desktop,FALSE
+USR_00389,Fable Beetlebrook,usr00389@example.test,2023-07-13,Eloria,45-54,organic_search,iOS_app,FALSE
+USR_00390,Zephyr Sampleridge,usr00390@example.test,2023-02-05,Wavanda,65+,email_campaign,web_desktop,FALSE
+USR_00391,Rook Holdsworth,usr00391@example.test,2022-06-17,Zubria,25-34,paid_social,unknown_device,FALSE
+USR_00392,Pacey Storyfield,usr00392@example.test,2024-08-14,Japan,55-64,referral,iOS_app,FALSE
+USR_00393,Zephyr Fableton,usr00393@example.test,2023-06-20,United Kingdom,13-17,referral,Android_app,FALSE
+USR_00394,Lumen Ninetree,usr00394@example.test,2023-06-26,Latoria,35-44,,Android_app,FALSE
+USR_00395,Quinn Inkwell,usr00395@example.test,2022-04-15,Wavanda,55-64,paid_social,web_mobile,FALSE
+USR_00396,Bowie Trialton,usr00396@example.test,2023-11-17,Brazil,65+,referral,web_desktop,FALSE
+USR_00397,Wiley Ninetree,usr00397@example.test,2024-04-29,Hogglewick,25-34,email_campaign,web_mobile,FALSE
+USR_00398,Wiley Sander,usr00398@example.test,2023-05-14,Eloria,45-54,organic_search,web_desktop,FALSE
+USR_00399,Quinn Ninetree,usr00399@example.test,2022-09-22,Altara,N/A,organic_search,web_mobile,FALSE
+USR_00400,Buzzy Holdsworth,usr00400@example.test,2021-10-16,Canada,45-54,organic_search,iOS_app,FALSE
+USR_00401,Moxie Trialton,usr00401@example.test,2021-03-11,Wavanda,18-24,email_campaign,web_desktop,FALSE
+USR_00402,Tully Fableton,usr00402@example.test,2024-04-02,Germany,65+,paid_social,iOS_app,FALSE
+USR_00403,Marlo Inkwell,usr00403@example.test,2026-04-26,Canada,25-34,referral,Android_app,TRUE
+USR_00404,Izzy Trialton,usr00404@example.test,2024-05-05,Hogglewick,13-17,organic_search,Android_app,FALSE
+USR_00405,Wiley Beetlebrook,usr00405@example.test,2021-12-15,United Kingdom,65+,referral,web_mobile,TRUE
+USR_00406,Finley Cottontail,usr00406@example.test,2023-06-24,Wondervale,45-54,paid_social,iOS_app,FALSE
+USR_00407,Sunny Holdsworth,usr00407@example.test,2021-10-27,Eloria,55-64,email_campaign,unknown_device,TRUE
+USR_00408,Buzzy Sampleridge,usr00408@example.test,2022-06-10,Altara,35-44,email_campaign,iOS_app,FALSE
+USR_00409,Bowie Meadowson,usr00409@example.test,2024-09-06,Zubria,65+,referral,unknown_device,FALSE
+USR_00410,Fable Sander,usr00410@example.test,2023-10-06,United States,25-34,organic_search,Android_app,FALSE
+USR_00411,Bowie Noll,usr00411@example.test,2025-12-30,Wondervale,18-24,email_campaign,web_desktop,FALSE
+USR_00412,Fable Fableton,usr00412@example.test,2023-03-16,Nearia,25-34,referral,web_mobile,FALSE
+USR_00413,Marlo Holdsworth,usr00413@example.test,2023-05-22,Gondale,55-64,organic_search,web_desktop,FALSE
+USR_00414,Zephyr Fableton,usr00414@example.test,2022-07-03,United States,55-64,email_campaign,smart_toaster,TRUE
+USR_00415,Denny Fable,usr00415@example.test,2022-11-11,Wondervale,55-64,organic_search,iOS_app,FALSE
+USR_00416,Buzzy Noll,usr00416@example.test,2025-01-09,Altara,45-54,organic_search,smart_toaster,FALSE
+USR_00417,Izzy Skyward,usr00417@example.test,2023-04-27,Germany,13-17,paid_social,Android_app,FALSE
+USR_00418,Fable Holdsworth,usr00418@example.test,2022-02-27,Japan,65+,organic_search,web_desktop,FALSE
+USR_00419,Fable Fableton,usr00419@example.test,2025-02-05,Canada,35-44,organic_search,web_desktop,FALSE
+USR_00420,Tully Trialton,usr00420@example.test,2026-06-18,Germany,25-34,email_campaign,Android_app,TRUE
+USR_00421,Emery Prairiefox,usr00421@example.test,2023-05-17,Hogglewick,35-44,,iOS_app,FALSE
+USR_00422,Xeno Cottontail,usr00422@example.test,2026-05-27,United Kingdom,13-17,email_campaign,Android_app,FALSE
+USR_00423,Fable Checkwell,usr00423@example.test,2022-10-22,Wavanda,25-34,paid_social,web_mobile,FALSE
+USR_00424,Sunny Cottontail,usr00424@example.test,2021-03-18,Australia,18-24,paid_social,iOS_app,FALSE
+USR_00425,Emery Holdsworth,usr00425@example.test,2022-08-08,Zubria,13-17,organic_search,iOS_app,TRUE
+USR_00426,Moxie Trialton,usr00426@example.test,2025-04-28,Brazil,35-44,email_campaign,iOS_app,FALSE
+USR_00427,Tully Checkwell,usr00427@example.test,2022-12-28,Altara,18-24,email_campaign,web_desktop,FALSE
+USR_00428,Juno Beetlebrook,usr00428@example.test,2025-11-03,Brazil,65+,email_campaign,Android_app,FALSE
+USR_00429,Rook Sampleridge,usr00429@example.test,2024-12-06,Gondale,45-54,referral,web_desktop,FALSE
+USR_00430,Marlo Sander,usr00430@example.test,2024-03-06,Eloria,13-17,,Android_app,FALSE
+USR_00431,Fable Cottontail,usr00431@example.test,2021-01-30,United Kingdom,55-64,email_campaign,iOS_app,FALSE
+USR_00432,Marlo Sander,usr00432@example.test,2023-11-05,Genora,65+,email_campaign,iOS_app,FALSE
+USR_00433,Marlo Noll,usr00433@example.test,2023-01-03,Latoria,13-17,paid_social,web_desktop,FALSE
+USR_00434,Buzzy Fable,usr00434@example.test,2022-07-20,Hogglewick,35-44,paid_social,Android_app,FALSE
+USR_00435,Fable Trialton,usr00435@example.test,2022-10-21,Gondale,,paid_social,web_desktop,FALSE
+USR_00436,Izzy Fableton,usr00436@example.test,2023-12-14,Canada,65+,referral,iOS_app,FALSE
+USR_00437,Xeno Fable,usr00437@example.test,2022-12-19,Eloria,35-44,organic_search,web_mobile,FALSE
+USR_00438,Emery Checkwell,usr00438@example.test,2023-08-07,Freelandia,13-17,paid_social,iOS_app,FALSE
+USR_00439,Jory Skyward,usr00439@example.test,2025-06-25,Brazil,N/A,email_campaign,web_mobile,FALSE
+USR_00440,Finley Inkwell,usr00440@example.test,2024-11-26,Germany,65+,email_campaign,web_desktop,FALSE
+USR_00441,Moxie Fableton,usr00441@example.test,2025-07-26,Zubria,18-24,email_campaign,Android_app,FALSE
+USR_00442,Rook Noll,usr00442@example.test,2025-12-19,Zubria,13-17,referral,iOS_app,FALSE
+USR_00443,Finley Fableton,usr00443@example.test,2026-05-29,Freelandia,35-44,paid_social,web_mobile,FALSE
+USR_00444,Buzzy Storyfield,usr00444@example.test,2021-02-09,Canada,55-64,referral,iOS_app,FALSE
+USR_00445,Izzy Cottontail,usr00445@example.test,2026-05-06,Wondervale,35-44,email_campaign,Android_app,TRUE
+USR_00446,Finley Cottontail,usr00446@example.test,2023-08-20,Eloria,35-44,organic_search,web_mobile,FALSE
+USR_00447,Xeno Trialton,usr00447@example.test,2022-05-07,Australia,N/A,,Android_app,FALSE
+USR_00448,Zephyr Holdsworth,usr00448@example.test,2026-07-04,Freelandia,45-54,organic_search,web_mobile,FALSE
+USR_00449,Pacey Beetlebrook,usr00449@example.test,2026-05-14,Wondervale,13-17,paid_social,Android_app,FALSE
+USR_00450,Tessa Cottontail,usr00450@example.test,2024-07-16,Hogglewick,55-64,email_campaign,web_desktop,TRUE
+USR_00451,Finley Inkwell,usr00451@example.test,2023-02-06,Australia,55-64,email_campaign,iOS_app,TRUE
+USR_00452,Wiley Sander,usr00452@example.test,2026-08-05,United States,65+,referral,web_mobile,FALSE
+USR_00453,Buzzy Sampleridge,usr00453@example.test,2022-06-22,Freelandia,13-17,organic_search,web_mobile,FALSE
+USR_00454,Xeno Trialton,usr00454@example.test,2022-08-21,United Kingdom,25-34,organic_search,Android_app,FALSE
+USR_00455,Finley Checkwell,usr00455@example.test,2026-06-17,Hogglewick,25-34,referral,Android_app,FALSE
+USR_00456,Moxie Fable,usr00456@example.test,2026-05-06,Genora,55-64,organic_search,web_mobile,FALSE
+USR_00457,Juno Sampleridge,usr00457@example.test,2024-11-10,Eloria,55-64,paid_social,Android_app,FALSE
+USR_00458,Xeno Fable,usr00458@example.test,2024-08-24,Canada,65+,paid_social,Android_app,FALSE
+USR_00459,Lumen Sander,usr00459@example.test,2022-11-18,Altara,18-24,paid_social,web_mobile,FALSE
+USR_00460,Fable Storyfield,usr00460@example.test,2024-07-08,Canada,45-54,email_campaign,iOS_app,FALSE
+USR_00461,Emery Trialton,usr00461@example.test,2025-08-23,Freelandia,45-54,referral,Android_app,FALSE
+USR_00462,Moxie Fableton,usr00462@example.test,2025-06-15,Japan,13-17,organic_search,web_mobile,FALSE
+USR_00463,Tully Meadowson,usr00463@example.test,2022-03-02,Canada,45-54,referral,iOS_app,FALSE
+USR_00464,Denny Meadowson,usr00464@example.test,2025-12-21,Nearia,13-17,email_campaign,iOS_app,FALSE
+USR_00465,Finley Fable,usr00465@example.test,2026-03-29,Japan,25-34,paid_social,Android_app,FALSE
+USR_00466,Xeno Inkwell,usr00466@example.test,2024-06-22,Germany,N/A,referral,Android_app,FALSE
+USR_00467,Tessa Trialton,usr00467@example.test,2022-09-30,United States,45-54,organic_search,iOS_app,FALSE
+USR_00468,Bowie Trialton,usr00468@example.test,2026-07-08,Latoria,18-24,paid_social,web_mobile,FALSE
+USR_00469,Marlo Sander,usr00469@example.test,2023-02-12,Freelandia,25-34,email_campaign,web_desktop,FALSE
+USR_00470,Juno Inkwell,usr00470@example.test,2023-12-14,Latoria,13-17,paid_social,unknown_device,FALSE
+USR_00471,Denny Storyfield,usr00471@example.test,2021-10-08,Germany,25-34,referral,web_mobile,FALSE
+USR_00472,Tessa Meadowson,usr00472@example.test,2023-02-09,Japan,13-17,influencer_TEST_CAMPAIGN,web_mobile,FALSE
+USR_00473,Quinn Trialton,usr00473@example.test,2024-01-08,Altara,,email_campaign,web_mobile,FALSE
+USR_00474,Bowie Noll,usr00474@example.test,2024-11-01,Germany,N/A,referral,Android_app,FALSE
+USR_00475,Jory Fableton,usr00475@example.test,2021-08-18,Wondervale,35-44,paid_social,web_mobile,TRUE
+USR_00476,Jory Fable,usr00476@example.test,2022-05-15,Wavanda,35-44,influencer_TEST_CAMPAIGN,iOS_app,FALSE
+USR_00477,Jory Storyfield,usr00477@example.test,2023-05-04,Wondervale,,organic_search,web_mobile,FALSE
+USR_00478,Izzy Checkwell,usr00478@example.test,2024-05-08,Hogglewick,35-44,referral,web_desktop,FALSE
+USR_00479,Rook Sampleridge,usr00479@example.test,2022-11-17,Freelandia,13-17,carrier_pigeon,iOS_app,FALSE
+USR_00480,Sunny Inkwell,usr00480@example.test,2022-09-27,Australia,18-24,referral,web_mobile,TRUE
+USR_00481,Fable Meadowson,usr00481@example.test,2021-09-02,Gondale,13-17,paid_social,Android_app,FALSE
+USR_00482,Tessa Skyward,usr00482@example.test,2025-12-02,Gondale,45-54,organic_search,iOS_app,FALSE
+USR_00483,Xeno Cottontail,usr00483@example.test,2024-04-22,Japan,55-64,organic_search,web_mobile,FALSE
+USR_00484,Marlo Prairiefox,usr00484@example.test,2024-02-02,Brazil,25-34,referral,web_desktop,FALSE
+USR_00485,Tessa Skyward,usr00485@example.test,2025-02-12,Nearia,25-34,organic_search,web_mobile,FALSE
+USR_00486,Marlo Skyward,usr00486@example.test,2024-08-06,Brazil,35-44,email_campaign,web_mobile,FALSE
+USR_00487,Fable Ninetree,usr00487@example.test,2024-08-14,Hogglewick,65+,organic_search,iOS_app,FALSE
+USR_00488,Wiley Sampleridge,usr00488@example.test,2023-01-02,Eloria,18-24,referral,web_desktop,FALSE
+USR_00489,Tully Holdsworth,usr00489@example.test,2026-06-30,United States,35-44,paid_social,web_desktop,FALSE
+USR_00490,Quinn Checkwell,usr00490@example.test,2026-07-06,Japan,65+,email_campaign,web_mobile,FALSE
+USR_00491,Pacey Fableton,usr00491@example.test,2023-12-25,Altara,35-44,carrier_pigeon,iOS_app,FALSE
+USR_00492,Wiley Inkwell,usr00492@example.test,2025-04-28,Japan,55-64,email_campaign,web_desktop,FALSE
+USR_00493,Juno Sampleridge,usr00493@example.test,2025-01-06,Wondervale,45-54,organic_search,web_desktop,FALSE
+USR_00494,Tully Fable,usr00494@example.test,2022-10-10,Zubria,65+,organic_search,Android_app,FALSE
+USR_00495,Tully Inkwell,usr00495@example.test,2025-10-30,Canada,13-17,referral,web_mobile,FALSE
+USR_00496,Tessa Checkwell,usr00496@example.test,2026-01-07,Nearia,35-44,referral,smart_toaster,FALSE
+USR_00497,Wiley Ninetree,usr00497@example.test,2024-05-15,Genora,25-34,email_campaign,web_mobile,FALSE
+USR_00498,Denny Meadowson,usr00498@example.test,2026-03-01,United States,45-54,email_campaign,web_mobile,FALSE
+USR_00499,Rook Skyward,usr00499@example.test,2024-05-15,Altara,55-64,email_campaign,Android_app,FALSE
+USR_00500,Fable Storyfield,usr00500@example.test,2022-01-26,Canada,18-24,paid_social,Android_app,FALSE
+USR_00501,Moxie Inkwell,usr00501@example.test,2025-11-14,Canada,13-17,email_campaign,web_desktop,FALSE
+USR_00502,Rook Meadowson,usr00502@example.test,2024-07-31,Brazil,35-44,paid_social,web_desktop,FALSE
+USR_00503,Rook Fableton,usr00503@example.test,2025-12-31,United Kingdom,45-54,organic_search,web_desktop,FALSE
+USR_00504,Xeno Checkwell,usr00504@example.test,2024-10-08,Genora,18-24,paid_social,web_desktop,FALSE
+USR_00505,Xeno Cottontail,usr00505@example.test,2022-06-19,Canada,35-44,email_campaign,Android_app,FALSE
+USR_00506,Finley Sander,usr00506@example.test,2023-09-20,Altara,18-24,organic_search,web_mobile,FALSE
+USR_00507,Lumen Beetlebrook,usr00507@example.test,2024-11-27,Latoria,25-34,referral,Android_app,FALSE
+USR_00508,Pacey Inkwell,usr00508@example.test,2022-08-21,United States,25-34,email_campaign,web_mobile,FALSE
+USR_00509,Denny Storyfield,usr00509@example.test,2023-09-23,Zubria,18-24,organic_search,iOS_app,FALSE
+USR_00510,Wiley Cottontail,usr00510@example.test,2021-04-04,Japan,65+,organic_search,web_desktop,FALSE
+USR_00511,Jory Checkwell,usr00511@example.test,2022-08-02,Wondervale,13-17,organic_search,iOS_app,TRUE
+USR_00512,Fable Trialton,usr00512@example.test,2021-08-06,Canada,45-54,paid_social,web_desktop,TRUE
+USR_00513,Jory Inkwell,usr00513@example.test,2024-04-13,Brazil,18-24,paid_social,Android_app,FALSE
+USR_00514,Zephyr Fable,usr00514@example.test,2023-02-03,Wavanda,35-44,email_campaign,web_desktop,FALSE
+USR_00515,Tessa Beetlebrook,usr00515@example.test,2025-05-31,United States,45-54,referral,iOS_app,FALSE
+USR_00516,Finley Skyward,usr00516@example.test,2021-09-11,Japan,N/A,organic_search,web_mobile,FALSE
+USR_00517,Denny Fableton,usr00517@example.test,2025-05-29,Brazil,35-44,influencer_TEST_CAMPAIGN,web_mobile,FALSE
+USR_00518,Bowie Ninetree,usr00518@example.test,2022-09-18,Japan,25-34,organic_search,iOS_app,FALSE
+USR_00519,Bowie Meadowson,usr00519@example.test,2023-04-09,Gondale,55-64,email_campaign,iOS_app,FALSE
+USR_00520,Lumen Meadowson,usr00520@example.test,2022-04-30,Zubria,65+,paid_social,web_desktop,TRUE
+USR_00521,Wiley Sampleridge,usr00521@example.test,2024-01-27,Wondervale,999,referral,web_mobile,FALSE
+USR_00522,Tessa Beetlebrook,usr00522@example.test,2023-08-10,Australia,25-34,email_campaign,iOS_app,FALSE
+USR_00523,Xeno Noll,usr00523@example.test,2023-01-24,Wondervale,35-44,paid_social,web_mobile,FALSE
+USR_00524,Juno Inkwell,usr00524@example.test,2021-03-03,Eloria,18-24,paid_social,web_mobile,FALSE
+USR_00525,Buzzy Sander,usr00525@example.test,2024-08-23,Wavanda,65+,paid_social,iOS_app,TRUE
+USR_00526,Rook Checkwell,usr00526@example.test,2025-06-03,Germany,25-34,organic_search,web_desktop,FALSE
+USR_00527,Jory Checkwell,usr00527@example.test,2021-06-10,Latoria,35-44,email_campaign,iOS_app,FALSE
+USR_00528,Juno Storyfield,usr00528@example.test,2026-03-05,Brazil,25-34,organic_search,Android_app,FALSE
+USR_00529,Moxie Prairiefox,usr00529@example.test,2022-01-06,Canada,65+,organic_search,iOS_app,FALSE
+USR_00530,Rook Cottontail,usr00530@example.test,2023-01-03,Altara,45-54,paid_social,web_desktop,FALSE
+USR_00531,Moxie Fable,usr00531@example.test,2022-05-22,Altara,55-64,organic_search,web_mobile,FALSE
+USR_00532,Jory Checkwell,usr00532@example.test,2025-04-01,Zubria,55-64,email_campaign,Android_app,FALSE
+USR_00533,Juno Storyfield,usr00533@example.test,2023-01-03,Germany,45-54,referral,Android_app,FALSE
+USR_00534,Tully Holdsworth,usr00534@example.test,2023-04-11,Germany,25-34,organic_search,web_desktop,FALSE
+USR_00535,Wiley Noll,usr00535@example.test,2026-07-15,United Kingdom,18-24,organic_search,web_desktop,FALSE
+USR_00536,Finley Cottontail,usr00536@example.test,2023-09-30,Wondervale,25-34,organic_search,iOS_app,FALSE
+USR_00537,Pacey Storyfield,usr00537@example.test,2021-05-31,Altara,13-17,email_campaign,Android_app,FALSE
+USR_00538,Tully Prairiefox,usr00538@example.test,2022-10-23,United States,13-17,email_campaign,Android_app,FALSE
+USR_00539,Sunny Sander,usr00539@example.test,2025-02-18,Latoria,35-44,organic_search,Android_app,FALSE
+USR_00540,Juno Cottontail,usr00540@example.test,2024-09-10,Wavanda,18-24,paid_social,iOS_app,FALSE
+USR_00541,Lumen Holdsworth,usr00541@example.test,2025-10-16,Gondale,55-64,referral,Android_app,FALSE
+USR_00542,Tully Inkwell,usr00542@example.test,2026-07-11,Eloria,13-17,referral,smart_toaster,FALSE
+USR_00543,Tully Sander,usr00543@example.test,2022-04-29,Wavanda,55-64,referral,Android_app,FALSE
+USR_00544,Wiley Storyfield,usr00544@example.test,2021-02-16,Altara,45-54,email_campaign,web_desktop,FALSE
+USR_00545,Lumen Ninetree,usr00545@example.test,2021-01-26,Nearia,25-34,organic_search,Android_app,FALSE
+USR_00546,Pacey Meadowson,usr00546@example.test,2026-05-17,Gondale,65+,email_campaign,web_mobile,FALSE
+USR_00547,Bowie Ninetree,usr00547@example.test,2021-08-18,Eloria,55-64,,web_desktop,FALSE
+USR_00548,Tessa Ninetree,usr00548@example.test,2022-09-04,Japan,25-34,email_campaign,web_mobile,FALSE
+USR_00549,Pacey Holdsworth,usr00549@example.test,2024-06-16,Altara,25-34,referral,iOS_app,FALSE
+USR_00550,Zephyr Storyfield,usr00550@example.test,2024-05-24,Hogglewick,55-64,paid_social,Android_app,FALSE
+USR_00551,Tessa Noll,usr00551@example.test,2025-12-23,Eloria,55-64,carrier_pigeon,web_desktop,FALSE
+USR_00552,Moxie Meadowson,usr00552@example.test,2024-09-02,Wavanda,25-34,email_campaign,iOS_app,FALSE
+USR_00553,Pacey Fableton,usr00553@example.test,2021-01-17,Germany,13-17,email_campaign,Android_app,FALSE
+USR_00554,Bowie Cottontail,usr00554@example.test,2021-04-03,Eloria,35-44,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00555,Finley Meadowson,usr00555@example.test,2025-12-12,Genora,18-24,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00556,Izzy Ninetree,usr00556@example.test,2023-04-27,Gondale,45-54,,web_mobile,FALSE
+USR_00557,Lumen Fable,usr00557@example.test,2024-06-29,Gondale,13-17,organic_search,iOS_app,FALSE
+USR_00558,Pacey Fableton,usr00558@example.test,2022-03-10,Canada,25-34,email_campaign,web_mobile,FALSE
+USR_00559,Wiley Fableton,usr00559@example.test,2024-07-03,Gondale,18-24,referral,smart_toaster,FALSE
+USR_00560,Quinn Noll,usr00560@example.test,2024-06-25,Freelandia,25-34,carrier_pigeon,Android_app,FALSE
+USR_00561,Lumen Fable,usr00561@example.test,2023-01-22,Nearia,18-24,paid_social,web_desktop,FALSE
+USR_00562,Emery Storyfield,usr00562@example.test,2026-05-15,Gondale,13-17,organic_search,web_mobile,FALSE
+USR_00563,Fable Fableton,usr00563@example.test,2024-08-27,Japan,,email_campaign,web_mobile,FALSE
+USR_00564,Buzzy Prairiefox,usr00564@example.test,2023-09-05,Canada,18-24,email_campaign,web_desktop,FALSE
+USR_00565,Lumen Inkwell,usr00565@example.test,2025-11-19,Altara,18-24,referral,Android_app,FALSE
+USR_00566,Moxie Fable,usr00566@example.test,2024-08-25,Latoria,,referral,Android_app,FALSE
+USR_00567,Xeno Checkwell,usr00567@example.test,2025-04-02,Eloria,25-34,referral,Android_app,FALSE
+USR_00568,Bowie Skyward,usr00568@example.test,2026-01-30,Eloria,35-44,organic_search,web_mobile,FALSE
+USR_00569,Sunny Trialton,usr00569@example.test,2025-11-16,Gondale,45-54,email_campaign,iOS_app,FALSE
+USR_00570,Izzy Sampleridge,usr00570@example.test,2021-01-04,Nearia,35-44,paid_social,Android_app,FALSE
+USR_00571,Jory Skyward,usr00571@example.test,2024-07-27,Japan,35-44,organic_search,web_desktop,FALSE
+USR_00572,Jory Beetlebrook,usr00572@example.test,2023-02-10,Gondale,45-54,organic_search,Android_app,FALSE
+USR_00573,Tessa Meadowson,usr00573@example.test,2021-10-21,United Kingdom,25-34,email_campaign,Android_app,FALSE
+USR_00574,Juno Prairiefox,usr00574@example.test,2026-02-11,Brazil,65+,organic_search,iOS_app,FALSE
+USR_00575,Juno Trialton,usr00575@example.test,2023-07-14,Freelandia,55-64,email_campaign,Android_app,FALSE
+USR_00576,Rook Noll,usr00576@example.test,2021-05-18,Hogglewick,13-17,paid_social,web_mobile,FALSE
+USR_00577,Finley Fable,usr00577@example.test,2022-08-05,Brazil,45-54,referral,Android_app,FALSE
+USR_00578,Marlo Storyfield,usr00578@example.test,2021-11-16,Zubria,,paid_social,web_mobile,FALSE
+USR_00579,Lumen Sander,usr00579@example.test,2026-04-06,Latoria,45-54,organic_search,iOS_app,FALSE
+USR_00580,Fable Noll,usr00580@example.test,2023-12-03,Wavanda,45-54,organic_search,web_desktop,FALSE
+USR_00581,Zephyr Fableton,usr00581@example.test,2021-12-04,Genora,25-34,paid_social,iOS_app,FALSE
+USR_00582,Tully Prairiefox,usr00582@example.test,2021-02-28,Germany,55-64,referral,iOS_app,FALSE
+USR_00583,Zephyr Checkwell,usr00583@example.test,2026-06-10,Altara,25-34,referral,web_mobile,FALSE
+USR_00584,Quinn Prairiefox,usr00584@example.test,2025-04-19,United States,13-17,paid_social,smart_toaster,FALSE
+USR_00585,Jory Noll,usr00585@example.test,2022-11-18,Australia,65+,paid_social,Android_app,FALSE
+USR_00586,Denny Sander,usr00586@example.test,2026-04-28,Latoria,18-24,paid_social,Android_app,TRUE
+USR_00587,Marlo Beetlebrook,usr00587@example.test,2021-06-18,Genora,55-64,referral,iOS_app,FALSE
+USR_00588,Rook Skyward,usr00588@example.test,2023-11-12,Freelandia,18-24,paid_social,web_desktop,FALSE
+USR_00589,Marlo Trialton,usr00589@example.test,2023-01-07,Altara,N/A,organic_search,iOS_app,FALSE
+USR_00590,Buzzy Storyfield,usr00590@example.test,2026-01-01,Eloria,13-17,email_campaign,web_mobile,FALSE
+USR_00591,Wiley Sampleridge,usr00591@example.test,2021-08-21,Altara,18-24,email_campaign,web_mobile,FALSE
+USR_00592,Finley Storyfield,usr00592@example.test,2022-03-31,Altara,25-34,referral,web_desktop,FALSE
+USR_00593,Sunny Holdsworth,usr00593@example.test,2023-11-21,Canada,65+,referral,web_mobile,FALSE
+USR_00594,Quinn Fableton,usr00594@example.test,2023-12-21,Eloria,25-34,organic_search,web_desktop,FALSE
+USR_00595,Marlo Sander,usr00595@example.test,2022-03-21,Hogglewick,25-34,organic_search,web_desktop,FALSE
+USR_00596,Rook Holdsworth,usr00596@example.test,2021-10-26,Nearia,65+,referral,Android_app,FALSE
+USR_00597,Finley Meadowson,usr00597@example.test,2021-06-04,Canada,45-54,referral,web_mobile,FALSE
+USR_00598,Jory Fableton,usr00598@example.test,2026-05-13,Nearia,N/A,email_campaign,iOS_app,FALSE
+USR_00599,Jory Checkwell,usr00599@example.test,2024-09-27,United States,18-24,,web_mobile,FALSE
+USR_00600,Wiley Prairiefox,usr00600@example.test,2024-04-02,Canada,35-44,paid_social,web_mobile,FALSE
+USR_00601,Izzy Noll,usr00601@example.test,2022-03-14,Germany,35-44,email_campaign,smart_toaster,FALSE
+USR_00602,Buzzy Noll,usr00602@example.test,2021-04-14,Altara,35-44,paid_social,web_mobile,FALSE
+USR_00603,Lumen Checkwell,usr00603@example.test,2021-03-09,Wavanda,65+,referral,Android_app,FALSE
+USR_00604,Buzzy Fableton,usr00604@example.test,2022-09-03,Gondale,25-34,referral,web_mobile,FALSE
+USR_00605,Denny Trialton,usr00605@example.test,2023-09-22,Wavanda,45-54,email_campaign,web_mobile,FALSE
+USR_00606,Moxie Noll,usr00606@example.test,2021-09-19,Altara,N/A,,web_mobile,FALSE
+USR_00607,Rook Meadowson,usr00607@example.test,2024-08-21,Eloria,13-17,organic_search,web_mobile,FALSE
+USR_00608,Denny Sander,usr00608@example.test,2022-05-10,United States,35-44,paid_social,iOS_app,FALSE
+USR_00609,Moxie Skyward,usr00609@example.test,2021-06-16,Nearia,13-17,referral,web_mobile,FALSE
+USR_00610,Fable Storyfield,usr00610@example.test,2023-01-05,Australia,25-34,paid_social,web_desktop,FALSE
+USR_00611,Buzzy Prairiefox,usr00611@example.test,2026-01-19,Wondervale,65+,organic_search,iOS_app,FALSE
+USR_00612,Tessa Inkwell,usr00612@example.test,2024-11-25,Hogglewick,45-54,referral,Android_app,FALSE
+USR_00613,Quinn Cottontail,usr00613@example.test,2026-09-10,Wavanda,35-44,referral,web_desktop,FALSE
+USR_00614,Emery Checkwell,usr00614@example.test,2026-07-31,United States,45-54,referral,Android_app,TRUE
+USR_00615,Quinn Checkwell,usr00615@example.test,2024-10-01,Wavanda,13-17,paid_social,smart_toaster,FALSE
+USR_00616,Moxie Fableton,usr00616@example.test,2026-06-10,Germany,55-64,,iOS_app,FALSE
+USR_00617,Moxie Ninetree,usr00617@example.test,2024-08-27,Hogglewick,35-44,paid_social,web_desktop,FALSE
+USR_00618,Xeno Noll,usr00618@example.test,2023-06-23,United Kingdom,25-34,paid_social,iOS_app,FALSE
+USR_00619,Izzy Meadowson,usr00619@example.test,2022-12-31,Eloria,55-64,email_campaign,web_mobile,FALSE
+USR_00620,Rook Checkwell,usr00620@example.test,2022-06-06,Gondale,18-24,carrier_pigeon,Android_app,FALSE
+USR_00621,Buzzy Storyfield,usr00621@example.test,2022-12-03,Wondervale,35-44,email_campaign,iOS_app,FALSE
+USR_00622,Rook Noll,usr00622@example.test,2026-06-27,Genora,13-17,paid_social,Android_app,FALSE
+USR_00623,Juno Inkwell,usr00623@example.test,2023-10-13,Nearia,65+,email_campaign,Android_app,FALSE
+USR_00624,Juno Skyward,usr00624@example.test,2026-08-28,Hogglewick,55-64,organic_search,iOS_app,FALSE
+USR_00625,Wiley Meadowson,usr00625@example.test,2021-02-20,Latoria,35-44,carrier_pigeon,Android_app,FALSE
+USR_00626,Quinn Trialton,usr00626@example.test,2024-06-02,Germany,25-34,paid_social,web_desktop,FALSE
+USR_00627,Tessa Fableton,usr00627@example.test,2026-03-17,Zubria,45-54,carrier_pigeon,Android_app,FALSE
+USR_00628,Marlo Cottontail,usr00628@example.test,2024-01-11,Zubria,13-17,paid_social,Android_app,FALSE
+USR_00629,Quinn Checkwell,usr00629@example.test,2025-04-18,United States,25-34,paid_social,web_desktop,FALSE
+USR_00630,Buzzy Sampleridge,usr00630@example.test,2022-07-21,Eloria,35-44,paid_social,web_mobile,FALSE
+USR_00631,Finley Checkwell,usr00631@example.test,2026-08-25,United States,55-64,referral,iOS_app,FALSE
+USR_00632,Marlo Storyfield,usr00632@example.test,2026-04-10,United States,18-24,organic_search,web_desktop,FALSE
+USR_00633,Emery Storyfield,usr00633@example.test,2021-11-25,Hogglewick,25-34,email_campaign,web_desktop,FALSE
+USR_00634,Wiley Trialton,usr00634@example.test,2026-07-26,United Kingdom,55-64,paid_social,iOS_app,FALSE
+USR_00635,Fable Trialton,usr00635@example.test,2025-09-17,Eloria,18-24,organic_search,web_desktop,FALSE
+USR_00636,Lumen Ninetree,usr00636@example.test,2025-08-14,Brazil,65+,email_campaign,iOS_app,FALSE
+USR_00637,Emery Holdsworth,usr00637@example.test,2022-06-25,Australia,55-64,email_campaign,web_mobile,FALSE
+USR_00638,Quinn Prairiefox,usr00638@example.test,2024-12-17,Japan,45-54,influencer_TEST_CAMPAIGN,web_desktop,FALSE
+USR_00639,Moxie Checkwell,usr00639@example.test,2022-10-23,Gondale,13-17,referral,web_desktop,FALSE
+USR_00640,Pacey Ninetree,usr00640@example.test,2023-04-21,Gondale,55-64,organic_search,Android_app,FALSE
+USR_00641,Tessa Skyward,usr00641@example.test,2024-05-20,Gondale,55-64,referral,web_desktop,FALSE
+USR_00642,Fable Storyfield,usr00642@example.test,2026-09-10,Latoria,65+,email_campaign,Android_app,FALSE
+USR_00643,Xeno Checkwell,usr00643@example.test,2024-10-19,Japan,18-24,email_campaign,web_mobile,FALSE
+USR_00644,Izzy Fableton,usr00644@example.test,2023-06-22,Wavanda,18-24,paid_social,iOS_app,FALSE
+USR_00645,Tessa Fableton,usr00645@example.test,2024-02-13,Altara,18-24,referral,unknown_device,FALSE
+USR_00646,Tully Checkwell,usr00646@example.test,2024-07-25,Canada,25-34,organic_search,web_desktop,FALSE
+USR_00647,Bowie Beetlebrook,usr00647@example.test,2025-03-08,Latoria,65+,carrier_pigeon,iOS_app,FALSE
+USR_00648,Bowie Prairiefox,usr00648@example.test,2025-08-30,United Kingdom,25-34,paid_social,Android_app,TRUE
+USR_00649,Zephyr Ninetree,usr00649@example.test,2024-05-27,Canada,18-24,paid_social,Android_app,TRUE
+USR_00650,Marlo Fable,usr00650@example.test,2025-08-25,Eloria,25-34,referral,Android_app,FALSE
+USR_00651,Rook Storyfield,usr00651@example.test,2021-06-22,Japan,18-24,email_campaign,iOS_app,FALSE
+USR_00652,Bowie Noll,usr00652@example.test,2022-09-23,Latoria,65+,influencer_TEST_CAMPAIGN,iOS_app,FALSE
+USR_00653,Finley Noll,usr00653@example.test,2021-04-27,United States,35-44,email_campaign,Android_app,FALSE
+USR_00654,Xeno Sampleridge,usr00654@example.test,2023-11-23,Brazil,55-64,referral,iOS_app,FALSE
+USR_00655,Lumen Fable,usr00655@example.test,2021-08-28,United States,25-34,email_campaign,web_desktop,FALSE
+USR_00656,Izzy Checkwell,usr00656@example.test,2025-09-15,Latoria,25-34,referral,Android_app,FALSE
+USR_00657,Tully Prairiefox,usr00657@example.test,2023-01-21,Zubria,45-54,organic_search,iOS_app,FALSE
+USR_00658,Rook Beetlebrook,usr00658@example.test,2022-01-28,Nearia,25-34,paid_social,web_desktop,FALSE
+USR_00659,Emery Sampleridge,usr00659@example.test,2025-08-15,Gondale,55-64,organic_search,web_mobile,FALSE
+USR_00660,Sunny Sampleridge,usr00660@example.test,2025-09-06,Nearia,25-34,paid_social,Android_app,TRUE
+USR_00661,Tully Ninetree,usr00661@example.test,2022-07-24,Latoria,13-17,paid_social,web_mobile,FALSE
+USR_00662,Bowie Meadowson,usr00662@example.test,2022-08-07,Gondale,18-24,paid_social,web_mobile,FALSE
+USR_00663,Xeno Sander,usr00663@example.test,2021-11-15,Eloria,18-24,influencer_TEST_CAMPAIGN,web_desktop,FALSE
+USR_00664,Finley Checkwell,usr00664@example.test,2026-04-06,Latoria,13-17,paid_social,Android_app,FALSE
+USR_00665,Izzy Trialton,usr00665@example.test,2023-03-31,Gondale,45-54,paid_social,iOS_app,FALSE
+USR_00666,Buzzy Fableton,usr00666@example.test,2026-08-13,Nearia,45-54,referral,Android_app,FALSE
+USR_00667,Marlo Trialton,usr00667@example.test,2024-02-29,Eloria,18-24,email_campaign,web_mobile,FALSE
+USR_00668,Emery Beetlebrook,usr00668@example.test,2025-12-06,United Kingdom,35-44,email_campaign,web_mobile,FALSE
+USR_00669,Quinn Sampleridge,usr00669@example.test,2024-07-11,Australia,55-64,organic_search,web_mobile,FALSE
+USR_00670,Xeno Sampleridge,usr00670@example.test,2021-12-03,Latoria,13-17,email_campaign,Android_app,FALSE
+USR_00671,Juno Storyfield,usr00671@example.test,2023-07-15,Eloria,18-24,email_campaign,web_desktop,FALSE
+USR_00672,Xeno Sampleridge,usr00672@example.test,2023-01-05,Germany,55-64,organic_search,web_desktop,FALSE
+USR_00673,Rook Sampleridge,usr00673@example.test,2025-06-06,Altara,55-64,email_campaign,iOS_app,FALSE
+USR_00674,Buzzy Sander,usr00674@example.test,2025-07-14,Genora,999,referral,Android_app,FALSE
+USR_00675,Tully Skyward,usr00675@example.test,2024-12-29,Brazil,N/A,paid_social,Android_app,FALSE
+USR_00676,Xeno Noll,usr00676@example.test,2022-05-16,Gondale,13-17,referral,web_mobile,FALSE
+USR_00677,Tessa Prairiefox,usr00677@example.test,2021-10-07,Zubria,25-34,paid_social,web_mobile,FALSE
+USR_00678,Xeno Fable,usr00678@example.test,2021-11-10,Latoria,N/A,referral,Android_app,FALSE
+USR_00679,Marlo Trialton,usr00679@example.test,2024-11-08,United Kingdom,18-24,email_campaign,web_mobile,FALSE
+USR_00680,Quinn Checkwell,usr00680@example.test,2025-03-22,Wondervale,18-24,referral,iOS_app,FALSE
+USR_00681,Denny Storyfield,usr00681@example.test,2026-07-07,Australia,,referral,iOS_app,FALSE
+USR_00682,Emery Checkwell,usr00682@example.test,2026-05-04,Genora,55-64,referral,web_desktop,FALSE
+USR_00683,Pacey Trialton,usr00683@example.test,2024-03-11,Gondale,55-64,referral,iOS_app,FALSE
+USR_00684,Moxie Sander,usr00684@example.test,2024-10-29,United States,65+,organic_search,web_desktop,FALSE
+USR_00685,Fable Storyfield,usr00685@example.test,2023-10-12,Altara,45-54,organic_search,web_desktop,FALSE
+USR_00686,Lumen Checkwell,usr00686@example.test,2021-03-22,United Kingdom,45-54,paid_social,web_mobile,FALSE
+USR_00687,Tessa Ninetree,usr00687@example.test,2026-04-08,Canada,55-64,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00688,Xeno Ninetree,usr00688@example.test,2023-04-24,Latoria,55-64,email_campaign,web_mobile,FALSE
+USR_00689,Wiley Storyfield,usr00689@example.test,2021-11-05,Wavanda,45-54,organic_search,web_desktop,TRUE
+USR_00690,Lumen Holdsworth,usr00690@example.test,2022-01-24,Brazil,55-64,email_campaign,web_mobile,FALSE
+USR_00691,Bowie Storyfield,usr00691@example.test,2021-11-11,Japan,55-64,email_campaign,web_mobile,FALSE
+USR_00692,Zephyr Fable,usr00692@example.test,2023-10-27,Nearia,25-34,organic_search,web_desktop,FALSE
+USR_00693,Finley Sander,usr00693@example.test,2023-05-23,Brazil,35-44,paid_social,Android_app,FALSE
+USR_00694,Bowie Sander,usr00694@example.test,2023-09-12,Zubria,18-24,email_campaign,web_desktop,FALSE
+USR_00695,Emery Holdsworth,usr00695@example.test,2024-03-21,Canada,35-44,referral,web_mobile,FALSE
+USR_00696,Bowie Fable,usr00696@example.test,2021-04-24,Japan,65+,email_campaign,iOS_app,FALSE
+USR_00697,Finley Meadowson,usr00697@example.test,2023-04-08,Genora,45-54,referral,Android_app,FALSE
+USR_00698,Pacey Fableton,usr00698@example.test,2026-06-14,Latoria,18-24,referral,iOS_app,FALSE
+USR_00699,Buzzy Sampleridge,usr00699@example.test,2025-06-14,Brazil,35-44,organic_search,iOS_app,FALSE
+USR_00700,Moxie Ninetree,usr00700@example.test,2023-09-03,Canada,35-44,referral,web_desktop,TRUE
+USR_00701,Wiley Holdsworth,usr00701@example.test,2022-03-14,United Kingdom,45-54,paid_social,iOS_app,FALSE
+USR_00702,Marlo Sander,usr00702@example.test,2022-04-08,Freelandia,45-54,paid_social,web_desktop,FALSE
+USR_00703,Tessa Checkwell,usr00703@example.test,2025-02-15,Freelandia,45-54,email_campaign,web_mobile,FALSE
+USR_00704,Buzzy Fable,usr00704@example.test,2022-05-15,Nearia,65+,organic_search,Android_app,FALSE
+USR_00705,Wiley Prairiefox,usr00705@example.test,2023-08-23,Zubria,65+,email_campaign,web_desktop,FALSE
+USR_00706,Juno Ninetree,usr00706@example.test,2026-07-07,Hogglewick,25-34,email_campaign,Android_app,FALSE
+USR_00707,Tully Ninetree,usr00707@example.test,2024-12-12,Nearia,13-17,email_campaign,web_mobile,FALSE
+USR_00708,Jory Cottontail,usr00708@example.test,2022-07-12,Zubria,25-34,organic_search,iOS_app,FALSE
+USR_00709,Fable Meadowson,usr00709@example.test,2023-10-20,Zubria,13-17,referral,web_desktop,FALSE
+USR_00710,Rook Ninetree,usr00710@example.test,2023-12-04,Eloria,18-24,email_campaign,iOS_app,FALSE
+USR_00711,Rook Inkwell,usr00711@example.test,2025-05-31,Nearia,18-24,organic_search,web_mobile,FALSE
+USR_00712,Emery Checkwell,usr00712@example.test,2023-03-24,United Kingdom,45-54,paid_social,iOS_app,FALSE
+USR_00713,Rook Sampleridge,usr00713@example.test,2025-02-16,Brazil,65+,paid_social,web_mobile,FALSE
+USR_00714,Wiley Cottontail,usr00714@example.test,2022-05-01,Latoria,45-54,organic_search,web_mobile,FALSE
+USR_00715,Wiley Storyfield,usr00715@example.test,2023-04-27,United Kingdom,25-34,organic_search,web_desktop,FALSE
+USR_00716,Buzzy Fable,usr00716@example.test,2024-04-03,United States,25-34,email_campaign,web_mobile,FALSE
+USR_00717,Lumen Skyward,usr00717@example.test,2026-04-05,Canada,65+,referral,web_desktop,FALSE
+USR_00718,Lumen Inkwell,usr00718@example.test,2021-08-29,United States,13-17,email_campaign,unknown_device,FALSE
+USR_00719,Jory Storyfield,usr00719@example.test,2026-08-29,United States,25-34,email_campaign,web_desktop,FALSE
+USR_00720,Zephyr Noll,usr00720@example.test,2023-12-03,Germany,25-34,email_campaign,web_mobile,FALSE
+USR_00721,Moxie Ninetree,usr00721@example.test,2022-08-04,Gondale,55-64,email_campaign,unknown_device,FALSE
+USR_00722,Finley Holdsworth,usr00722@example.test,2025-10-28,United Kingdom,25-34,organic_search,web_mobile,FALSE
+USR_00723,Fable Fable,usr00723@example.test,2022-09-12,Eloria,25-34,email_campaign,web_desktop,FALSE
+USR_00724,Finley Prairiefox,usr00724@example.test,2021-05-27,United Kingdom,18-24,email_campaign,iOS_app,FALSE
+USR_00725,Xeno Fable,usr00725@example.test,2024-12-31,Hogglewick,999,email_campaign,smart_toaster,FALSE
+USR_00726,Emery Prairiefox,usr00726@example.test,2023-04-15,Eloria,18-24,email_campaign,web_mobile,FALSE
+USR_00727,Buzzy Noll,usr00727@example.test,2025-09-02,Zubria,13-17,paid_social,iOS_app,FALSE
+USR_00728,Rook Sampleridge,usr00728@example.test,2025-06-03,Gondale,13-17,organic_search,iOS_app,FALSE
+USR_00729,Finley Trialton,usr00729@example.test,2026-02-03,Wavanda,25-34,paid_social,iOS_app,FALSE
+USR_00730,Fable Storyfield,usr00730@example.test,2023-05-16,Wavanda,18-24,organic_search,web_desktop,FALSE
+USR_00731,Buzzy Skyward,usr00731@example.test,2023-11-12,Nearia,35-44,email_campaign,iOS_app,FALSE
+USR_00732,Fable Meadowson,usr00732@example.test,2024-03-13,Latoria,55-64,organic_search,iOS_app,FALSE
+USR_00733,Moxie Beetlebrook,usr00733@example.test,2022-06-22,Australia,13-17,,Android_app,FALSE
+USR_00734,Juno Beetlebrook,usr00734@example.test,2025-09-29,United Kingdom,65+,influencer_TEST_CAMPAIGN,web_mobile,FALSE
+USR_00735,Fable Meadowson,usr00735@example.test,2026-03-14,Brazil,55-64,paid_social,Android_app,FALSE
+USR_00736,Xeno Storyfield,usr00736@example.test,2025-11-27,Gondale,45-54,email_campaign,Android_app,FALSE
+USR_00737,Pacey Fableton,usr00737@example.test,2024-04-25,Brazil,18-24,,Android_app,FALSE
+USR_00738,Finley Beetlebrook,usr00738@example.test,2026-03-19,Altara,55-64,paid_social,Android_app,FALSE
+USR_00739,Jory Checkwell,usr00739@example.test,2023-01-06,United Kingdom,45-54,email_campaign,web_desktop,FALSE
+USR_00740,Finley Ninetree,usr00740@example.test,2026-01-17,Eloria,25-34,organic_search,Android_app,FALSE
+USR_00741,Marlo Trialton,usr00741@example.test,2022-03-12,Canada,18-24,paid_social,Android_app,FALSE
+USR_00742,Tully Noll,usr00742@example.test,2026-02-28,United States,65+,referral,iOS_app,FALSE
+USR_00743,Wiley Sampleridge,usr00743@example.test,2022-07-08,Eloria,13-17,organic_search,Android_app,TRUE
+USR_00744,Fable Cottontail,usr00744@example.test,2023-09-18,Latoria,45-54,email_campaign,web_mobile,FALSE
+USR_00745,Emery Meadowson,usr00745@example.test,2021-03-31,Australia,13-17,paid_social,iOS_app,FALSE
+USR_00746,Rook Skyward,usr00746@example.test,2023-04-05,Zubria,13-17,paid_social,web_mobile,FALSE
+USR_00747,Rook Storyfield,usr00747@example.test,2025-08-30,Australia,65+,email_campaign,Android_app,FALSE
+USR_00748,Zephyr Trialton,usr00748@example.test,2023-08-08,Zubria,45-54,influencer_TEST_CAMPAIGN,web_desktop,FALSE
+USR_00749,Xeno Beetlebrook,usr00749@example.test,2026-04-23,United Kingdom,13-17,email_campaign,iOS_app,FALSE
+USR_00750,Quinn Inkwell,usr00750@example.test,2026-04-07,Zubria,13-17,email_campaign,web_desktop,FALSE
+USR_00751,Fable Beetlebrook,usr00751@example.test,2025-05-18,Wondervale,25-34,paid_social,web_desktop,FALSE
+USR_00752,Emery Cottontail,usr00752@example.test,2026-06-01,Australia,18-24,email_campaign,Android_app,FALSE
+USR_00753,Marlo Checkwell,usr00753@example.test,2023-08-20,United States,45-54,referral,Android_app,FALSE
+USR_00754,Pacey Fableton,usr00754@example.test,2022-12-17,United Kingdom,18-24,organic_search,iOS_app,FALSE
+USR_00755,Lumen Beetlebrook,usr00755@example.test,2026-06-16,Japan,45-54,referral,web_mobile,FALSE
+USR_00756,Quinn Sampleridge,usr00756@example.test,2021-07-26,Hogglewick,55-64,organic_search,Android_app,FALSE
+USR_00757,Moxie Cottontail,usr00757@example.test,2022-11-16,Wondervale,45-54,paid_social,iOS_app,FALSE
+USR_00758,Fable Beetlebrook,usr00758@example.test,2022-02-11,Gondale,18-24,organic_search,iOS_app,FALSE
+USR_00759,Xeno Ninetree,usr00759@example.test,2021-01-27,Brazil,25-34,organic_search,Android_app,FALSE
+USR_00760,Fable Inkwell,usr00760@example.test,2025-08-27,Brazil,65+,organic_search,iOS_app,FALSE
+USR_00761,Quinn Beetlebrook,usr00761@example.test,2025-08-21,Germany,25-34,referral,Android_app,FALSE
+USR_00762,Lumen Skyward,usr00762@example.test,2021-12-14,United Kingdom,13-17,email_campaign,iOS_app,FALSE
+USR_00763,Zephyr Storyfield,usr00763@example.test,2021-08-25,Canada,999,email_campaign,web_mobile,FALSE
+USR_00764,Finley Meadowson,usr00764@example.test,2024-11-10,Germany,35-44,paid_social,iOS_app,FALSE
+USR_00765,Bowie Fableton,usr00765@example.test,2025-07-15,Japan,55-64,organic_search,web_mobile,FALSE
+USR_00766,Sunny Storyfield,usr00766@example.test,2024-03-08,Wondervale,13-17,referral,web_desktop,FALSE
+USR_00767,Juno Sampleridge,usr00767@example.test,2023-09-16,United States,45-54,email_campaign,web_mobile,FALSE
+USR_00768,Bowie Trialton,usr00768@example.test,2022-05-26,Zubria,35-44,organic_search,iOS_app,FALSE
+USR_00769,Denny Skyward,usr00769@example.test,2024-03-11,Hogglewick,55-64,organic_search,iOS_app,FALSE
+USR_00770,Juno Sander,usr00770@example.test,2022-02-06,Altara,13-17,paid_social,web_mobile,FALSE
+USR_00771,Sunny Beetlebrook,usr00771@example.test,2023-05-30,Japan,18-24,organic_search,web_desktop,FALSE
+USR_00772,Xeno Sander,usr00772@example.test,2025-10-01,Gondale,65+,email_campaign,Android_app,FALSE
+USR_00773,Zephyr Sampleridge,usr00773@example.test,2022-06-14,Germany,55-64,referral,web_desktop,FALSE
+USR_00774,Tully Sander,usr00774@example.test,2025-02-21,Hogglewick,55-64,email_campaign,web_desktop,FALSE
+USR_00775,Bowie Beetlebrook,usr00775@example.test,2022-04-28,Latoria,35-44,organic_search,iOS_app,FALSE
+USR_00776,Bowie Storyfield,usr00776@example.test,2025-09-24,Wondervale,65+,influencer_TEST_CAMPAIGN,web_mobile,FALSE
+USR_00777,Juno Noll,usr00777@example.test,2021-10-04,Germany,55-64,paid_social,web_desktop,FALSE
+USR_00778,Fable Fable,usr00778@example.test,2022-07-22,Germany,25-34,organic_search,Android_app,FALSE
+USR_00779,Jory Ninetree,usr00779@example.test,2025-05-06,Germany,45-54,organic_search,Android_app,FALSE
+USR_00780,Fable Sampleridge,usr00780@example.test,2024-06-19,Eloria,35-44,paid_social,web_desktop,FALSE
+USR_00781,Tessa Sampleridge,usr00781@example.test,2026-05-04,Nearia,45-54,paid_social,web_desktop,FALSE
+USR_00782,Tully Ninetree,usr00782@example.test,2021-12-13,Wavanda,25-34,carrier_pigeon,web_desktop,FALSE
+USR_00783,Tessa Ninetree,usr00783@example.test,2023-01-10,Genora,18-24,paid_social,web_desktop,FALSE
+USR_00784,Emery Holdsworth,usr00784@example.test,2024-03-14,Gondale,45-54,carrier_pigeon,Android_app,FALSE
+USR_00785,Lumen Prairiefox,usr00785@example.test,2021-08-30,Wavanda,45-54,organic_search,web_mobile,FALSE
+USR_00786,Lumen Holdsworth,usr00786@example.test,2022-08-07,Hogglewick,13-17,email_campaign,unknown_device,FALSE
+USR_00787,Zephyr Skyward,usr00787@example.test,2026-07-13,Genora,13-17,referral,Android_app,FALSE
+USR_00788,Tessa Sander,usr00788@example.test,2021-09-26,Nearia,45-54,organic_search,Android_app,FALSE
+USR_00789,Juno Fable,usr00789@example.test,2024-06-01,Brazil,35-44,organic_search,web_desktop,FALSE
+USR_00790,Juno Fable,usr00790@example.test,2023-10-02,Nearia,13-17,organic_search,Android_app,FALSE
+USR_00791,Xeno Holdsworth,usr00791@example.test,2021-01-03,Canada,55-64,influencer_TEST_CAMPAIGN,Android_app,FALSE
+USR_00792,Marlo Fableton,usr00792@example.test,2021-07-06,Altara,65+,paid_social,iOS_app,FALSE
+USR_00793,Tully Ninetree,usr00793@example.test,2025-11-05,Genora,N/A,referral,iOS_app,FALSE
+USR_00794,Quinn Ninetree,usr00794@example.test,2024-10-31,Gondale,13-17,organic_search,web_desktop,FALSE
+USR_00795,Marlo Noll,usr00795@example.test,2022-12-12,Japan,18-24,organic_search,web_desktop,FALSE
+USR_00796,Izzy Skyward,usr00796@example.test,2025-12-29,Canada,25-34,organic_search,web_desktop,FALSE
+USR_00797,Quinn Trialton,usr00797@example.test,2025-02-26,Nearia,45-54,referral,Android_app,FALSE
+USR_00798,Buzzy Noll,usr00798@example.test,2024-05-26,Wavanda,45-54,email_campaign,Android_app,FALSE
+USR_00799,Fable Skyward,usr00799@example.test,2021-01-30,Genora,25-34,organic_search,Android_app,FALSE
+USR_00800,Rook Meadowson,usr00800@example.test,2022-12-20,Gondale,45-54,paid_social,web_mobile,FALSE
+USR_00697,Finley Meadowson,usr00697@example.test,2023-04-08,Genora,45-54,referral,Android_app,FALSE
+USR_00668,Emery Beetlebrook,usr00668@example.test,2025-12-06,United Kingdom,35-44,email_campaign,web_mobile,FALSE
+USR_00064,Wiley Beetlebrook,usr00064@example.test,2025-08-20,Germany,13-17,organic_search,web_desktop,FALSE
+USR_00534,Tully Holdsworth,usr00534@example.test,2023-04-11,Germany,25-34,organic_search,web_desktop,FALSE
+USR_00067,Juno Noll,usr00067@example.test,2026-09-16,Freelandia,55-64,referral,web_mobile,FALSE
+USR_00622,Rook Noll,usr00622@example.test,2026-06-27,Genora,13-17,paid_social,Android_app,FALSE
