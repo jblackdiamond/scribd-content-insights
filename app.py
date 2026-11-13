@@ -74,7 +74,7 @@ def answer(q):
     dfc=D['catalog_creators'];cats=dfc.category.tolist()
     cat=category_filter(q,cats)
     if re.search(r'\bmrr\b|monthly recurring revenue|\barr\b|\brevenue\b',x):
-        return refuse('I can’t certify recurring revenue from these data.','Anomalous prices and uncertain annual/lifetime billing semantics prevent a trustworthy MRR calculation.','MRR: WITHHELD. Prices include -$9.99 and $999.99; billing cycles and recognized revenue are not certified.')
+        return refuse('I can’t reliably calculate monthly recurring revenue (MRR) from this data.','Anomalous prices and uncertain annual/lifetime billing semantics prevent a trustworthy MRR calculation.','MRR: WITHHELD. Prices include -$9.99 and $999.99; billing cycles and recognized revenue are not certified.')
     if 'completion rate' in x or 'finish rate' in x:
         return refuse('I can’t verify a completion rate.','Content-open tracking is inconsistent with completion events; the denominator is not reliable.','COMPLETION_RATE: WITHHELD. Source: engagement event audit.')
     if 'duration' in x or 'time spent' in x or ('how much time' in x and ('read' in x or 'listen' in x)):
@@ -231,7 +231,9 @@ def render(r):
     if r.get('important'):
         st.info('**Important to know**\n\n'+r['important'],icon='ℹ️')
     with st.expander('View technical details'):
-        st.write(r['detail'])
+        parts = [part.strip() for part in re.split(r';\s*|(?<=\.)\s+(?=[A-Z])', r['detail']) if part.strip()]
+        for part in parts:
+            st.markdown(f'- {part}')
 
 st.title('📚 Scribd Content Insights')
 st.caption('Conversational analytics prototype · synthetic exercise data · certified metric calculations')
