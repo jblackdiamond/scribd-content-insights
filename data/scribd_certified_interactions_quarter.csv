@@ -1,0 +1,491 @@
+quarter,category,event_type,event_count
+2021Q3,Fantasy,like,1
+2021Q3,Self-Help,like,1
+2021Q4,Cooking,download,1
+2022Q1,Fantasy,like,1
+2022Q2,Fake History of Imaginary Countries,download,1
+2022Q2,Fake History of Imaginary Countries,like,1
+2022Q2,Fantasy,download,1
+2022Q3,Fantasy,download,1
+2022Q3,General Nonsense,download,1
+2022Q3,Mystery,like,1
+2022Q3,Serialized Drama,like,1
+2022Q4,Ask the Community,like,1
+2022Q4,Book Club Chatter,share,1
+2022Q4,Fake History of Imaginary Countries,download,1
+2022Q4,Fake History of Imaginary Countries,share,1
+2022Q4,Fantasy,download,1
+2022Q4,How-To Guides,download,1
+2022Q4,How-To Guides,like,1
+2022Q4,Indie Fiction,download,1
+2022Q4,Memes About Reading,like,1
+2022Q4,Self-Help,share,1
+2023Q1,Ask the Community,share,1
+2023Q1,Cooking,share,1
+2023Q1,Fantasy,like,1
+2023Q1,Fantasy,share,1
+2023Q1,Memes About Reading,download,1
+2023Q1,Mystery,download,1
+2023Q1,Mystery,share,1
+2023Q1,Sci-Fi,share,1
+2023Q1,Self-Help,share,1
+2023Q1,Serialized Drama,like,1
+2023Q2,Ask the Community,download,1
+2023Q2,Fake History of Imaginary Countries,share,1
+2023Q2,Fan Theories,like,3
+2023Q2,Fantasy,share,1
+2023Q2,General Nonsense,download,1
+2023Q2,Mystery,like,1
+2023Q2,Self-Help,download,2
+2023Q2,Self-Help,share,1
+2023Q2,Serialized Drama,download,1
+2023Q3,Ask the Community,like,1
+2023Q3,Cooking,like,1
+2023Q3,Cooking,share,1
+2023Q3,Fake History of Imaginary Countries,like,1
+2023Q3,Fan Theories,download,1
+2023Q3,Fan Theories,share,1
+2023Q3,Fantasy,download,1
+2023Q3,Fantasy,like,2
+2023Q3,General Nonsense,like,1
+2023Q3,General Nonsense,share,1
+2023Q3,Indie Fiction,like,1
+2023Q3,Memes About Reading,share,2
+2023Q3,Mystery,like,1
+2023Q3,Mystery,share,1
+2023Q3,Self-Help,download,1
+2023Q3,Serialized Drama,share,1
+2023Q4,Ask the Community,like,1
+2023Q4,Ask the Community,share,1
+2023Q4,Book Club Chatter,like,1
+2023Q4,Cooking,download,1
+2023Q4,Fake History of Imaginary Countries,download,1
+2023Q4,Fake History of Imaginary Countries,share,1
+2023Q4,Fan Theories,download,1
+2023Q4,Fantasy,download,1
+2023Q4,Fantasy,like,2
+2023Q4,Fantasy,share,2
+2023Q4,General Nonsense,download,1
+2023Q4,General Nonsense,like,1
+2023Q4,Indie Fiction,download,1
+2023Q4,Indie Fiction,share,1
+2023Q4,Memes About Reading,download,1
+2023Q4,Mystery,download,1
+2023Q4,Mystery,share,2
+2023Q4,Self-Help,like,1
+2023Q4,Serialized Drama,share,1
+2024Q1,Ask the Community,like,2
+2024Q1,Ask the Community,share,1
+2024Q1,Book Club Chatter,like,2
+2024Q1,Cooking,download,1
+2024Q1,Cooking,like,1
+2024Q1,Fake History of Imaginary Countries,like,2
+2024Q1,Fake History of Imaginary Countries,share,1
+2024Q1,Fan Theories,download,2
+2024Q1,Fan Theories,like,1
+2024Q1,Fan Theories,share,2
+2024Q1,Fantasy,like,1
+2024Q1,General Nonsense,download,1
+2024Q1,General Nonsense,share,1
+2024Q1,Indie Fiction,share,1
+2024Q1,Memes About Reading,like,1
+2024Q1,Mystery,download,1
+2024Q1,Mystery,like,1
+2024Q1,Mystery,share,2
+2024Q1,Romance,share,2
+2024Q1,Sci-Fi,like,1
+2024Q1,Self-Help,like,1
+2024Q1,Self-Help,share,1
+2024Q2,Ask the Community,like,1
+2024Q2,Ask the Community,share,1
+2024Q2,Book Club Chatter,download,1
+2024Q2,Cooking,like,1
+2024Q2,Definitely Not Fan Fiction,share,1
+2024Q2,Fake History of Imaginary Countries,download,1
+2024Q2,Fake History of Imaginary Countries,like,1
+2024Q2,Fake History of Imaginary Countries,share,1
+2024Q2,Fan Theories,download,1
+2024Q2,Fan Theories,share,1
+2024Q2,Fantasy,download,2
+2024Q2,Fantasy,share,1
+2024Q2,General Nonsense,download,2
+2024Q2,How-To Guides,share,1
+2024Q2,Indie Fiction,download,1
+2024Q2,Memes About Reading,like,1
+2024Q2,Memes About Reading,share,1
+2024Q2,Mystery,download,1
+2024Q2,Mystery,like,2
+2024Q2,Poetry (Bad),share,1
+2024Q2,Sci-Fi,like,1
+2024Q2,Self-Help,download,1
+2024Q2,Self-Help,share,1
+2024Q2,Serialized Drama,like,2
+2024Q3,Ask the Community,download,2
+2024Q3,Ask the Community,like,1
+2024Q3,Ask the Community,share,2
+2024Q3,Book Club Chatter,download,1
+2024Q3,Book Club Chatter,like,1
+2024Q3,Book Club Chatter,share,1
+2024Q3,Cooking,like,1
+2024Q3,Definitely Not Fan Fiction,download,1
+2024Q3,Definitely Not Fan Fiction,like,1
+2024Q3,Fake History of Imaginary Countries,download,1
+2024Q3,Fake History of Imaginary Countries,like,1
+2024Q3,Fake History of Imaginary Countries,share,1
+2024Q3,Fan Theories,download,2
+2024Q3,Fan Theories,share,1
+2024Q3,General Nonsense,download,1
+2024Q3,How-To Guides,download,1
+2024Q3,How-To Guides,share,1
+2024Q3,Indie Fiction,like,1
+2024Q3,Mystery,download,1
+2024Q3,Mystery,share,3
+2024Q3,Romance,download,1
+2024Q3,Romance,share,2
+2024Q3,Sci-Fi,download,1
+2024Q3,Sci-Fi,share,1
+2024Q3,Self-Help,download,1
+2024Q3,Self-Help,like,2
+2024Q3,Serialized Drama,download,1
+2024Q4,Ask the Community,download,1
+2024Q4,Ask the Community,like,1
+2024Q4,Ask the Community,share,5
+2024Q4,Book Club Chatter,share,1
+2024Q4,Cooking,like,2
+2024Q4,Definitely Not Fan Fiction,download,2
+2024Q4,Definitely Not Fan Fiction,like,1
+2024Q4,Fake History of Imaginary Countries,download,1
+2024Q4,Fan Theories,like,2
+2024Q4,Fan Theories,share,1
+2024Q4,Fantasy,share,1
+2024Q4,General Nonsense,download,3
+2024Q4,General Nonsense,like,1
+2024Q4,How-To Guides,like,1
+2024Q4,How-To Guides,share,1
+2024Q4,Indie Fiction,like,2
+2024Q4,Indie Fiction,share,1
+2024Q4,Memes About Reading,download,1
+2024Q4,Memes About Reading,like,1
+2024Q4,Mystery,like,2
+2024Q4,Romance,share,1
+2024Q4,Sci-Fi,download,3
+2024Q4,Sci-Fi,like,1
+2024Q4,Sci-Fi,share,1
+2024Q4,Self-Help,download,1
+2024Q4,Self-Help,share,2
+2024Q4,Serialized Drama,share,1
+2025Q1,Ask the Community,download,3
+2025Q1,Ask the Community,like,1
+2025Q1,Ask the Community,share,3
+2025Q1,Book Club Chatter,download,1
+2025Q1,Book Club Chatter,like,1
+2025Q1,Book Club Chatter,share,1
+2025Q1,Cooking,share,1
+2025Q1,Definitely Not Fan Fiction,like,1
+2025Q1,Fake History of Imaginary Countries,download,4
+2025Q1,Fake History of Imaginary Countries,like,2
+2025Q1,Fake History of Imaginary Countries,share,1
+2025Q1,Fan Theories,like,2
+2025Q1,Fan Theories,share,1
+2025Q1,Fantasy,download,1
+2025Q1,Fantasy,like,1
+2025Q1,Fantasy,share,2
+2025Q1,General Nonsense,download,4
+2025Q1,General Nonsense,like,2
+2025Q1,General Nonsense,share,1
+2025Q1,How-To Guides,download,1
+2025Q1,How-To Guides,like,1
+2025Q1,How-To Guides,share,1
+2025Q1,Indie Fiction,download,1
+2025Q1,Indie Fiction,like,2
+2025Q1,Indie Fiction,share,2
+2025Q1,Memes About Reading,download,1
+2025Q1,Memes About Reading,like,1
+2025Q1,Mystery,download,2
+2025Q1,Mystery,like,1
+2025Q1,Mystery,share,3
+2025Q1,Poetry (Bad),download,2
+2025Q1,Romance,like,2
+2025Q1,Romance,share,1
+2025Q1,Sci-Fi,download,1
+2025Q1,Sci-Fi,like,1
+2025Q1,Sci-Fi,share,1
+2025Q1,Self-Help,download,1
+2025Q1,Self-Help,like,3
+2025Q1,Self-Help,share,3
+2025Q1,Serialized Drama,like,1
+2025Q2,Ask the Community,download,4
+2025Q2,Ask the Community,like,3
+2025Q2,Ask the Community,share,4
+2025Q2,Book Club Chatter,like,2
+2025Q2,Cooking,like,1
+2025Q2,Definitely Not Fan Fiction,download,2
+2025Q2,Fake History of Imaginary Countries,download,1
+2025Q2,Fake History of Imaginary Countries,like,1
+2025Q2,Fan Theories,download,2
+2025Q2,Fan Theories,like,2
+2025Q2,Fan Theories,share,3
+2025Q2,Fantasy,download,1
+2025Q2,Fantasy,like,2
+2025Q2,Fantasy,share,2
+2025Q2,General Nonsense,like,1
+2025Q2,General Nonsense,share,2
+2025Q2,How-To Guides,download,4
+2025Q2,How-To Guides,like,2
+2025Q2,How-To Guides,share,1
+2025Q2,Indie Fiction,download,2
+2025Q2,Indie Fiction,like,2
+2025Q2,Memes About Reading,download,1
+2025Q2,Memes About Reading,like,2
+2025Q2,Mystery,download,4
+2025Q2,Mystery,like,6
+2025Q2,Mystery,share,1
+2025Q2,Poetry (Bad),download,1
+2025Q2,Romance,download,1
+2025Q2,Romance,like,1
+2025Q2,Romance,share,1
+2025Q2,Sci-Fi,download,2
+2025Q2,Sci-Fi,like,3
+2025Q2,Sci-Fi,share,1
+2025Q2,Self-Help,download,2
+2025Q2,Self-Help,like,2
+2025Q2,Serialized Drama,download,3
+2025Q2,Serialized Drama,like,2
+2025Q2,Serialized Drama,share,2
+2025Q3,Ask the Community,download,3
+2025Q3,Ask the Community,like,1
+2025Q3,Ask the Community,share,1
+2025Q3,Book Club Chatter,download,2
+2025Q3,Book Club Chatter,share,4
+2025Q3,Cooking,download,1
+2025Q3,Definitely Not Fan Fiction,download,2
+2025Q3,Fake History of Imaginary Countries,download,4
+2025Q3,Fan Theories,download,2
+2025Q3,Fan Theories,like,1
+2025Q3,Fan Theories,share,2
+2025Q3,Fantasy,download,3
+2025Q3,Fantasy,like,3
+2025Q3,Fantasy,share,1
+2025Q3,General Nonsense,download,1
+2025Q3,General Nonsense,like,1
+2025Q3,General Nonsense,share,1
+2025Q3,How-To Guides,like,2
+2025Q3,How-To Guides,share,2
+2025Q3,Indie Fiction,download,1
+2025Q3,Indie Fiction,like,1
+2025Q3,Indie Fiction,share,5
+2025Q3,Memes About Reading,download,1
+2025Q3,Memes About Reading,like,2
+2025Q3,Memes About Reading,share,3
+2025Q3,Mystery,download,2
+2025Q3,Mystery,like,2
+2025Q3,Mystery,share,1
+2025Q3,Poetry (Bad),like,2
+2025Q3,Romance,download,2
+2025Q3,Romance,like,2
+2025Q3,Sci-Fi,download,3
+2025Q3,Sci-Fi,like,1
+2025Q3,Sci-Fi,share,4
+2025Q3,Self-Help,download,2
+2025Q3,Self-Help,like,3
+2025Q3,Self-Help,share,3
+2025Q3,Serialized Drama,download,1
+2025Q3,Serialized Drama,like,3
+2025Q3,Serialized Drama,share,1
+2025Q4,Ask the Community,download,4
+2025Q4,Ask the Community,like,6
+2025Q4,Ask the Community,share,5
+2025Q4,Book Club Chatter,download,4
+2025Q4,Book Club Chatter,like,2
+2025Q4,Book Club Chatter,share,3
+2025Q4,Cooking,download,3
+2025Q4,Cooking,like,5
+2025Q4,Definitely Not Fan Fiction,download,5
+2025Q4,Definitely Not Fan Fiction,like,4
+2025Q4,Definitely Not Fan Fiction,share,2
+2025Q4,Fake History of Imaginary Countries,download,5
+2025Q4,Fake History of Imaginary Countries,like,3
+2025Q4,Fake History of Imaginary Countries,share,6
+2025Q4,Fan Theories,download,3
+2025Q4,Fan Theories,share,4
+2025Q4,Fantasy,download,5
+2025Q4,Fantasy,like,3
+2025Q4,General Nonsense,download,1
+2025Q4,General Nonsense,like,1
+2025Q4,General Nonsense,share,3
+2025Q4,How-To Guides,like,2
+2025Q4,How-To Guides,share,2
+2025Q4,Indie Fiction,download,7
+2025Q4,Indie Fiction,like,3
+2025Q4,Indie Fiction,share,4
+2025Q4,Memes About Reading,download,3
+2025Q4,Memes About Reading,like,1
+2025Q4,Memes About Reading,share,1
+2025Q4,Mystery,download,4
+2025Q4,Mystery,like,3
+2025Q4,Poetry (Bad),download,4
+2025Q4,Poetry (Bad),like,1
+2025Q4,Poetry (Bad),share,3
+2025Q4,Romance,download,2
+2025Q4,Romance,like,1
+2025Q4,Sci-Fi,download,2
+2025Q4,Sci-Fi,like,5
+2025Q4,Sci-Fi,share,1
+2025Q4,Self-Help,download,4
+2025Q4,Self-Help,like,4
+2025Q4,Serialized Drama,download,4
+2025Q4,Serialized Drama,like,1
+2025Q4,Serialized Drama,share,4
+2026Q1,Ask the Community,download,7
+2026Q1,Ask the Community,like,4
+2026Q1,Ask the Community,share,2
+2026Q1,Book Club Chatter,download,6
+2026Q1,Book Club Chatter,like,2
+2026Q1,Book Club Chatter,share,2
+2026Q1,Cooking,download,1
+2026Q1,Cooking,like,2
+2026Q1,Cooking,share,2
+2026Q1,Definitely Not Fan Fiction,like,2
+2026Q1,Definitely Not Fan Fiction,share,4
+2026Q1,Fake History of Imaginary Countries,download,2
+2026Q1,Fake History of Imaginary Countries,like,6
+2026Q1,Fake History of Imaginary Countries,share,5
+2026Q1,Fan Theories,download,2
+2026Q1,Fan Theories,share,1
+2026Q1,Fantasy,download,5
+2026Q1,Fantasy,like,9
+2026Q1,Fantasy,share,6
+2026Q1,General Nonsense,download,3
+2026Q1,General Nonsense,like,3
+2026Q1,General Nonsense,share,5
+2026Q1,How-To Guides,download,5
+2026Q1,How-To Guides,like,3
+2026Q1,How-To Guides,share,3
+2026Q1,Indie Fiction,download,8
+2026Q1,Indie Fiction,like,9
+2026Q1,Indie Fiction,share,8
+2026Q1,Memes About Reading,download,4
+2026Q1,Memes About Reading,like,6
+2026Q1,Memes About Reading,share,3
+2026Q1,Mystery,download,4
+2026Q1,Mystery,like,3
+2026Q1,Mystery,share,3
+2026Q1,Poetry (Bad),download,2
+2026Q1,Poetry (Bad),like,1
+2026Q1,Poetry (Bad),share,5
+2026Q1,Romance,like,2
+2026Q1,Romance,share,1
+2026Q1,Sci-Fi,download,7
+2026Q1,Sci-Fi,like,3
+2026Q1,Sci-Fi,share,4
+2026Q1,Self-Help,download,4
+2026Q1,Self-Help,like,2
+2026Q1,Self-Help,share,4
+2026Q1,Serialized Drama,download,1
+2026Q1,Serialized Drama,like,10
+2026Q1,Serialized Drama,share,4
+2026Q2,Ask the Community,download,6
+2026Q2,Ask the Community,like,8
+2026Q2,Ask the Community,share,5
+2026Q2,Book Club Chatter,download,7
+2026Q2,Book Club Chatter,like,4
+2026Q2,Book Club Chatter,share,4
+2026Q2,Cooking,download,4
+2026Q2,Cooking,like,5
+2026Q2,Cooking,share,6
+2026Q2,Definitely Not Fan Fiction,download,1
+2026Q2,Definitely Not Fan Fiction,like,4
+2026Q2,Definitely Not Fan Fiction,share,7
+2026Q2,Fake History of Imaginary Countries,download,4
+2026Q2,Fake History of Imaginary Countries,like,7
+2026Q2,Fake History of Imaginary Countries,share,10
+2026Q2,Fan Theories,download,4
+2026Q2,Fan Theories,like,4
+2026Q2,Fan Theories,share,6
+2026Q2,Fantasy,download,2
+2026Q2,Fantasy,like,4
+2026Q2,Fantasy,share,2
+2026Q2,General Nonsense,download,4
+2026Q2,General Nonsense,like,4
+2026Q2,General Nonsense,share,6
+2026Q2,How-To Guides,download,4
+2026Q2,How-To Guides,like,6
+2026Q2,How-To Guides,share,7
+2026Q2,Indie Fiction,download,9
+2026Q2,Indie Fiction,like,12
+2026Q2,Indie Fiction,share,12
+2026Q2,Memes About Reading,download,8
+2026Q2,Memes About Reading,like,4
+2026Q2,Memes About Reading,share,4
+2026Q2,Mystery,download,6
+2026Q2,Mystery,like,2
+2026Q2,Mystery,share,5
+2026Q2,Poetry (Bad),download,9
+2026Q2,Poetry (Bad),like,7
+2026Q2,Poetry (Bad),share,8
+2026Q2,Romance,download,3
+2026Q2,Romance,like,2
+2026Q2,Romance,share,3
+2026Q2,Sci-Fi,download,4
+2026Q2,Sci-Fi,like,2
+2026Q2,Sci-Fi,share,6
+2026Q2,Self-Help,download,1
+2026Q2,Self-Help,like,3
+2026Q2,Self-Help,share,4
+2026Q2,Serialized Drama,download,11
+2026Q2,Serialized Drama,like,7
+2026Q2,Serialized Drama,share,9
+2026Q3,Ask the Community,download,10
+2026Q3,Ask the Community,like,11
+2026Q3,Ask the Community,share,10
+2026Q3,Book Club Chatter,download,5
+2026Q3,Book Club Chatter,like,6
+2026Q3,Book Club Chatter,share,5
+2026Q3,Cooking,download,4
+2026Q3,Cooking,like,2
+2026Q3,Cooking,share,5
+2026Q3,Definitely Not Fan Fiction,download,9
+2026Q3,Definitely Not Fan Fiction,like,9
+2026Q3,Definitely Not Fan Fiction,share,7
+2026Q3,Fake History of Imaginary Countries,download,13
+2026Q3,Fake History of Imaginary Countries,like,18
+2026Q3,Fake History of Imaginary Countries,share,7
+2026Q3,Fan Theories,download,9
+2026Q3,Fan Theories,like,1
+2026Q3,Fan Theories,share,3
+2026Q3,Fantasy,download,12
+2026Q3,Fantasy,like,10
+2026Q3,Fantasy,share,13
+2026Q3,General Nonsense,download,5
+2026Q3,General Nonsense,like,6
+2026Q3,General Nonsense,share,4
+2026Q3,How-To Guides,download,8
+2026Q3,How-To Guides,like,12
+2026Q3,How-To Guides,share,14
+2026Q3,Indie Fiction,download,20
+2026Q3,Indie Fiction,like,7
+2026Q3,Indie Fiction,share,16
+2026Q3,Memes About Reading,download,6
+2026Q3,Memes About Reading,like,7
+2026Q3,Memes About Reading,share,10
+2026Q3,Mystery,download,6
+2026Q3,Mystery,like,6
+2026Q3,Mystery,share,10
+2026Q3,Poetry (Bad),download,18
+2026Q3,Poetry (Bad),like,14
+2026Q3,Poetry (Bad),share,20
+2026Q3,Romance,download,1
+2026Q3,Romance,like,13
+2026Q3,Romance,share,2
+2026Q3,Sci-Fi,download,8
+2026Q3,Sci-Fi,like,5
+2026Q3,Sci-Fi,share,15
+2026Q3,Self-Help,download,7
+2026Q3,Self-Help,like,6
+2026Q3,Self-Help,share,7
+2026Q3,Serialized Drama,download,25
+2026Q3,Serialized Drama,like,15
+2026Q3,Serialized Drama,share,20
+2026Q4,Cooking,share,1
+2026Q4,Fantasy,like,1
+2026Q4,Sci-Fi,like,1
